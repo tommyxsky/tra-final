@@ -1,4 +1,9 @@
 {
+  "name": "the-retail-apocalypse",
+  "version": "0.0.0",
+  "private": true,
+  "engines": {
+    "node": ">= 7.6.0",
   "name": "tra-final",
   "version": "0.0.0",
   "private": true,
@@ -44,12 +49,13 @@
     "uuid": "3.0.1",
     "validator": "7.0.0"
   },
-  "devDependencies": {
+    "devDependencies": {
     "concurrently": "3.4.0",
     "autoprefixer": "6.7.7",
     "babel-core": "6.24.0",
     "babel-loader": "6.4.0",
     "babel-preset-es2015": "6.24.0",
+    "concurrently": "3.4.0",
     "css-loader": "0.27.3",
     "extract-text-webpack-plugin": "2.1.0",
     "node-sass": "^4.0.0",
@@ -59,4 +65,3 @@
     "webpack": "2.2.1"
   }
 }
-
