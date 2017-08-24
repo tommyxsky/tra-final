@@ -1,12 +1,10 @@
 const express = require('express');
-// controllers needed?
+const storeController = require('./../controllers/storeController');
+
 const { catchErrors } = require('./../handlers/errorHandlers');
 
 const router = express.Router();
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
-});
+router.get('/', storeController.homePage);
 
 module.exports = router;
