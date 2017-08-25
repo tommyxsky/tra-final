@@ -1,7 +1,3 @@
 node_modules
 dist
-<<<<<<< HEAD
-variables.ENV
-=======
 variables.env
->>>>>>> ea764e658f4ce27a158bf44b78456154fab745e3
