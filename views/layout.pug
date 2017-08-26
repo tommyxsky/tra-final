@@ -4,8 +4,8 @@ html
     title= `${title} | ${h.siteName}`
     link(rel='stylesheet', href='/dist/style.css')
     meta(name="viewport" content="width=device-width, initial-scale=1")
-    script(src=`https://maps.googleapis.com/maps/api/js?key=${process.env.MAP_KEY}&libraries=places`)
-    type="text/javascript"
+
+    //type="text/javascript"
   body
     block header
       header HEADER
@@ -19,4 +19,5 @@ html
         p &copy; The Retail Apocalypse
 
     block scripts
+			script(src=`https://maps.googleapis.com/maps/api/js?key=${process.env.MAP_KEY}&libraries=places`)
       script(src="/dist/App.bundle.js")
