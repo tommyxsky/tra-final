@@ -1,13 +1,27 @@
 mixin storeForm(store = {})
+<<<<<<< HEAD
   form(action="/add" method="POST" enctype="multipart/form-data" class="card")
     label(for="name") Name
     input(type="text" name="name")
     label(for="description") Description
     textarea(name="description")
+=======
+  form(action="/add" method="POST" class="card")
+    label(for="name") Name
+    input(type="text" name="name")
+    label(for="description") description
+    textarea(type="text" name="description")
+>>>>>>> bfef9b061c607ab52234fc179296636ecf0a1898
     - const choices = ['Closed', 'Closing', 'Kmart', 'Sears', 'Radioshack', 'Mall']
     ul.tags
       each choice in choices
         .tag.tag__choice
+<<<<<<< HEAD
           input(type="checkbox" id=choice value=choice name="tags")
           label(for=choice) #{choice}
     input(type="submit" value="Save" class="button")
+=======
+           input(type="checkbox" id=choice value=choice name="tags")
+           label(for=choice) #{choice}
+    input(type="submit" value="Save" class="button")
+>>>>>>> bfef9b061c607ab52234fc179296636ecf0a1898
