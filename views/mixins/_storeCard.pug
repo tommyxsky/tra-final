@@ -4,3 +4,5 @@ mixin storeCard(store = {})
       img(src=`/uploads/${store.photo || 'store-closing.jpg'}`)
       h2.title
         a(href=`/store/${store.slug}`) #{store.name}
+    .store__details
+        p= store.description
