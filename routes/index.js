@@ -5,8 +5,9 @@ const { catchErrors } = require('./../handlers/errorHandlers');
 
 const router = express.Router();
 
-router.get('/', storeController.homePage);
+router.get('/', catchErrors(storeController.getStores));
+router.get('/stores', catchErrors(storeController.getStores));
 router.get('/add', storeController.addStore);
-router.post('/add', storeController.createStore);
+router.post('/add', catchErrors(storeController.createStore));
 
 module.exports = router;
