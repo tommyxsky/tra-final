@@ -1,0 +1,32 @@
+html {
+  font-size: 10px;
+}
+
+// more code
+a {
+  color: $black;
+}
+
+// more code
+
+.title {
+  // positioning
+  position: relative;
+  z-index: 2;
+
+  font-size: 40px;
+  line-height: 1.1;
+  margin: 0;
+  transform: skew(0, -3deg);
+  word-wrap: break-word;
+
+  // inline link inside
+  a {
+    background-image: linear-gradient(
+      to right,
+      $yellow-alpha 100%,
+      $yellow-alpha 50%
+    );
+    border-bottom: 0;
+  }
+}

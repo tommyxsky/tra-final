@@ -1,0 +1,14 @@
+pre.error {
+  padding: 5rem;
+  // background: $white;
+  line-height: 3;
+  white-space: pre-line;
+}
+
+.button {
+  border: 0;
+  background: $danger-red; /* update this line */
+  color: $black;
+  font-family: 'Hamurz';
+  font-weight: 600;
+  font-size: 3rem; /* update this line */

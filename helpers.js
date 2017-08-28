@@ -22,5 +22,7 @@ exports.menu = [
   { slug: '/add', title: 'Add' },
   { slug: '/tags', title: 'Tags' },
   { slug: '/top', title: 'Top' },
-  { slug: '/map', title: 'Map' },
+  { slug: '/map', title: 'Map' }
 ];
+
+exports.icon = name => fs.readFileSync(`./public/images/icons/${name}.svg`);
