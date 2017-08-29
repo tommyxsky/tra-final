@@ -12,8 +12,12 @@ exports.addStore = (req, res) => {
 
 exports.createStore = async (req, res) => {
     const store = new Store(req.body);
-        await store.save();
-        res.redirect(`/`);
+    await store.save();
+    req.flash(
+        'success',
+        `Successfully Created ${store.name}. Care to leave a review?`
+    );
+    res.redirect(`/store/${store.slug}`);
 };
 
 exports.getStores = async (req, res) => {
@@ -22,10 +26,11 @@ exports.getStores = async (req, res) => {
 };
 
 exports.editStore = async (req, res) => {
-  // 1. Find the store given the ID
-  const _id = req.params.id;
-  const store = await Store.findOne({ _id });
-  res.json(store);
-  // 2. Confirm they are the owner of the store
-  // 3. Render out the edit form so the user can update their store
+    // 1. Find the store given the ID
+    const _id = req.params.id;
+    const store = await Store.findOne({ _id });
+    res.render('editStore', { title: `Edit ${store.name}`, store });
+
+    // 2. Confirm they are the owner of the store
+    // 3. Render out the edit form so the user can update their store
 };
