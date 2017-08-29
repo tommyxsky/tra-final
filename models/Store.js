@@ -3,17 +3,37 @@ mongoose.Promise = global.Promise;
 const slug = require('slugs');
 
 const storeSchema = new mongoose.Schema({
-    name: {
+  name: {
+    type: String,
+    trim: true,
+    required: 'Please enter a store name'
+  },
+  slug: String,
+  description: {
+    type: String,
+    trim: true
+  },
+  tags: [String],
+  created: {
+    type: Date,
+    default: Date.now
+  },
+  location: {
+    type: {
       type: String,
-      trim: true,
-      required: 'Please enter a store name'
+      default: 'Point'
     },
-    slug: String,
-    description: {
-        type: String,
-        trim: true
-    },
-    tags: [String],
+    coordinated: [
+      {
+        type: Number,
+        required: 'You must supply coordinates'
+      }
+    ],
+    address: {
+      type: String,
+      required: 'You must supple an address'
+    }
+  }
 });
 
 storeSchema.pre('save', function(next) {
@@ -21,7 +41,7 @@ storeSchema.pre('save', function(next) {
     next(); // skip it
     return; // stop this function from running
     // could also just type return next();
-    }
+  }
   this.slug = slug(this.name);
   next();
   // Todo make more resilient so slugs are unique
