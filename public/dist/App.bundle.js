@@ -71,13 +71,75 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
+
+
+var _bling = __webpack_require__(1);
+
+var _autocomplete = __webpack_require__(3);
+
+var _autocomplete2 = _interopRequireDefault(_autocomplete);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
 // import '../sass/style.scss';
 
-// import { $, $$ } from './modules/bling';
-// import autocomplete from './modules/autocomplete';
+(0, _autocomplete2.default)((0, _bling.$)('#address'), (0, _bling.$)('#lat'), (0, _bling.$)('#lng'));
 
-// autocomplete($('#address'), $('#lat'), $('#lng'));
+/***/ }),
+/* 1 */
+/***/ (function(module, exports, __webpack_require__) {
 
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var $ = document.querySelector.bind(document);
+var $$ = document.querySelectorAll.bind(document);
+
+Node.prototype.on = window.on = function (name, fn) {
+  this.addEventListener(name, fn);
+};
+
+NodeList.prototype.__proto__ = Array.prototype; // eslint-disable-line
+
+NodeList.prototype.on = NodeList.prototype.addEventListener = function (name, fn) {
+  this.forEach(function (elem) {
+    elem.on(name, fn);
+  });
+};
+
+exports.$ = $;
+exports.$$ = $$;
+
+/***/ }),
+/* 2 */,
+/* 3 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+function autocomplete(input, latInput, lngInput) {
+  if (!input) return; // skip this function from running if there is no address input
+  var dropdown = new google.maps.places.Autocomplete(input);
+
+  dropdown.addListener('place_changed', function () {
+    var place = dropdown.getPlace();
+    latInput.value = place.geometry.location.lat();
+    lngInput.value = place.geometry.location.lng();
+  });
+  // if someone hits enter on the address field, don't submit the form
+  input.on('keydown', function (evt) {
+    if (evt.keyCode === 13) evt.preventDefault();
+  });
+}
+
+exports.default = autocomplete;
 
 /***/ })
 /******/ ]);
