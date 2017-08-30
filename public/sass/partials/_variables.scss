@@ -1,6 +1,9 @@
-// Add our variables here
-
-$black::after #000000;
-
-$danger-yellow: #FF991C;
-$yellow-alpha: rgba($danger-yellow,0.8);
+$black: #101713;
+$white: #faebd7;
+$width: 800px;
+$danger-red: #c91800;
+$danger-yellow: #ff991c;
+$danger-orange: #ed4613;
+$danger-grey: #2b362b;
+$grey: lighten(grey, 40%);
+$shad: 0 0 10px rgba(0, 0, 0, 0.1), 0 5px 10px rgba(0, 0, 0, 0.05);
