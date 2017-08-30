@@ -2,9 +2,8 @@ doctype html
 html
   head
     title= `${title} | ${h.siteName}`
-    link(rel='stylesheet', href='/dist/style.css')
+    //- link(rel='stylesheet', href='/dist/style.css')
     meta(name="viewport" content="width=device-width, initial-scale=1")
-
   body
     block header
       header HEADER
@@ -19,15 +18,13 @@ html
               each message in flashes[category]
                 .flash(class=`flash--${category}`)
                   p.flash__text!= message
-                  button.flash__remove(onClick="this.parentElement.remove()") &times;				
-
+                  button.flash__remove(onClick="this.parentElement.remove()") &times;
     .content
       block content
 
-    footer
       block footer
         p &copy; The Retail Apocalypse
 
-    block scripts
-  script(src=`https://maps.googleapis.com/maps/api/js?key=${process.env.MAP_KEY}&libraries=places`)
-  script(src="/dist/App.bundle.js")
+      block scripts
+            script(src=`https://maps.googleapis.com/maps/api/js?key=${process.env.MAP_KEY}&libraries=places`)
+            script(src="/dist/App.bundle.js")
