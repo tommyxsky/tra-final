@@ -2,13 +2,13 @@ doctype html
 html
   head
     title= `${title} | ${h.siteName}`
-    //- link(rel='stylesheet', href='/dist/style.css')
+    link(rel='stylesheet', href='/dist/style.css')
     meta(name="viewport" content="width=device-width, initial-scale=1")
   body
     block header
       header HEADER
         nav.nav NAVBAR
-        
+
     block messages
       if locals.flashes
         .inner
