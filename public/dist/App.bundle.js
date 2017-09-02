@@ -125,7 +125,7 @@ exports.$$ = $$;
 /* 2 */
 /***/ (function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+throw new Error("Module build failed: Error\n    at /Users/tommy/Desktop/tra-final/node_modules/webpack/lib/NormalModule.js:208:34\n    at /Users/tommy/Desktop/tra-final/node_modules/webpack/lib/NormalModule.js:162:10\n    at /Users/tommy/Desktop/tra-final/node_modules/loader-runner/lib/LoaderRunner.js:370:3\n    at iterateNormalLoaders (/Users/tommy/Desktop/tra-final/node_modules/loader-runner/lib/LoaderRunner.js:211:10)\n    at /Users/tommy/Desktop/tra-final/node_modules/loader-runner/lib/LoaderRunner.js:202:4\n    at /Users/tommy/Desktop/tra-final/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:70:14\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)");
 
 /***/ }),
 /* 3 */

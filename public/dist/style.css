@@ -131,4 +131,16 @@ body {
   .flash p {
     margin: 0; }
 
+.nav__item {
+  list-style-type: none;
+  display: inline;
+  float: right;
+  padding: 10px 20px 10px 20px;
+  margin: 5px; }
+
+.top {
+  background-color: grey;
+  width: 10px;
+  height: 10px; }
+
 /*# sourceMappingURL=style.css.map*/
