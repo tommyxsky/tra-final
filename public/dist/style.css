@@ -1,6 +1,6 @@
 /*We will import all our sass files here*/
 .card {
-  background: #ff991c;
+  background: #FF991C;
   padding: 5rem;
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.15); }
 
@@ -11,8 +11,7 @@ pre.error {
 
 .button {
   border: 0;
-  background: #c91800;
-  /* update this line */
+  background: #C91800;
   color: #101713;
   font-family: 'Hamurz';
   font-weight: 600;
@@ -50,9 +49,9 @@ pre.error {
         background: #e6e6e6;
         padding: 1rem 1rem 1rem 4rem; }
       .tag__choice input:checked + label {
-        background: #ed4613; }
+        background: #ED4613; }
   .tag__link {
-    background: #ed4613;
+    background: #ED4613;
     color: #101713;
     display: -ms-flexbox;
     display: flex;
@@ -109,7 +108,7 @@ body {
     background: none;
     border: 0; }
     .flash__remove:hover {
-      color: #ff991c; }
+      color: #FF991C; }
   .flash:after {
     content: '';
     display: block;
@@ -131,16 +130,20 @@ body {
   .flash p {
     margin: 0; }
 
+body {
+  /* The image used */
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
 .nav__item {
   list-style-type: none;
   display: inline;
   float: right;
   padding: 10px 20px 10px 20px;
   margin: 5px; }
-
-.top {
-  background-color: grey;
-  width: 10px;
-  height: 10px; }
 
 /*# sourceMappingURL=style.css.map*/
