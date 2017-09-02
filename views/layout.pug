@@ -2,13 +2,19 @@ doctype html
 html
   head
     title= `${title} | ${h.siteName}`
-    link(rel='stylesheet', href='/dist/style.css')
+    link(rel='stylesheet', href='/dist/styles.css')
     meta(name="viewport" content="width=device-width, initial-scale=1")
 
   body
     block header
       header HEADER
         nav.nav NAVBAR
+        each item in h.menu
+          li.nav__item
+            a.nav__link(href=item.slug)
+              span #{item.title}
+                a.nav__link.nav__link--logo(href="/")
+                  | The Retail Apocalypse
 
     .content
       block content
