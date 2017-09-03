@@ -6,22 +6,12 @@ html
     meta(name="viewport" content="width=device-width, initial-scale=1")
   body
     block header
-<<<<<<< HEAD
+      HEAD
       header.top
       each item in h.menu
        li.nav__item
         a.nav__link(href=item.slug)
         span #{item.title}
-=======
-      header HEADER
-        nav.nav NAVBAR
-        each item in h.menu
-          li.nav__item
-            a.nav__link(href=item.slug)
-              span #{item.title}
-                a.nav__link.nav__link--logo(href="/")
-                  | The Retail Apocalypse
->>>>>>> f51d3ce1d14dea0d07ddcb3e9a205e3776f2b32a
 
     block messages
       if locals.flashes
