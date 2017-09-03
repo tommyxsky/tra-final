@@ -27,3 +27,4 @@ exports.menu = [
     { slug: '/top', title: 'Top' },
     { slug: '/map', title: 'Map' }
 ];
+
