@@ -61,11 +61,10 @@ exports.getStores = async (req, res) => {
   // what is our limit per page?
   const limit = 4;
   // what is our skip
-  const skip = (page * limit) - limit;
+  const skip = page * limit - limit;
 
   // 1. Query the database for a list of all stores
-  const storesPromise = Store
-    .find()
+  const storesPromise = Store.find()
     .skip(skip)
     .limit(limit)
     .sort({ created: 'desc' });
@@ -75,11 +74,20 @@ exports.getStores = async (req, res) => {
   const [stores, count] = await Promise.all([storesPromise, countPromise]);
   const pages = Math.ceil(count / limit);
   if (!stores.length && skip) {
-    req.flash('info', `Greetings! You asked for page ${page}. But that doesn't exist. So I put you on page ${page}`);
+    req.flash(
+      'info',
+      `Greetings! You asked for page ${page}. But that doesn't exist. So I put you on page ${page}`
+    );
     res.redirect(`/stores/page/${pages}`);
     return;
   }
-  res.render('stores', { title: 'Stores', stores, page, pages, count });
+  res.render('stores', {
+    title: 'Stores',
+    stores,
+    page,
+    pages,
+    count
+  });
 };
 
 exports.getStoreBySlug = async (req, res, next) => {
@@ -119,4 +127,9 @@ exports.updateStore = async (req, res) => {
     `Successfully update <strong>${store.name}</strong>. <a href="/stores/${store.slug}">View Store</a>`
   );
   res.redirect(`/stores/${store._id}/edit`);
+};
+
+exports.getStoresByTag = async (req, res) => {
+  const tags = await Store.getTagsList();
+  res.render('tags', { tags, title: 'Tags' });
 };
