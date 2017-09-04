@@ -3,7 +3,11 @@ const Schema = mongoose.Schema;
 const validator = require('validator');
 const md5 = require('md5');
 const mongodbErrorHandler = require('mongoose-mongodb-errors');
-const passportLocalMongoose = require('password-local-mongoose');
+// ========= Adding promisify not sure if needed here =========
+const registerPromisify = promisify(User.register, User);
+
+//========= Spelling Correction =========
+const passportLocalMongoose = require('passport-local-mongoose');
 
 mongoose.Promise = global.Promise;
 
@@ -24,5 +28,9 @@ const userSchema = new Schema({
     trim: true
   }
 });
+
+// ========== Added passportLocalMongoose and mongodbErrorHandler ==========
+userSchema.plugin(passportLocalMongoose, { usernameField: 'email' });
+userSchema.plugin(mongodbErrorHandler);
 
 module.exports = mongoose.model('User', userSchema);

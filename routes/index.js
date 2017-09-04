@@ -20,7 +20,11 @@ router.get('/tags/:tag', catchErrors(storeController.getStoresByTag));
 router.get('/login', userController.loginForm);
 // ========== Get registerForm =========
 router.get('/register', userController.registerForm);
-// ========== Post validateRegister =========
-router.post('/register', userController.validateRegister);
+// ========== Post validateRegister with controller pointer =========
+router.post(
+  '/register',
+  userController.validateRegister,
+  userController.register
+);
 
 module.exports = router;
