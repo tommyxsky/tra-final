@@ -12,6 +12,8 @@ const expressValidator = require('express-validator');
 const routes = require('./routes/index');
 const helpers = require('./helpers');
 const errorHandlers = require('./handlers/errorHandlers');
+//========= Adding passportHandler =========
+require('./handlers/passport');
 
 // create our Express app
 const app = express();
@@ -41,8 +43,8 @@ app.use(
     key: process.env.KEY,
     resave: false,
     saveUninitialized: false,
-    store: new MongoStore({ mongooseConnection: mongoose.connection }),
-  }),
+    store: new MongoStore({ mongooseConnection: mongoose.connection })
+  })
 );
 
 // // Passport JS is what we use to handle our logins
