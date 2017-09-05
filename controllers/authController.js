@@ -54,7 +54,9 @@ exports.forgotPassword = async (req, res) => {
 exports.reset = async (req, res) => {
   const user = await User.findOne({
     resetPasswordToken: req.params.token,
-    resetPasswordExpires: { $gt: Date.now() }
+    resetPasswordExpires: {
+      $gt: Date.now()
+    }
   });
   if (!user) {
     req.flash('error', 'Password reset is invalid or has expired');
@@ -78,7 +80,9 @@ exports.confirmedPasswords = (req, res, next) => {
 exports.update = async (req, res) => {
   const user = await User.findOne({
     resetPasswordToken: req.params.token,
-    resetPasswordExpires: { $gt: Date.now() }
+    resetPasswordExpires: {
+      $gt: Date.now()
+    }
   });
 
   if (!user) {
@@ -95,4 +99,3 @@ exports.update = async (req, res) => {
   req.flash('success', 'Your password has been reset! You are now logged in');
   res.redirect('/');
 };
-const updatedUser = await user.save();

@@ -53,6 +53,7 @@ router.post(
   '/account/reset/:token',
   authController.confirmedPasswords,
   catchErrors(authController.update)
+);
 
 router.get('/store/:slug', catchErrors(storeController.getStoreBySlug));
 
