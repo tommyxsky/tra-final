@@ -35,15 +35,13 @@ app.use(cookieParser());
 
 // Sessions allow us to store data on visitors from request to request
 // This keeps users logged in and allows us to send flash messages
-app.use(
-  session({
+app.use(session({
     secret: process.env.SECRET,
     key: process.env.KEY,
     resave: false,
     saveUninitialized: false,
-    store: new MongoStore({ mongooseConnection: mongoose.connection }),
-  }),
-);
+    store: new MongoStore({ mongooseConnection: mongoose.connection })
+  }));
 
 // // Passport JS is what we use to handle our logins
 app.use(passport.initialize());
