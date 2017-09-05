@@ -20,6 +20,11 @@ router.get('/stores/:id/edit', catchErrors(storeController.editStore));
 router.get('/tags/:tag', catchErrors(storeController.getStoresByTag));
 // ========== Get LogInForm =========
 router.get('/login', userController.loginForm);
+// ========== Post LogInForm ========
+router.post('/login', authController.login);
+// ======== As if logged in ========
+router.get('/store/:slug', catchErrors(storeController.getStoreBySlug));
+router.get('/add', authController.isLoggedIn, storeController.addStore);
 // ========== Get registerForm =========
 router.get('/register', userController.registerForm);
 // ========== Post validateRegister with controller pointer Updated for Login =========
@@ -29,5 +34,7 @@ router.post(
   userController.register,
   authController.login
 );
+//========= Addeded get Logout ========
+router.get('/logout', authController.logout);
 
 module.exports = router;
