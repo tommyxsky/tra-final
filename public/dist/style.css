@@ -503,7 +503,11 @@ html {
 
 body {
   background: #C91800;
-  background: #2B362B; }
+  background: #2B362B;
+  background-image: url("/../../images/rustBG.svg"); }
+
+.top {
+  background-image: url("/../../images/retailapocalypse-final-WHITE.svg"); }
 
 .inner {
   max-width: 900px;
