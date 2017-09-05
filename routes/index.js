@@ -25,7 +25,7 @@ router.get('/tags/:tag', catchErrors(storeController.getStoresByTag));
 router.get('/login', userController.loginForm);
 
 // ========== Get registerForm =========
-router.get('/register', userController.registerForm);
+// router.get('/register', userController.registerForm);
 
 router.post(
   '/register',
