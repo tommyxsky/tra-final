@@ -58,6 +58,9 @@ app.use(flash());
 app.use((req, res, next) => {
   res.locals.h = helpers;
   res.locals.flashes = req.flash();
+  // ======== added user and path res ==========
+  res.locals.user = req.user || null;
+  res.locals.currentPath = req.path;
   next();
 });
 
