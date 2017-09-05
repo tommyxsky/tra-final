@@ -1,4 +1,8 @@
 const mongoose = require('mongoose');
+// ========= Added Library es6-promisify =========
+const promisify = require('es6-promisify');
+//========= Now controller is aware of out model ==========
+const User = mongoose.model('User');
 
 exports.loginForm = (req, res) => {
   res.render('login', { title: 'Login' });
@@ -33,4 +37,12 @@ exports.validateRegister = (req, res, next) => {
     return; // Stopper
   }
   next(); // If no error
+};
+
+exports.register = async (req, res, next) => {
+  const user = new User({ email: req.body.email, name: req.body.name });
+  const registerWithPromise = promisify(User.register, User);
+  await registerWithPromise(user, req.body.password);
+  res.send('it works');
+  //next(); // pass to authController.login
 };
