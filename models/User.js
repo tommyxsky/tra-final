@@ -3,8 +3,6 @@ const Schema = mongoose.Schema;
 const validator = require('validator');
 const md5 = require('md5');
 const mongodbErrorHandler = require('mongoose-mongodb-errors');
-// ========= Adding promisify not sure if needed here =========
-const registerPromisify = promisify(User.register, User);
 
 //========= Spelling Correction =========
 const passportLocalMongoose = require('passport-local-mongoose');
