@@ -4,8 +4,6 @@ const validator = require('validator');
 // ======== Updated cryptographic hash ========
 const md5 = require('md5');
 const mongodbErrorHandler = require('mongoose-mongodb-errors');
-// ========= Adding promisify not sure if needed here =========
-const registerPromisify = promisify(User.register, User);
 
 //========= Spelling Correction =========
 const passportLocalMongoose = require('passport-local-mongoose');
