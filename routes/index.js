@@ -1,9 +1,7 @@
 const express = require('express');
 const storeController = require('./../controllers/storeController');
 const { catchErrors } = require('./../handlers/errorHandlers');
-// ========== Import userController =========
 const userController = require('./../controllers/userController');
-// ========== Import authController =========
 const authController = require('./../controllers/authController');
 
 const router = express.Router();
@@ -41,6 +39,8 @@ router.post(
 //========= Addeded get Logout ========
 router.get('/logout', authController.logout);
 
+// ======== Added get account ========
+router.get('/account', authController.isLoggedIn, userController.account);
 router.get('/store/:slug', catchErrors(storeController.getStoreBySlug));
 
 router.post(
