@@ -18,7 +18,9 @@
 //   padding: 10px 20px 10px 20px;
 //   margin: 5px;
 // }
-
+// .top {
+//   background-image: url('/../../images/retailapocalypse-final-WHITE.svg');
+// }
 //
 
 html {
@@ -29,10 +31,6 @@ body {
   background: $danger-red;
   background: $danger-grey;
   background-image: url('/../../images/rustBG.svg');
-}
-
-.top {
-  background-image: url('/../../images/retailapocalypse-final-WHITE.svg');
 }
 
 .inner {
