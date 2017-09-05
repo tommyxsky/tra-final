@@ -454,6 +454,31 @@ p {
     background-image: linear-gradient(to right, rgba(255, 153, 28, 0.8) 100%, rgba(255, 153, 28, 0.8) 50%);
     border-bottom: 0; }
 
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #e6e6e6; }
+  input.input--error,
+  textarea.input--error {
+    border-color: #C91800; }
+
+label {
+  padding: 10px 0;
+  display: block; }
+
+.form {
+  background: #faebd7;
+  padding: 2rem; }
+  .form + .form {
+    margin-top: 4rem; }
+  .form h2 {
+    margin: 0;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #e6e6e6; }
+
 .card {
   background: #FF991C;
   padding: 5rem;

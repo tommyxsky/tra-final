@@ -28,7 +28,7 @@ router.get('/store/:slug', catchErrors(storeController.getStoreBySlug));
 router.get('/add', authController.isLoggedIn, storeController.addStore);
 
 // ========== Get registerForm =========
-// router.get('/register', userController.registerForm);
+router.get('/register', userController.registerForm);
 
 router.post(
   '/register',
