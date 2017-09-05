@@ -3,6 +3,8 @@ const storeController = require('./../controllers/storeController');
 const { catchErrors } = require('./../handlers/errorHandlers');
 // ========== Import userController =========
 const userController = require('./../controllers/userController');
+// ========== Import authController =========
+const authController = require('./../controllers/authController');
 
 const router = express.Router();
 
@@ -21,13 +23,15 @@ router.get('/tags/:tag', catchErrors(storeController.getStoresByTag));
 
 // ========== Get LogInForm =========
 router.get('/login', userController.loginForm);
+
 // ========== Get registerForm =========
-// router.get('/register', userController.registerForm);
-// ========== Post validateRegister with controller pointer =========
+router.get('/register', userController.registerForm);
+
 router.post(
   '/register',
   userController.validateRegister,
-  userController.register
+  userController.register,
+  authController.login
 );
 
 router.get('/store/:slug', catchErrors(storeController.getStoreBySlug));

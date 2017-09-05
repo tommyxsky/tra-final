@@ -8,7 +8,7 @@ exports.loginForm = (req, res) => {
   res.render('login', { title: 'Login' });
 };
 
-//========== userRegisterValidation =========
+//========== userRegisterValidation Updated after passport =========
 exports.validateRegister = (req, res, next) => {
   req.sanitizeBody('name');
   req.checkBody('name', 'You must supply a name').notEmpty();
