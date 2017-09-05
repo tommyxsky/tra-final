@@ -69,10 +69,13 @@ router.post(
   storeController.upload,
   catchErrors(storeController.resize),
   catchErrors(storeController.updateStore)
-);
+
+/*
+
+  API
+
+*/
+
+router.get('/api/v1/search', catchErrors(storeController.searchStores)););
 
 module.exports = router;
-//========== added reset =========
-exports.reset = async (req, res) => {
-  res.json(req.params);
-};
