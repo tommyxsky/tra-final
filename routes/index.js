@@ -22,10 +22,10 @@ router.get('/tags/:tag', catchErrors(storeController.getStoresByTag));
 // ========== Get LogInForm =========
 router.get('/login', userController.loginForm);
 // ========== Get registerForm =========
-router.get('/register', userController.registerForm);
+// router.get('/register', userController.registerForm);
 // ========== Post validateRegister =========
 router.post('/register', userController.validateRegister);
-=======
+
 router.get('/store/:slug', catchErrors(storeController.getStoreBySlug));
 
 router.post(
