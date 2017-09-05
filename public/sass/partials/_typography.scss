@@ -1,0 +1,92 @@
+// html {
+//   font-size: 10px;
+// }
+
+// // more code
+// a {
+//   color: $black;
+// }
+
+// // more code
+
+// .title {
+//   // positioning
+//   position: relative;
+//   z-index: 2;
+
+//   font-size: 40px;
+//   line-height: 1.1;
+//   margin: 0;
+//   transform: skew(0, -3deg);
+//   word-wrap: break-word;
+
+//   // inline link inside
+//   a {
+//     background-image: linear-gradient(
+//       to right,
+//       $yellow-alpha 100%,
+//       $yellow-alpha 50%
+//     );
+//     border-bottom: 0;
+//   }
+// }
+
+@font-face {
+    font-family: 'hamurz';
+    src: url('/fonts/hamurz_free_version-webfont.woff2') format('woff2'),
+         url('/fonts/hamurz_free_version-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+  font-size:10px;
+}
+
+body {
+  font-size:1.5rem;
+  color: $white;
+}
+
+h1, h2, h3, h4, h5, h6, {
+  font-family: 'Hamurz';
+  font-size: 5rem;
+  font-weight: 600;
+  letter-spacing:-1px;
+}
+
+a {
+  color:$black;
+}
+
+p a {
+  border-bottom: 2px solid $danger-yellow;
+}
+
+p {
+  font-size: 1.6rem;
+  line-height: 2;
+}
+
+.title {
+  // positioning
+  position: relative;
+  z-index: 2;
+
+  font-size: 40px;
+  line-height:1.1;
+  margin:0;
+  transform: skew(0, -3deg);
+  word-wrap: break-word;
+
+
+  // inline link inside
+  a {
+      background-image: linear-gradient(to right,
+      $yellow-alpha 100%,
+      $yellow-alpha 50%
+    );
+    border-bottom: 0;
+  }
+}
+
