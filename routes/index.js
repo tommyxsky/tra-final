@@ -41,5 +41,19 @@ router.get('/logout', authController.logout);
 router.get('/account', authController.isLoggedIn, userController.account);
 // ======== Added post account ========
 router.post('/account', catchErrors(userController.updateAccount));
+// ======== Added post forgotPassword ========
+router.post('/account/forgot', catchErrors(authController.forgotPassword));
+// ========= Added get Reset =========
+router.get('/account/reset/:token', catchErrors(authController.reset));
+// ========= Added Post Reset =========
+router.post(
+  '/account/reset/:token',
+  authController.confirmedPasswords,
+  catchErrors(authController.update)
+);
 
 module.exports = router;
+//========== added reset =========
+exports.reset = async (req, res) => {
+  res.json(req.params);
+};
