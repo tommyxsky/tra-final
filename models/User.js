@@ -26,6 +26,9 @@ const userSchema = new Schema({
     required: 'Please supply a name',
     trim: true
   }
+  // ======== Aded reset password tokens ==========
+  resetPasswordToken: String,
+  resetPasswordExpires: Date
 });
 
 // ========== Added passportLocalMongoose and mongodbErrorHandler ==========
