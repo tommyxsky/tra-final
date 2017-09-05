@@ -4,8 +4,13 @@ const promisify = require('es6-promisify');
 //========= Now controller is aware of out model ==========
 const User = mongoose.model('User');
 
+//========= Login and Register view forms ==========
 exports.loginForm = (req, res) => {
   res.render('login', { title: 'Login' });
+};
+
+exports.registerForm = (req, res) => {
+  res.render('register', { title: 'Register' });
 };
 
 //========== userRegisterValidation Updated after passport =========
@@ -16,7 +21,7 @@ exports.validateRegister = (req, res, next) => {
   req.sanitizeBody('email').normalizeEmail({
     remove_dots: false,
     remove_extension: false,
-    gmail_remove_subaddress: false
+    gmail_remove_dots: false
   });
   req.checkBody('password', 'Password cannot be blank').notEmpty();
   req
@@ -36,7 +41,7 @@ exports.validateRegister = (req, res, next) => {
     });
     return; // Stopper
   }
-  next(); // If no error
+  return next(); // If no error
 };
 
 exports.register = async (req, res, next) => {
@@ -44,7 +49,7 @@ exports.register = async (req, res, next) => {
   const registerWithPromise = promisify(User.register, User);
   await registerWithPromise(user, req.body.password);
   res.send('it works');
-  //next(); // pass to authController.login
+  next(); // pass to authController.login
 };
 // ========== Added export account =========
 exports.account = (req, res) => {

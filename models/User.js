@@ -25,7 +25,7 @@ const userSchema = new Schema({
     type: String,
     required: 'Please supply a name',
     trim: true
-  }
+  },
   // ======== Aded reset password tokens ==========
   resetPasswordToken: String,
   resetPasswordExpires: Date
