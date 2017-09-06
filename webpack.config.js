@@ -14,9 +14,9 @@ const javascript = {
   use: [
     {
       loader: 'babel-loader',
-      options: { presets: ['es2015'] },
-    },
-  ],
+      options: { presets: ['es2015'] }
+    }
+  ]
 };
 
 /*
@@ -26,10 +26,11 @@ const javascript = {
 const postcss = {
   loader: 'postcss-loader',
   options: {
+    sourceMap: true,
     plugins() {
       return [autoprefixer({ browsers: 'last 3 versions' })];
-    },
-  },
+    }
+  }
 };
 
 // this is our sass/css loader. It handles files that are require('something.scss')
@@ -41,14 +42,14 @@ const styles = {
   use: ExtractTextPlugin.extract([
     'css-loader?sourceMap',
     postcss,
-    'sass-loader?sourceMap',
-  ]),
+    'sass-loader?sourceMap'
+  ])
 };
 
 // a plugin to compress JS
 const uglify = new webpack.optimize.UglifyJsPlugin({
   // eslint-disable-line
-  compress: { warnings: false },
+  compress: { warnings: false }
 });
 
 // OK - now we stitch it together
@@ -56,7 +57,7 @@ const config = {
   entry: {
     // we only have 1 entry, but we stored entry in an object and
     // we can add more if we want
-    App: './public/javascripts/tra-app.js',
+    App: './public/javascripts/tra-app.js'
   },
   // we're using sourcemaps
   // here is where we specify which kind of sourcemap to use
@@ -68,7 +69,7 @@ const config = {
     path: path.resolve(__dirname, 'public', 'dist'),
     // we can use "substitutions" in file names like [name] and [hash]
     // name will be `App` because that is what we used above in our entry
-    filename: '[name].bundle.js',
+    filename: '[name].bundle.js'
   },
 
   // webpack sees everthing as modules
@@ -76,15 +77,15 @@ const config = {
   // We implement them here
   // Pass it the rules for our JS and our styles
   module: {
-    rules: [javascript, styles],
+    rules: [javascript, styles]
   },
   // finally we pass it an array of our plugins
   // uncomment the very next line to uglify
   // plugins: [uglify]
   plugins: [
     // tell webpack to output our css to a separate file
-    new ExtractTextPlugin('style.css'),
-  ],
+    new ExtractTextPlugin('style.css')
+  ]
 };
 // webpack doesn't like some packages using a soon to be deprecated API.
 // So we turn that error notification off
