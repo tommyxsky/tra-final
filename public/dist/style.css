@@ -645,7 +645,7 @@ body {
     color: white;
     border-right: 1px solid rgba(255, 255, 255, 0.1);
     text-transform: uppercase;
-    padding: 1.2rem 2rem 1rem 2rem;
+    padding: 0rem 2rem;
     display: block;
     display: -ms-flexbox;
     display: flex;
@@ -658,7 +658,7 @@ body {
     transition: transform 0.2s;
     border-bottom: 5px solid transparent; }
     .nav__link svg {
-      width: 40px;
+      width: 30px;
       transition: all 0.2s;
       fill: white;
       margin-bottom: 1rem; }
@@ -671,7 +671,7 @@ body {
 
 .logo {
   width: 100px;
-  height: 100px; }
+  height: 75px; }
 
 @media all and (max-width: 1200px) {
   .nav__link {
