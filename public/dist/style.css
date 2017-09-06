@@ -669,6 +669,10 @@ body {
         -ms-transform: scale(1.2);
             transform: scale(1.2); }
 
+.logo {
+  width: 100px;
+  height: 100px; }
+
 @media all and (max-width: 1200px) {
   .nav__link {
     padding-left: 1rem;
