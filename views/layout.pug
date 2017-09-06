@@ -17,6 +17,10 @@ html
               li.nav__item
                 a.nav__link(href=item.slug)
                   span #{item.title}
+          .nav__section.nav__section--search
+            .search
+              input.search__input(type="text" placeholder="Sears, Payless..." name="search")
+              .search__results
           .nav__section.nav__section--user
             if user
               li.nav__item: a.nav__link(href="/logout", class=(currentPath.startsWith('/logout') ? 'nav__link--active' : ''))

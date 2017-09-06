@@ -144,3 +144,26 @@ exports.getStoresByTag = async (req, res) => {
     stores
   });
 };
+
+// Pulls 5 records based on search name or description
+exports.searchStores = async (req, res) => {
+  const stores = await Store
+    // first find stores that match
+    .find(
+      {
+        $text: {
+          $search: req.query.q
+        }
+      },
+      {
+        score: { $meta: 'textScore' }
+      }
+    )
+    // then sort matching stores
+    .sort({
+      score: { $meta: 'textScore' }
+    })
+    // limit to only 5 results
+    .limit(10);
+  res.json(stores);
+};
