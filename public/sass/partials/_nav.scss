@@ -44,6 +44,11 @@
   }
 }
 
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
 @media all and (max-width: 1200px) {
   .nav {
     &__link {
