@@ -37,10 +37,9 @@ const storeSchema = new mongoose.Schema({
   photo: String
 });
 
-storeSchema.index({
-  name: 'text',
-  description: 'text'
-});
+storeSchema.index({ name: 'text', description: 'text' });
+
+storeSchema.index({ location: '2dsphere' });
 
 storeSchema.pre('save', async function(next) {
   if (!this.isModified('name')) {
