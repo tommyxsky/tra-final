@@ -4,7 +4,7 @@
 
 ## Steps in manipulating data
 * I try to get the name of the store and the address first
-* Then I use this site to get the latitude and longitude
+* Then I [use this site](https://www.doogal.co.uk/BatchGeocoding.php) to get the latitude and longitude
 * I then swap the order so lng comes before lat
 * I make the lng and lat an array like this: `[33.852656,-84.358708]`
 * I then paste this template before the name of the store:
