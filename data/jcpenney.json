@@ -1,0 +1,1984 @@
+[
+  {
+    "slug": "jcpenney",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Auburn Mall, Auburn, AL",
+      "coordinates": [-85.447355, 32.62698],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-1",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Tannehill Promenade, Bessemer, AL",
+      "coordinates": [-86.987304, 33.334408],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-2",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Jasper Mall, Jasper, AL",
+      "coordinates": [-87.270703, 33.851463],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-3",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown Bishop, Bishop, CA",
+      "coordinates": [-118.395615, 37.360416],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-4",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny The Village at Orange, Orange, CA",
+      "coordinates": [-117.839052, 33.826046],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-5",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Hilltop Mall, Richmond, CA",
+      "coordinates": [-122.330028, 37.980735],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-6",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Fort Morgan Main St., Fort Morgan, CO",
+      "coordinates": [-103.801865, 40.250796],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-7",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Glenwood Springs Mall, Glenwood Springs, CO",
+      "coordinates": [-107.364748, 39.563289],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-8",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny St. Vrain Centre, Longmont, CO",
+      "coordinates": [-105.134122, 40.151514],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-9",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Broadway Plaza, Sterling, CO",
+      "coordinates": [-103.199809, 40.634917],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-10",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Connecticut Post Mall, Milford, CT",
+      "coordinates": [-73.034823, 41.235429],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-11",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "J.C. Penny Jacksonville Regional Shopping Center, Jacksonville, FL",
+      "coordinates": [-81.699049, 30.43682],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-12",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Milledgeville Mall, Milledgeville, GA",
+      "coordinates": [-83.258255, 33.108387],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-13",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Crossroads Mall, Fort Dodge, IA",
+      "coordinates": [-94.160502, 42.504506],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-14",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Penn Central Mall, Oskaloosa, IA",
+      "coordinates": [-92.647352, 41.295455],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-15",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Quincy Place, Ottumwa, IA",
+      "coordinates": [-92.434454, 41.016039],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-16",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Village Square Mall, Effingham, IL",
+      "coordinates": [-88.544116, 39.101633],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-17",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Peru Mall, Peru, IL",
+      "coordinates": [-89.129364, 41.362274],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-18",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Northland Mall, Sterling, IL",
+      "coordinates": [-89.663476, 41.807384],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-19",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Centerpointe of Woodridge, Woodridge, IL",
+      "coordinates": [-88.033564, 41.75355],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-20",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny FairOaks Mall, Columbus, IN",
+      "coordinates": [-85.899684, 39.224306],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-21",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Huntington Plaza, Huntington, IN",
+      "coordinates": [-85.507338, 40.892259],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-22",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Jasper Manor Center, Jasper, IN",
+      "coordinates": [-86.913738, 38.37793],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-23",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown Great Bend, Great Bend, KS",
+      "coordinates": [-98.763257, 38.366872],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-24",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Hutchinson Mall, Hutchinson, KS",
+      "coordinates": [-97.898019, 38.067378],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-25",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Cortana Mall, Baton Rouge, LA",
+      "coordinates": [-91.092619, 30.457706],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-26",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny North Shore Square, Slidell, LA",
+      "coordinates": [-89.824147, 30.306731],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-27",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Easton Marketplace, Easton, MD",
+      "coordinates": [-76.080458, 38.782936],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-28",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Lakeview Square Mall, Battle Creek, MI",
+      "coordinates": [-85.181923, 42.264213],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-29",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Delta Plaza, Escanaba, MI",
+      "coordinates": [-87.081486, 45.748419],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-30",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Midland Mall, Midland, MI",
+      "coordinates": [-84.244759, 43.659857],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-31",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Cascade Crossings, Sault Ste. Marie, MI",
+      "coordinates": [-84.377394, 46.46552],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-32",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Five Lakes Centre, Fairmont, MN",
+      "coordinates": [-94.449514, 43.651199],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-33",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Faribo West Mall, Faribault, MN",
+      "coordinates": [-93.302928, 44.292498],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-34",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Hutchinson Mall, Hutchinson, MN",
+      "coordinates": [-94.37911, 44.876827],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-35",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown Thief River Falls, Thief River Falls, MN",
+      "coordinates": [-96.181968, 48.118889],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-36",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Maryville Center, Maryville, MO",
+      "coordinates": [-94.875729, 40.327748],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-37",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Bonita Lakes Mall, Meridian, MS",
+      "coordinates": [-88.670618, 32.359264],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-38",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Sidney Main Street, Sidney, MT",
+      "coordinates": [-104.15621, 47.714698],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-39",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Blue Ridge Mall, Hendersonville, NC",
+      "coordinates": [-82.445691, 35.33445],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-40",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Monroe Crossing, Monroe, NC",
+      "coordinates": [-80.559652, 35.004633],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-41",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Becker Village Mall, Roanoke Rapids, NC",
+      "coordinates": [-77.640021, 36.440904],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-42",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Prairie Hills Mall, Dickinson, ND",
+      "coordinates": [-102.792423, 46.899977],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-43",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Fremont Mall, Fremont, NE",
+      "coordinates": [-96.484184, 41.452909],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-44",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Platte River Mall, North Platte, NE",
+      "coordinates": [-100.760286, 41.124724],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-45",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny The Boulevard, Las Vegas, NV",
+      "coordinates": [-115.13482, 36.124853],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-46",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Dunkirk-Fredonia Plaza, Dunkirk, NY",
+      "coordinates": [-79.329721, 42.457516],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-47",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Westfield Sunrise, Massapequa, NY",
+      "coordinates": [-73.43542, 40.682702],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-48",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Palisades Center, West Nyack, NY",
+      "coordinates": [-73.956479, 41.097968],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-49",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Findlay Village Mall, Findlay, OH",
+      "coordinates": [-83.614825, 41.05526],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-50",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny New Towne Mall, New Philadelphia, OH",
+      "coordinates": [-81.441544, 40.480591],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-51",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Richmond Town Square, Richmond Heights, OH",
+      "coordinates": [-81.494082, 41.540007],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-52",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny St. Mary’s Square, St. Marys, OH",
+      "coordinates": [-84.404775, 40.552774],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-53",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Altus Plaza, Altus, OK",
+      "coordinates": [-99.333246, 34.648748],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-54",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Ne-Mar Shopping Center, Claremore, OK",
+      "coordinates": [-95.621695, 36.313733],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-55",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Ponca Plaza, Ponca City, OK",
+      "coordinates": [-97.065672, 36.728034],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-56",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Pioneer Square Shopping Center, Stillwater, OK",
+      "coordinates": [-97.049613, 36.12904],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-57",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Astoria Downtown, Astoria, OR",
+      "coordinates": [-123.829028, 46.188729],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-58",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Grants Pass Shopping Center, Grants Pass, OR",
+      "coordinates": [-123.311687, 42.439593],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-59",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown Pendleton, Pendleton, OR",
+      "coordinates": [-118.787529, 45.673297],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-60",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny The Dalles Main Street, The Dalles, OR",
+      "coordinates": [-121.182837, 45.601501],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-61",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Clearfield Mall, Clearfield, PA",
+      "coordinates": [-78.412518, 41.022859],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-62",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Willow Grove Park, Willow Grove, PA",
+      "coordinates": [-75.125247, 40.140482],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-63",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Town ‘N Country, Easley, SC",
+      "coordinates": [-82.576126, 34.822977],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-64",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Knoxville Center, Knoxville, TN",
+      "coordinates": [-83.873218, 36.032459],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-65",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Athens Village Shopping Center, Athens, TX",
+      "coordinates": [-95.835581, 32.207726],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-66",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny El Paso Downtown, El Paso, TX",
+      "coordinates": [-106.486045, 31.758169],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-67",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny McAllen Downtown, McAllen, TX",
+      "coordinates": [-98.235262, 26.201216],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-68",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Bosque River Center, Stephenville, TX",
+      "coordinates": [-98.244025, 32.200812],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-69",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny New River Valley Mall, Christiansburg, VA",
+      "coordinates": [-80.42718, 37.164835],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-70",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Pilchuck Landing, Snohomish, WA",
+      "coordinates": [-122.085149, 47.91392],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-71",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Pine Tree Mall, Marinette, WI",
+      "coordinates": [-87.657883, 45.080383],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-72",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Marshfield Mall, Marshfield, WI",
+      "coordinates": [-90.161924, 44.678368],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-73",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "J.C. Penny Richland Square Shopping Center, Richland Center, WI",
+      "coordinates": [-90.361997, 43.317389],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-74",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Rapids Mall, Wisconsin Rapids, WI",
+      "coordinates": [-89.831115, 44.393282],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-75",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown Sheridan, Sheridan, WY",
+      "coordinates": [-106.956131, 44.800263],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-76",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Gadsden Mall, Gadsden, AL",
+      "coordinates": [-86.007396, 33.994673],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-77",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Military Plaza, Benton, AR",
+      "coordinates": [-92.568965, 34.583563],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-78",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Riverview Mall, Bullhead City, AZ",
+      "coordinates": [-114.606758, 35.091758],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-79",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Sunwest Plaza, Lodi, CA",
+      "coordinates": [-121.304276, 38.114357],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-80",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Palatka Mall, Palatka, FL",
+      "coordinates": [-81.672803, 29.65412],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-81",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Dublin Mall, Dublin, GA",
+      "coordinates": [-82.949785, 32.543116],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-82",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Macon Mall, Macon, GA",
+      "coordinates": [-83.692963, 32.818311],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-83",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Gateway Plaza, Thomasville, GA",
+      "coordinates": [-83.948599, 30.854954],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-84",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Tifton Mall, Tifton, GA",
+      "coordinates": [-83.528628, 31.460617],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-85",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown Decorah, Decorah, IA",
+      "coordinates": [-91.785709, 43.303306],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-86",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Snake River Plaza, Burley, ID",
+      "coordinates": [-113.791027, 42.562473],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-87",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Eastland Mall, Bloomington, IL",
+      "coordinates": [-88.956131, 40.485949],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-88",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Fulton Square, Canton, IL",
+      "coordinates": [-90.039334, 40.487892],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-89",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Connersville Plaza, Connersville, IN",
+      "coordinates": [-85.131085, 39.672681],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-90",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Logansport Mall, Logansport, IN",
+      "coordinates": [-86.313636, 40.759117],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-91",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Chanute Square, Chanute, KS",
+      "coordinates": [-95.457899, 37.64577],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-92",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Winfield Plaza, Winfield, KS",
+      "coordinates": [-96.973811, 37.242909],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-93",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Park Terrace, DeRidder, LA",
+      "coordinates": [-93.287622, 30.864049],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-94",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Berkshire Mall, Lanesborough, MA",
+      "coordinates": [-73.206604, 42.492805],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-95",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Rockland Plaza, Rockland, ME",
+      "coordinates": [-69.106876, 44.117485],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-96",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Westshore Mall, Holland, MI",
+      "coordinates": [-86.085882, 42.814648],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-97",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Copper Country Mall, Houghton, MI",
+      "coordinates": [-88.592877, 47.103019],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-98",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Birchwood Mall, Kingsford, MI",
+      "coordinates": [-88.072916, 45.801001],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-99",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Irongate Plaza, Hibbing, MN",
+      "coordinates": [-92.958728, 47.395235],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-100",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Red Wing Mall, Red Wing, MN",
+      "coordinates": [-92.586543, 44.57016],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-101",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Leigh Mall, Columbus, MS",
+      "coordinates": [-88.431301, 33.511819],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-102",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Southgate Plaza, Corinth, MS",
+      "coordinates": [-88.51928, 34.925796],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-103",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Greenville Mall, Greenville, MS",
+      "coordinates": [-91.041598, 33.375422],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-104",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Oxford Mall, Oxford, MS",
+      "coordinates": [-89.545932, 34.37117],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-105",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Capital Hill Mall, Helena, MT",
+      "coordinates": [-112.015356, 46.590526],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-106",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Albemarle Crossing, Albemarle, NC",
+      "coordinates": [-82.545182, 35.605724],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-107",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Boone Mall, Boone, NC",
+      "coordinates": [-81.668055, 36.20183],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-108",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Eastridge Mall, Gastonia, NC",
+      "coordinates": [-81.147129, 35.26468],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-109",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Buffalo Mall, Jamestown, ND",
+      "coordinates": [-98.723295, 46.883842],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-110",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown Wahpeton, Wahpeton, ND",
+      "coordinates": [-96.614673, 46.273609],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-111",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Downtown McCook, McCook, NE",
+      "coordinates": [-100.609143, 40.205358],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-112",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Rio Grande Plaza, Rio Grande, NJ",
+      "coordinates": [-74.873351, 39.010783],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-113",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny La Grande Downtown, La Grande, OR",
+      "coordinates": [-118.016426, 45.28129],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-114",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Columbia Mall, Bloomsburg, PA",
+      "coordinates": [-76.487167, 41.017427],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-115",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny King of Prussia Mall, King of Prussia, PA",
+      "coordinates": [-75.390953, 40.088227],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-116",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Philadelphia Mills, Philadelphia, PA",
+      "coordinates": [-74.961623, 40.087492],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-117",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Lycoming Mall, Pennsdale, PA",
+      "coordinates": [-76.826813, 41.240618],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-118",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Citadel Mall, Charleston, SC",
+      "coordinates": [-80.031878, 32.798172],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-119",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Palace Mall, Mitchell, SD",
+      "coordinates": [-98.027508, 43.726692],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-120",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Northridge Plaza, Pierre, SD",
+      "coordinates": [-100.318224, 44.379498],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-121",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Watertown Mall, Watertown, SD",
+      "coordinates": [-97.096477, 44.888039],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-122",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Yankton Mall, Yankton, SD",
+      "coordinates": [-97.400465, 42.892546],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-123",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Greeneville Commons, Greeneville, TN",
+      "coordinates": [-82.796522, 36.175023],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-124",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny County Market Place, Union City, TN",
+      "coordinates": [-89.989696, 35.133395],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-125",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Borger Shopping Plaza, Borger, TX",
+      "coordinates": [-101.379487, 35.681618],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-126",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Heartland Mall, Early, TX",
+      "coordinates": [-98.961281, 31.738076],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-127",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Marshall Mall, Marshall, TX",
+      "coordinates": [-94.354296, 32.525034],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-128",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny University Mall, Nacogdoches, TX",
+      "coordinates": [-94.637104, 31.613149],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-129",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny King Plaza Shopping Center, Seguin, TX",
+      "coordinates": [-97.94341, 29.569356],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-130",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Tanglewood Mall, Roanoke, VA",
+      "coordinates": [-79.978158, 37.230687],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "jcpenney-131",
+    "name": "JCPenney",
+    "description":
+      "J.C. Penney Corporation, Inc., American retail company, founded in 1902 by James Cash Penney and today engaged in marketing apparel, home furnishings, jewelry, cosmetics, and cookware.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["JCPenney", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "J.C. Penny Foxcroft Towne Center, Martinsburg, WV",
+      "coordinates": [-77.985979, 39.450906],
+      "type": "Point"
+    }
+  }
+]
