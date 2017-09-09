@@ -11,6 +11,15 @@ const Store = require('../models/Store');
 // const User = require('../models/User');
 
 const stores = JSON.parse(fs.readFileSync(__dirname + '/stores.json', 'utf-8'));
+const sears = JSON.parse(fs.readFileSync(__dirname + '/sears.json', 'utf-8'));
+const jcpenney = JSON.parse(
+  fs.readFileSync(__dirname + '/jcpenney.json', 'utf-8')
+);
+const kmart = JSON.parse(fs.readFileSync(__dirname + '/kmart.json', 'utf-8'));
+const macys = JSON.parse(fs.readFileSync(__dirname + '/macys.json', 'utf-8'));
+const radioshack = JSON.parse(
+  fs.readFileSync(__dirname + '/radioshack.json', 'utf-8')
+);
 // const reviews = JSON.parse(fs.readFileSync(__dirname + '/reviews.json', 'utf-8'));
 // const users = JSON.parse(fs.readFileSync(__dirname + '/users.json', 'utf-8'));
 
@@ -28,6 +37,11 @@ async function deleteData() {
 async function loadData() {
   try {
     await Store.insertMany(stores);
+    await Store.insertMany(sears);
+    await Store.insertMany(jcpenney);
+    await Store.insertMany(kmart);
+    await Store.insertMany(macys);
+    await Store.insertMany(radioshack);
     // await Review.insertMany(reviews);
     // await User.insertMany(users);
     console.log('Done Inserting Data!');

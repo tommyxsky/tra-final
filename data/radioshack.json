@@ -1,0 +1,2777 @@
+[
+  {
+    "slug": "radioshack",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 8640 Madison Blvd, Madison, AL",
+      "coordinates": [-86.741721, 34.681146],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-1",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Shoppes at Rangeline, 4419 Rangeline Rd, Mobile, AL",
+      "coordinates": [-88.164547, 30.597621],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-2",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 7932 E Broadway Blvd, Tucson, AZ",
+      "coordinates": [-110.822863, 32.220492],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-3",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack El Con Shopping Center, 3421 E Broadway Blvd, AZ",
+      "coordinates": [-110.916617, 32.22486],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-4",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Saguaro Shopping Center, 1458 E Main St, Mesa, AZ",
+      "coordinates": [-111.799242, 33.416189],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-5",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Lowe’s Pad, 1840 W Valencia, Tucson, AZ",
+      "coordinates": [-111.004864, 32.135893],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-6",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Indian Village Shopping Center, 4015 N 16th St, Phoenix, AZ",
+      "coordinates": [-112.046206, 33.493688],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-7",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Catalina Plaza, 4020 N Oracle Rd, Tucson, AZ",
+      "coordinates": [-110.977696, 32.279642],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-8",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Sigal Butte Marketplace, 10735 E Apache, Apache Junction, AZ",
+      "coordinates": [-111.599128, 33.413663],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-9",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Desert Palm Power Center, 3833 E Thomas Rd, Phoenix, AZ",
+      "coordinates": [-112.001034, 33.479037],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-10",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Fry’s Kino Gateway Shopping Center, 2071 E Irvington Rd, Tucson, AZ",
+      "coordinates": [-110.941974, 32.164885],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-11",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2110 Newbury Rd, Newbury Park, CA",
+      "coordinates": [-118.923757, 34.182353],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-12",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Lyons Station 23412 Lyons Ave, Newhall, CA",
+      "coordinates": [-118.542997, 34.378549],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-13",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 23365 Mulholland Dr, Woodland Hills, CA",
+      "coordinates": [-118.634543, 34.158484],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-14",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 609 State St, Santa Barbara, CA",
+      "coordinates": [-119.69737, 34.417821],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-15",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 5041 Gosford Rd, Bakersfield, CA",
+      "coordinates": [-119.09261, 35.308984],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-16",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2071 W Shaw Ave, Fresno, CA",
+      "coordinates": [-119.828272, 36.807527],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-17",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 300 Pine St, San Francisco, CA",
+      "coordinates": [-122.401255, 37.792268],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-18",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2655 Somerville Rd, Antioch, CA",
+      "coordinates": [-121.842266, 37.998883],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-19",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Fremont Hub S/C 39106 Fremont Hub, Fremont, CA",
+      "coordinates": [-121.987588, 37.546626],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-20",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack The Clock Tower 3573 Mt Diablo Blvd, Lafayette, CA",
+      "coordinates": [-122.121641, 37.891454],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-21",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1155 Arnold Dr, Martinez, CA",
+      "coordinates": [-122.102224, 37.994745],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-22",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 7110 Dublin Blvd, Dublin, CA",
+      "coordinates": [-121.922503, 37.705252],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-23",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2591 Main St, Oakley, CA",
+      "coordinates": [-121.730014, 37.997269],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-24",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 4230 Park Blvd, Oakland, CA",
+      "coordinates": [-122.221707, 37.807377],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-25",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1340 4Th St, San Rafael, CA",
+      "coordinates": [-122.531698, 37.973603],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-26",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Raley’S Towne Center 30 Raley Town Centre, Rohnert Park, CA",
+      "coordinates": [-122.707386, 38.347331],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-27",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2770 El Camino Real, Santa Clara, CA",
+      "coordinates": [-121.976642, 37.35095],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-28",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3145 Payne Avenue 3145 Payne Avenue, San Jose, CA",
+      "coordinates": [-121.951105, 37.301985],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-29",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 767 Ikea Ct, West Sacramento, CA",
+      "coordinates": [-121.550535, 38.589254],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-30",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 865 S Main, Red Bluff, CA",
+      "coordinates": [-122.230309, 40.162924],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-31",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Hawthorne Plaza, Hawthorne, CA",
+      "coordinates": [-118.351204, 33.916767],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-32",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1124 Main St, Delano, CA",
+      "coordinates": [-119.245915, 35.771296],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-33",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 10927 Atlantic Ave, Lynwood, CA",
+      "coordinates": [-118.183366, 33.931834],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-34",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 5804 N Figueroa, LA, CA",
+      "coordinates": [-118.191489, 34.109845],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-35",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1817 Cesar Chavez Ave, LA, CA",
+      "coordinates": [-118.215614, 34.050554],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-36",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Spring Valley Shopping Center, 513 Sweetwater Rd, Spring Valley, CA",
+      "coordinates": [-117.009619, 32.707248],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-37",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Hardman Shopping Center, 5146 Arlington Ave, Riverside, CA",
+      "coordinates": [-117.415318, 33.945554],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-38",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack San Pedro Plaza, 517 S Gaffey, San Pedro, CA",
+      "coordinates": [-118.293162, 33.739167],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-39",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Martin Luther King JR Shopping Center, 1601 E 103rd St, LA, CA",
+      "coordinates": [-118.245077, 33.944595],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-40",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1001 N. State College Blvd, Anaheim, CA",
+      "coordinates": [-117.88984, 33.847636],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-41",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 13132 Palm Drive, Desert Hot Springs, CA",
+      "coordinates": [-116.4993, 33.952984],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-42",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Mission Village, 32161 Camino Capistrano, CA",
+      "coordinates": [-117.663515, 33.495684],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-43",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Fashion Fair Shopping Center, 15100 Hesperian Blvd, San Leandro, CA",
+      "coordinates": [-122.128365, 37.701563],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-44",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3325 #10 Sonoma Blvd, Vallejo, CA",
+      "coordinates": [-122.255416, 38.12053],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-45",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 4846 E Kings Canyon #101, Fresno, CA",
+      "coordinates": [-119.734182, 36.735647],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-46",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 20566 Redwood Rd, Castro Valley, CA",
+      "coordinates": [-122.073463, 37.696697],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-47",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Main & Ohlone, 1419 Main St Box 5, Watsonville, CA",
+      "coordinates": [-121.774905, 36.915455],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-48",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1353 Washington Ave, San Leandro, CA",
+      "coordinates": [-122.156535, 37.723882],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-49",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 673 Trancas, Napa, CA",
+      "coordinates": [-122.287294, 38.323865],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-50",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2200 Macarthur Blvd #2200, Oakland, CA",
+      "coordinates": [-122.215914, 37.800435],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-51",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 10125 N Sepulveda Blvd, Mission Hills, CA",
+      "coordinates": [-118.467823, 34.254465],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-52",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Island Plaza, 2608 S Saviers Rd, Oxnard, CA",
+      "coordinates": [-119.176748, 34.175547],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-53",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Western Square, 1714 S Western Ave, LA, CA",
+      "coordinates": [-118.308356, 34.042353],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-54",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Mission Plaza Shopping Center, 1512 N H St Ste E, Lompoc, CA",
+      "coordinates": [-120.456058, 34.663243],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-55",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Niles Center, 6007 Niles St, Bakersfield, CA",
+      "coordinates": [-118.938331, 35.375054],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-56",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Five Points Plaza, 11970 Garvey Ave, El Monte, CA",
+      "coordinates": [-118.02002, 34.062268],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-57",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Covina Bowls Shopping Center, 1065 W Badillo, Covina, CA",
+      "coordinates": [-117.911921, 34.087529],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-58",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Barstow Shopping Center, 1350 E Main St, Barstow, CA",
+      "coordinates": [-117.006166, 34.894378],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-59",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Sylmar Plaza, 13209 Gladstone, Sylmar, CA",
+      "coordinates": [-118.429404, 34.31017],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-60",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Pic n Save, 14712 La Paz, Victorville, CA",
+      "coordinates": [-117.314417, 34.518658],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-61",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Ramona Plaza, 1458 E Florida Ave, Hemet, CA",
+      "coordinates": [-116.956841, 33.748516],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-62",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 11719 Rosecrans Ave, Norwalk, CA",
+      "coordinates": [-118.083704, 33.902792],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-63",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 825 N Lake Ave, Pasadena, CA",
+      "coordinates": [-118.132748, 34.160112],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-64",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Hemet Valley Mall, 2200 W Florida Ave, Hemet, CA",
+      "coordinates": [-116.995839, 33.748715],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-65",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Placentia Village Shopping Center, 1478 N Kraemer Blvd, Placentia, CA",
+      "coordinates": [-117.861953, 33.887719],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-66",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Lake Elsinore Square, 18284 Collier Ave, Lake Elsinore, CA",
+      "coordinates": [-117.340727, 33.692142],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-67",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Washington Plaza, 482 E Washington Blvd, LA, CA",
+      "coordinates": [-118.260913, 34.028338],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-68",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Magnolia Vineland Shopping Center, 5160 Vineland Ave, North Hollywood, CA",
+      "coordinates": [-118.369799, 34.164119],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-69",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2073 S Garey Ave, Pomona, CA",
+      "coordinates": [-117.751087, 34.033676],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-70",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Oak Hils Shopping Center, 644 Bailey Rd, Bay Point, CA",
+      "coordinates": [-121.942925, 38.016793],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-71",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 43 E 4th Ave, San Mateo, CA",
+      "coordinates": [-122.324185, 37.563288],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-72",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 4901 Santa Clara St #5, Hayward, CA",
+      "coordinates": [-122.091146, 37.648939],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-73",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Manchester Center, 3402 N Blackstone, Fresno, CA",
+      "coordinates": [-119.78924, 36.782235],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-74",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Stony Point Plaza, 740 Stony Point Rd, Santa Rosa, CA",
+      "coordinates": [-122.74113, 38.428446],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-75",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Manteca Shopping Center, 1281 W Yosemite, Manteca, CA",
+      "coordinates": [-121.23688, 37.798396],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-76",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Lake Crest Village, 1012 Florin Rd, Sacramento, CA",
+      "coordinates": [-121.52114, 38.493744],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-77",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 17171 Foothill Blvd, Fontana, CA",
+      "coordinates": [-117.430697, 34.106217],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-78",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Ontario Village, 624 W Holt Blvd, Ontario, CA",
+      "coordinates": [-117.659066, 34.063568],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-79",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack San Fernando Value Square, 12980 Foothill Blvd, Sylmar, CA",
+      "coordinates": [-118.417965, 34.295749],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-80",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Wilshire & Mariposa, 3422 Wilshire Blvd, LA, CA",
+      "coordinates": [-118.298597, 34.06155],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-81",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Freedom Centre, 1990 Freedom Blvd, Watsonville, CA",
+      "coordinates": [-121.77552, 36.939121],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-82",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Gilroy Village Shopping Center, 280 E 10th St, Gilroy, CA",
+      "coordinates": [-121.561414, 37.000301],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-83",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Deer Valley Plaza, 4498 Lone Tree Way, Antioch, CA",
+      "coordinates": [-121.782404, 37.965449],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-84",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack City Heights Village, 4371 University Ave, San Diego, CA",
+      "coordinates": [-117.10022, 32.749406],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-85",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 50223 Harrison St, Coachella, CA",
+      "coordinates": [-116.181875, 33.681634],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-86",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1275 E 1St Ave, Broomfield, CO",
+      "coordinates": [-104.992027, 39.744823],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-87",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Quebec Square 7305 E 35Th Ave #150, Denver, CO",
+      "coordinates": [-104.901698, 39.765907],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-88",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 715 S Colorado Blvd, Denver, CO",
+      "coordinates": [-104.941406, 39.703217],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-89",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Thornton Shopping Center, 3843 E 120th St, Thornton, CO",
+      "coordinates": [-104.943377, 39.915917],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-90",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 5305 E Colfax Ave #A, Denver, CO",
+      "coordinates": [-104.925585, 39.740548],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-91",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack One Fountain Plaza, 6720 Camden Blvd, CO",
+      "coordinates": [-104.841113, 38.827745],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-92",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1977 S federal Blvd, Denver, CO",
+      "coordinates": [-104.992027, 39.744823],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-93",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Ralston Plaza, 12385 W 64th St, Arvada, CO",
+      "coordinates": [-105.136886, 39.81315],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-94",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Albertsons Pad, 4090 Austin Bluffs Parkway, Colorado Springs, CO",
+      "coordinates": [-104.755332, 38.89136],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-95",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Market Sq, 12041 W Alameda Pkwy, Lakewood, CO",
+      "coordinates": [-105.13699, 39.709129],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-96",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack University Square, 2660 11th Ave, Greeley, CO",
+      "coordinates": [-104.694539, 40.393403],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-97",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 254 S Frontage Rd, New London, CT",
+      "coordinates": [-72.116983, 41.367691],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-98",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 850 N Colony Rd, Wallingford, CT",
+      "coordinates": [-72.808555, 41.479678],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-99",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack South Main St, 39 South Main St, West Hartford, CT",
+      "coordinates": [-72.743023, 41.759126],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-100",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Newbrite Plaza, 196 E Main St, New Britain, CT",
+      "coordinates": [-72.777977, 41.671488],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-101",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Copaco Shopping Center, 279 Cottage Grove Rd, Bloomfield, CT",
+      "coordinates": [-72.713357, 41.815827],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-102",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Charter Oak Marketplace, 63 Overlook Terrace, Hartford, CT",
+      "coordinates": [-72.711868, 41.740241],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-103",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Black Rock Turnpike, 2071 Black Rock Tpke, Fairfield, CT",
+      "coordinates": [-73.251136, 41.180885],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-104",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack North St Shopping Center, 1 Padanaram Rd, Danbury, CT",
+      "coordinates": [-73.455534, 41.412888],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-105",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack New Milford SC, 173 Danbury Rd, New Milford, CT",
+      "coordinates": [-73.414957, 41.551328],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-106",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Peoples Plaza Shopping Center, 710 Peoples Plaza, Newark, DE",
+      "coordinates": [-75.747222, 39.602462],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-107",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Governor’s Square Shopping Center, 803 Governor Place, Bear, DE",
+      "coordinates": [-75.665119, 39.633257],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-108",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 120 G St NW, 615 12th St NW, Washington DC",
+      "coordinates": [-77.027889, 38.897945],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-109",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3655 University Blvd, Jacksonville, FL",
+      "coordinates": [-81.625162, 30.262397],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-110",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3491 Thomasville Rd, Tallahassee, FL",
+      "coordinates": [-84.248405, 30.507105],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-111",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3315 Sw Archer Road, Gainesville, FL",
+      "coordinates": [-82.37153, 29.62723],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-112",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2003 N Atlantic Ave, Cocoa Beach, FL",
+      "coordinates": [-80.61041, 28.343129],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-113",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 12640 S Cleveland, Ft Myers, FL",
+      "coordinates": [-81.872301, 26.557809],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-114",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 17315 Tamiami Trail, North Port, FL",
+      "coordinates": [-82.214057, 27.037527],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-115",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 10941 Us Hwy 1, Port St Lucie, FL",
+      "coordinates": [-80.327392, 27.424174],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-116",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3262 Se Federal Hwy, Stuart, FL",
+      "coordinates": [-80.228535, 27.163495],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-117",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Clearwater Plaza, 1291 S Missouri Ave, Clearwater, FL",
+      "coordinates": [-82.785975, 27.951641],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-118",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Northgate Shopping Center, 9023 Florida Ave, Tampa, FL",
+      "coordinates": [-82.458393, 28.030935],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-119",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Britton Plaza, 3850 S Dale Mabry, Tampa, FL",
+      "coordinates": [-82.502708, 27.906222],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-120",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack K-Mart Shopping Center, 4640 Forest Hill Blvd, W Palm Beach, FL",
+      "coordinates": [-80.114898, 26.650448],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-121",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 19831 NW 2nd Ave, Miami Gardens, FL",
+      "coordinates": [-80.205013, 25.956357],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-122",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack West Colonial Square, 7222 W Colonial Drive, Orlando, FL",
+      "coordinates": [-81.376155, 28.519136],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-123",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Sabal Palm Plaza, 2315 S Federal Hwy, Fort Pierce, FL",
+      "coordinates": [-80.328241, 27.422909],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-124",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Southgate Plaza, 400 N Navy, Pensacola, FL",
+      "coordinates": [-87.276237, 30.39542],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-125",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2 NW 16th Ave, Gainesville, FL",
+      "coordinates": [-82.324721, 29.667054],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-126",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1455 E Semoran Blvd, Casselberry, FL",
+      "coordinates": [-81.31869, 28.628531],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-127",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Trails Shopping Center, 222 North Nova Road, Ormond Beach, FL",
+      "coordinates": [-81.083902, 29.282862],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-128",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Hunt Club Corners Shopping Center, 600 S Hunt Club Blvd, Apopka, FL",
+      "coordinates": [-81.451199, 28.671913],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-129",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Roosevelt Mall, 4419 Roosevelt Blvd, Jacksonville, FL",
+      "coordinates": [-81.719723, 30.280145],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-130",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Townview Square Shopping Center, 7248 Gall Blvd, Zephyrhills, FL",
+      "coordinates": [-82.186661, 28.264596],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-131",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Hollywood Festival Centre, 6609 Taft St, Hollywood, FL",
+      "coordinates": [-80.221199, 26.02587],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-132",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3747 E Tamiami Trail, Naples, FL",
+      "coordinates": [26.121353, -81.75867],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-133",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Oakwood Plaza, 1780 Stirling Rd, Dania Beach, FL",
+      "coordinates": [-80.157344, 26.048879],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-134",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Universal Plaza, 5411 N University Drive, Lauderhill, FL",
+      "coordinates": [-80.252666, 26.191026],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-135",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Miller Square Square Shopping Center, 13722 SW 56th St, Miami, FL",
+      "coordinates": [-80.41719, 25.713086],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-136",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Marina Village Shopping Center, 4933 34th St S, St Petersburg, FL",
+      "coordinates": [-82.680095, 27.72507],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-137",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Concourse Village, 75 E Indiantown Rd, Jupiter, FL",
+      "coordinates": [-80.091609, 26.935812],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-138",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Centre at University, 8396 N Lockwood Ridge Rd, Sarasota, FL",
+      "coordinates": [-82.508177, 27.391372],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-139",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Temple Terrace Shopping Center, 8759 N 56th St, Temple Terrace, FL",
+      "coordinates": [-82.393953, 28.018328],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-140",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Palma Sola Square, 5777 Manatee Ave W, Bradenton, FL",
+      "coordinates": [-82.616615, 27.494826],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-141",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Punta Gorda Crossing, 2310 S Tamiami Trl, Punta Gorda, FL",
+      "coordinates": [-82.047092, 26.919016],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-142",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Palm Plaza, 715 N 14th St, Leesburg, FL",
+      "coordinates": [-81.887614, 28.818953],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-143",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Promenades Mall, 3280 Tamiami Trail, Port Charlotte, FL",
+      "coordinates": [26.984142, -82.099124],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-144",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Golden Gate Shopping Center, 285 E Van Fleet Drive, Bartow, FL",
+      "coordinates": [-81.842092, 27.903487],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-145",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Shopped of Auburndale, 2036 US Hwy, Auburndale, FL",
+      "coordinates": [-81.812823, 28.058771],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-146",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 969 State Rd 434 West, Longwood, FL",
+      "coordinates": [-81.361278, 28.699075],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-147",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Melbourne Shopping Center, 1421 S Babcock St, Melbourne, FL",
+      "coordinates": [-80.620212, 28.086325],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-148",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Chiarelli Plaza, 1315 Homestead Rd, Lehigh Acres, FL",
+      "coordinates": [-81.653223, 26.609031],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-149",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Bird 107 Plaza, 10613 Bird Road, Miami, FL",
+      "coordinates": [-80.367447, 25.73308],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-150",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Sun Tan Shopping Center, 945 E 8th Ave, Hialeah, FL",
+      "coordinates": [-80.264943, 25.83124],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-151",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Miami Gardens Shopping Center, 5920 NW 183rd St, Miami, FL",
+      "coordinates": [-80.214354, 25.94328],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-152",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Mark's Square, 4610 Mobile Hwy #B, Pensacola, FL",
+      "coordinates": [-87.279154, 30.438154],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-153",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Gardens Towne Square, 4246 Northlake Blvd, Palm Beach Garden, FL",
+      "coordinates": [-80.101081, 26.805982],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-154",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Santa Barbara Centre, 106 Hancock Brdg Pkwy W, Cape Coral, FL",
+      "coordinates": [-81.977698, 26.648688],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-155",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Coral Way Shopping Center, 2520 SW 22nd St, Miami, FL",
+      "coordinates": [-80.237113, 25.75011],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-156",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Palm Aire Market Place, 167 S Pompano Pkwy, FL",
+      "coordinates": [-80.158484, 26.22872],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-157",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Goolsby Pointe Shopping Center, 11685 Boyette Rd, Riverview, FL",
+      "coordinates": [-82.304057, 27.853019],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-158",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1930 Cobb Pkwy Nw, Kennesaw, GA",
+      "coordinates": [-84.589199, 34.000077],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-159",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 3830 Washington Rd, Martinez, GA",
+      "coordinates": [-82.088084, 33.510863],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-160",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Chamblee Village 1891, Chamblee Tucker Rd, Chamblee, GA",
+      "coordinates": [-84.309899, 33.888746],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-161",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 65 Lawrenceville Suwanee, Lawrenceville, GA",
+      "coordinates": [-84.028091, 33.935254],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-162",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Marketplace Shopping Center, 6135 Peachtree Pkwy, Norcross, GA",
+      "coordinates": [-84.236037, 33.952165],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-163",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Haleiwa Shopping Plaza 66-145 Kamehameha Hwy, Haleiwa, HI",
+      "coordinates": [-158.103307, 21.588736],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-164",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Kona Coast Shopping Center, 74-5586 Palani Rd, Kailua-Kona, HI",
+      "coordinates": [-155.995265, 19.645447],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-165",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Kamehameha Shopping Center, 1620 N School St, Honolulu, HI",
+      "coordinates": [-157.868364, 21.336313],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-166",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Wahiawa Shopping Center, 823 California Ave, Wahiawa, HI",
+      "coordinates": [-158.02582, 21.496845],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-167",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 808 Wainee St #102, Lahaina, HI",
+      "coordinates": [-156.677933, 20.876894],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-168",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Kukui Grove Center, 3-2600 Kaumualii Hwy B-8, Lihue, HI",
+      "coordinates": [-159.379383, 21.97],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-169",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Magic Valley Mall 1485 Poleline Rd, Twin Falls ID",
+      "coordinates": [-114.455011, 42.594051],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-170",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Gateway Shopping Center 2735 Broadway Avenue, Boise ID",
+      "coordinates": [-116.19519, 43.577706],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-171",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Coeur D’Alene Mall Shopping Center, 131 E Best Ave, Coeur D Alene, ID",
+      "coordinates": [-116.782932, 47.701229],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-172",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Radioshack Century Square, 2922 E Cleveland Blvd, Caldwell ID",
+      "coordinates": [-116.667046, 43.648388],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-173",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 19 Crystal Lake Plaza, Crystal Lake, IL",
+      "coordinates": [-88.325017, 42.227453],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-174",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 1191 S Elmhurst Rd, Des Plaines, IL",
+      "coordinates": [-87.939891, 42.031283],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-175",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 843 E Rollins Rd, Round Lake Beach, IL",
+      "coordinates": [-88.059764, 42.379244],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-176",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 2565 Sycamore Rd, Dekalb, IL",
+      "coordinates": [-88.722922, 41.955715],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-177",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack Woodfield Mall, Schaumburg, IL",
+      "coordinates": [-88.036886, 42.046121],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-178",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 21182S La Grange Rd, Frankfort, IL",
+      "coordinates": [-87.853252, 41.504435],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "radioshack-179",
+    "name": "Radioshack",
+    "description":
+      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+    "_user": "58c039018060197ca0b52d4c",
+    "photo": "",
+    "tags": ["Radioshack", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Radioshack 535 S La Grange Rd, La Grange, IL",
+      "coordinates": [-87.868845, 41.803814],
+      "type": "Point"
+    }
+  }
+]
