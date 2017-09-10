@@ -5,8 +5,8 @@ extends layout
 block content
   .inner
     h2= title
-    //- Addeded dump user
-    pre= h.dump(user)
+    //- dump user if you need to see their data
+    //- pre= h.dump(user)
     form(action="/account" method="POST")
        label(for="name") Name
        input(type="text" name="name" value=user.name)
