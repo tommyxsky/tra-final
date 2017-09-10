@@ -2,6 +2,8 @@ const passport = require('passport');
 const crypto = require('crypto');
 const mongoose = require('mongoose');
 const promisify = require('es6-promisify');
+const mail = require('./../handlers/mail');
+
 
 exports.login = passport.authenticate('local', {
   failureRedirect: '/login',
@@ -76,7 +78,7 @@ exports.confirmedPasswords = (req, res, next) => {
   req.flash('error', 'Passwords do not match');
   res.redirect('back');
 };
-// ========= Added expors Update =========
+// ========= Added exports Update =========
 exports.update = async (req, res) => {
   const user = await User.findOne({
     resetPasswordToken: req.params.token,
@@ -98,4 +100,13 @@ exports.update = async (req, res) => {
   await req.login(updatedUser);
   req.flash('success', 'Your password has been reset! You are now logged in');
   res.redirect('/');
+  //ADDED THIS 9/6
+  const resetURL = `http://${req.headers.host}/account/reset/${user.resetPasswordToken}`;
+    req.flash('success', `You have been emailed a password reset link. ${resetURL}`);
+  await mail.send({
+      user,
+      subject: 'Password Reset',
+      resetURL,
+      filename: 'password-reset'
+    });
 };
