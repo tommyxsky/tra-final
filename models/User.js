@@ -1,16 +1,11 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const validator = require('validator');
-// ======== Updated cryptographic hash ========
-const md5 = require('md5');
+const md5 = require('md5'); // cryptographic hash
 const mongodbErrorHandler = require('mongoose-mongodb-errors');
-
-//========= Spelling Correction =========
 const passportLocalMongoose = require('passport-local-mongoose');
 
 mongoose.Promise = global.Promise;
-
-//========= Working With userSchema ==========
 
 const userSchema = new Schema({
   email: {
@@ -38,7 +33,7 @@ userSchema.plugin(mongodbErrorHandler);
 // ========= virtualFieldsSchema updated  ========
 userSchema.virtual('gravatar').get(function() {
   const hash = md5(this.email);
-  return `https://gravatar.com/avatar/${hash}?s=200`;
+  return `https://gravatar.com/avatar/${hash}?s=50`;
 });
 
 userSchema.plugin(passportLocalMongoose, { usernameField: 'email' });
