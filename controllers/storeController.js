@@ -101,7 +101,7 @@ exports.getStoreBySlug = async (req, res, next) => {
 
 //Stop users from editing stores they do not own
 const confirmOwner = (store, user) => {
-  if (!store.author.equals(user._id)) {
+  if (!store.author.equals(user._id) || user.level < 10) {
     throw Error('You must own a store in order to edit it!');
   }
 };
