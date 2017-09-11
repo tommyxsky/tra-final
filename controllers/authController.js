@@ -102,11 +102,11 @@ exports.update = async (req, res) => {
   res.redirect('/');
   //ADDED THIS 9/6
   const resetURL = `http://${req.headers.host}/account/reset/${user.resetPasswordToken}`;
-    req.flash('success', `You have been emailed a password reset link. ${resetURL}`);
   await mail.send({
       user,
       subject: 'Password Reset',
       resetURL,
       filename: 'password-reset'
-    });
+  });
+    req.flash('success', `You have been emailed a password reset link. ${resetURL}`);
 };

@@ -99,18 +99,10 @@ exports.getStoreBySlug = async (req, res, next) => {
   res.render('store', { store, title: store.name });
 };
 
-//Stop users from editing stores they do not own
-const confirmOwner = (store, user) => {
-  if (!store.author.equals(user._id)) {
-    throw Error('You must own a store in order to edit it!');
-  }
-};
-
 exports.editStore = async (req, res) => {
   // 1. Find the store given the ID
   const _id = req.params.id;
   const store = await Store.findOne({ _id });
-  confirmOwner(store, req.user);
   res.render('editStore', {
     title: `Edit ${store.name}`,
     store
