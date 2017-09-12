@@ -1066,7 +1066,7 @@ function makeMap(mapDiv) {
   autocomplete.addListener('place_changed', function () {
     var place = autocomplete.getPlace();
     loadPlaces(map, place.geometry.location.lat(), place.geometry.location.lng());
-    console.log(place);
+    //  console.log(place);
   });
 }
 

@@ -24,6 +24,7 @@ function loadPlaces(map, lat = 47.6, lng = -122.3) {
 
     const markers = places.map(place => {
       const [placeLng, placeLat] = place.location.coordinates;
+
       const position = {
         lat: placeLat,
         lng: placeLng
@@ -75,7 +76,7 @@ function makeMap(mapDiv) {
       place.geometry.location.lat(),
       place.geometry.location.lng()
     );
-    console.log(place);
+    //  console.log(place);
   });
 }
 
