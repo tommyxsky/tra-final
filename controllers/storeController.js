@@ -110,7 +110,6 @@ exports.editStore = async (req, res) => {
   // 1. Find the store given the ID
   const _id = req.params.id;
   const store = await Store.findOne({ _id });
-  confirmOwner(store, req.user);
   res.render('editStore', {
     title: `Edit ${store.name}`,
     store

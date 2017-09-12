@@ -3,13 +3,15 @@ mixin storeCard(store = {})
   .store
     .store__hero
       .store__actions
-        if user && store.author.equals(user._id)
-        .store__action.store__action--edit
-          a(href=`/stores/${store._id}/edit`)
-            != h.icon('pencil')
+        //- pre= h.dump(store.author.equals(user))
+        //- if user && store.author.equals(user._id)
+        //-   .store__action.store__action--edit
+        //-     a(href=`/stores/${store._id}/edit`)
+        //-       != h.icon('pencil')
 
       img(src=`/uploads/${store.photo || 'store-closing.jpg'}`)
       h2.title
         a(href=`/store/${store.slug}`) #{store.name}
     .store__details
         p= store.description.split(' ').slice(0, 25).join(' ')
+        p hello
