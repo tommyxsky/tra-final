@@ -1,407 +1,408 @@
 [
-{
+  {
     "slug": "joes-crab-shack",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 20 Meadowview Dr Meadowbrook AL",
-      "coordinates":[-86.690751,33.417496],
+      "coordinates": [-86.690751, 33.417496],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-1",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 1420 S Azusa Ave City of Industry CA",
-      "coordinates":[-117.9304,33.99603],
+      "coordinates": [-117.9304, 33.99603],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-2",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 12327 Foothill Blvd Rancho Cucamonga CA",
-      "coordinates":[-117.536505,34.105764],
+      "coordinates": [-117.536505, 34.105764],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-3",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack Hazard Center San Diego CA",
-      "coordinates":[-117.163553,32.704661],
+      "coordinates": [-117.163553, 32.704661],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-4",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 245 Jefferson St San Francisco CA",
-      "coordinates":[-122.416501,37.807892],
+      "coordinates": [-122.416501, 37.807892],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-5",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 1451 N Federal Hwy Ft. Lauderdale FL",
-      "coordinates":[-80.120505,26.146416],
+      "coordinates": [-80.120505, 26.146416],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-6",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
-      "address": "Joe’s Crab Shack 12124 S Apopka Vineland Rd Lake Buena Vista FL",
-      "coordinates":[-81.470976,28.444311],
+      "address":
+        "Joe’s Crab Shack 12124 S Apopka Vineland Rd Lake Buena Vista FL",
+      "coordinates": [-81.470976, 28.444311],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-7",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 4402 N University Dr Lauderhill FL",
-      "coordinates":[-80.251148,26.179938],
+      "coordinates": [-80.251148, 26.179938],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-8",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 1590 Pleasant Hill Rd Duluth GA",
-      "coordinates":[-84.123822,33.944518],
+      "coordinates": [-84.123822, 33.944518],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-9",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 11965 S Strang Line Rd Olathe KS",
-      "coordinates":[-94.767528,38.909866],
+      "coordinates": [-94.767528, 38.909866],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-10",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 51 Ludwig Dr Fairview Heights IL",
-      "coordinates":[-89.989654,38.601127],
+      "coordinates": [-89.989654, 38.601127],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-11",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 5626 Northridge Dr Gurnee IL",
-      "coordinates":[-87.942312,42.378795],
+      "coordinates": [-87.942312, 42.378795],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-12",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 2000 E Golf Rd Schaumburg IL",
-      "coordinates":[-88.030044,42.051365],
+      "coordinates": [-88.030044, 42.051365],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-13",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 8250 Dean Rd Indianapolis IN",
-      "coordinates":[-86.098787,39.906272],
+      "coordinates": [-86.098787, 39.906272],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-14",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 2757 E 80th Ave Merrillville IN",
-      "coordinates":[-87.302605,41.471749],
+      "coordinates": [-87.302605, 41.471749],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-15",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 221 Rio Blvd Gaithersburg MD",
-      "coordinates":[-77.200319,39.117711],
+      "coordinates": [-77.200319, 39.117711],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-16",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 6002 Greenbelt Rd Greenbelt MD",
-      "coordinates":[-76.907459,38.997688],
+      "coordinates": [-76.907459, 38.997688],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-17",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 7051 Arundel Mills Cir Hanover MD",
-      "coordinates":[-76.725287,39.153245],
+      "coordinates": [-76.725287, 39.153245],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-18",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 3020 Lohr Rd Ann Arbor MI",
-      "coordinates":[-83.764857,42.240977],
+      "coordinates": [-83.764857, 42.240977],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-19",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 4975 S Baldwin Rd Lake Orion MI",
-      "coordinates":[-83.311477,42.705861],
+      "coordinates": [-83.311477, 42.705861],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-20",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 33879 Van Dyke Sterling Heights MI",
-      "coordinates":[-83.029686,42.543181],
+      "coordinates": [-83.029686, 42.543181],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-21",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 2704 Snelling Ave Roseville MN",
-      "coordinates":[-93.16506,45.022103],
+      "coordinates": [-93.16506, 45.022103],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-22",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 20001 E Jackson Dr Independence MO",
-      "coordinates":[-94.34476,39.040433],
+      "coordinates": [-94.34476, 39.040433],
       "type": "Point"
     }
   },
-{
+  {
     "slug": "joes-crab-shack-23",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 5856 Suemandy Dr St. Peters MO",
-      "coordinates":[-90.622974,38.798926],
+      "coordinates": [-90.622974, 38.798926],
       "type": "Point"
-      }
-    },
-{
+    }
+  },
+  {
     "slug": "joes-crab-shack-24",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 701 N 102nd St Omaha NE",
-      "coordinates":[-96.070556,41.265064],
+      "coordinates": [-96.070556, 41.265064],
       "type": "Point"
-      }
-    },
-{
+    }
+  },
+  {
     "slug": "joes-crab-shack-25",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack 1048 Cedarbridge Ave Brick NJ",
-      "coordinates":[-74.142512,40.056974],
+      "coordinates": [-74.142512, 40.056974],
       "type": "Point"
-      }
-    },
-{
+    }
+  },
+  {
     "slug": "joes-crab-shack-26",
     "name": "Joe's Crab Shack",
     "description":
       "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "Joe’s Crab Shack Monmouth Mall Eatontown NJ",
-      "coordinates":[-74.051432,40.286435],
+      "coordinates": [-74.051432, 40.286435],
       "type": "Point"
-      }
     }
-  ]
+  }
+]
