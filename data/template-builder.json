@@ -1,11 +1,11 @@
 {
-    "slug": "joes-crab-shack",
-    "name": "Joe's Crab Shack",
+    "slug": "payless",
+    "name": "Payless",
     "description":
-      "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
-    "_user": "58c039018060197ca0b52d4c",
+      "Payless ShoeSource Inc. is an American discount footwear retailer headquartered in Topeka, Kansas.",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
-    "tags": ["Joe's Crab Shack", "Closed"],
+    "tags": ["Payless", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "
