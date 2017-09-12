@@ -1,11 +1,11 @@
 {
-    "slug": "radioshack",
-    "name": "Radioshack",
+    "slug": "joes-crab-shack",
+    "name": "Joe's Crab Shack",
     "description":
-      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
+      "Joe's Crab Shack is an informal seafood chain serving crab buckets & stuffed shrimp, plus American comfort dishes.",
     "_user": "58c039018060197ca0b52d4c",
     "photo": "",
-    "tags": ["Radioshack", "Closed"],
+    "tags": ["Joe's Crab Shack", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "

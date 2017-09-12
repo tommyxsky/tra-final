@@ -1,143 +1,755 @@
-"Payless Merchants Cove Shopping Center  Foley Alabama",30.384334,-87.684013
-"Payless Loop Shopping Center  Mobile  Alabama",30.672384,-88.121509
-"Payless Shops At West Bessemer  Alabama",33.49451,-86.877304
-"Payless Decatur Mall  Decatur Alabama",34.572886,-87.018315
-"Payless University Mall Tuscaloosa  Alabama",33.168221,-87.528919
-"Payless Quintard Mall Oxford  Alabama",33.612933,-85.825378
-"Payless Northway Mall Anchorage Alaska",61.217328,-149.887836
-"Payless 5122 N. 95Th Ave. Glendale  Arizona",33.554306,-112.261733
-"Payless 108 N. Morley Ave.  Nogales Arizona",31.338607,-110.938647
-"Payless Tuscano Towne Center  Phoenix Arizona",33.526351,-112.131358
-"Payless Metro Center  Phoenix Arizona",33.708675,-112.113942
-"Payless Foothills Center  Phoenix Arizona",33.526351,-112.131358
-"Payless Plaza Vista Mall  Sierra Vista  Arizona",31.52915,-110.260014
-"Payless Menlo Park Shopping Center  Tucson  Arizona",32.289014,-110.975619
-"Payless 1518 S Caraway Road Jonesboro Arkansas",35.823249,-90.665119
-"Payless Arkansas Shopping Center  Hope  Arkansas",33.27,-93.239785
-"Payless Berryville Center Berryville  Arkansas",36.376212,-93.585292
-"Payless Twin City Shopping Center West Helena Arkansas",34.555985,-90.656785
-"Payless Porters Common Shopping Center  Blytheville Arkansas",35.93082,-89.870554
-"Payless 4316 Camp Robinson Road North Little Rock Arkansas",34.792155,-92.226256
-"Payless Hot Springs Mall  Hot Springs National  Arkansas",34.448474,-93.079383
-"Payless Park Plaza Mall Little Rock Arkansas",34.753473,-92.34312
-"Payless Valley Park Center  Russellville  Arkansas",35.27904,-93.095822
-"Payless 2212 N. Washington St.  Forrest City  Arkansas",35.030278,-90.789261
-"Payless 3115 Harrison Batesville  Arkansas",35.764931,-91.615341
-"Payless Ozark Mall Outlet Harrison  Arkansas",36.252664,-93.1208
-"Payless Country Club Plaza  Sacramento  California",38.608234,-121.380964
-"Payless East County Square  El Cajon  California",32.823773,-116.903377
-"Payless 1077 W. Highland Ave. San Bernardino  California",34.136631,-117.245389
-"Payless 2048 Story Road San Jose  California",37.343946,-121.836503
-"Payless 1201 Columbus St. Bakersfield California",35.397236,-118.980591
-"Payless 600 Redwood St. Vallejo California",38.12355,-122.256435
-"Payless 455 W. Willow St. Long Beach  California",33.772798,-118.190418
-"Payless Ceres Plaza Shopping Center Modesto California",37.673201,-121.036047
-"Payless Brea Union Plaza  Brea  California",33.912487,-117.868972
-"Payless Page Plaza  Hemet California",33.727362,-117.008733
-"Payless Garden Grove Pavilion Garden Grove  California",33.772879,-117.920083
-"Payless Wal-Mart Center Huntington Beach  California",33.700232,-117.985507
-"Payless Sherwood Shopping Plaza Bell Gardens  California",33.96844,-118.163418
-"Payless Bristol Place Santa Ana California",33.776576,-117.870364
-"Payless Manchester Center Fresno  California",36.806366,-119.774313
-"Payless Del Amo Fashion Center  Torrance  California",33.830765,-118.349415
-"Payless 16 W. Birch St. Calexico  California",32.665709,-115.495201
-"Payless Rosemead Plaza  Rosemead  California",34.063487,-118.090273
-"Payless 434 E. Charter Way  Stockton  California",37.939543,-121.281025
-"Payless Florin Towne Center Sacramento  California",38.497043,-121.434097
-"Payless Clinging Vine Shopping Center Los Angeles California",34.094145,-118.325894
-"Payless Los Banos Creek Shopping Center Los Banos California",37.055601,-120.868986
-"Payless Fulton Mall Fresno  California",36.737645,-119.729299
-"Payless 10181 Magnolia Ave  Riverside California",33.947601,-117.3998
-"Payless 2602 N. Broadway  Los Angeles California",34.073468,-118.21499
-"Payless 11934 Garvey Ave. El Monte  California",34.038976,-118.143651
-"Payless Border Plaza  San Ysidro  California",32.543683,-117.041222
-"Payless The Place On 47Th Street  Palmdale  California",34.604827,-118.153719
-"Payless Target Center Orange  California",33.825679,-117.838532
-"Payless Hilltop Mall  Richmond  California",37.980929,-122.327648
-"Payless Citrus Crossing Azusa California",34.106493,-117.899495
-"Payless 3235 N. First Fresno  California",36.780202,-119.772978
-"Payless Shops At River Walk BAlaskaersfield California",35.352001,-119.121727
-"Payless Bristol Marketplace Santa Ana California",33.776576,-117.870364
-"Payless Palmdale Promenade  Palmdale  California",34.604827,-118.153719
-"Payless Westfield Valencia  Valencia  California",34.415742,-118.557776
-"Payless Corona Hills Marketplace  Corona  California",33.891251,-117.520086
-"Payless Target Fullerton Shopping Center  Fullerton California",33.887882,-117.877907
-"Payless Yreka Junction  Yreka California",41.701165,-122.643997
-"Payless Crescent City Center  Crescent City California",41.746538,-124.178341
-"Payless Plaza Pacifica  San Clemente  California",33.456134,-117.604267
-"Payless El Super Center Wilmington  California",33.778822,-118.263078
-"Payless 1570 W. Foothill Blvd.  Upland  California",34.110075,-117.7606
-"Payless Shasta Factory Outlets  Anderson  California",40.433317,-122.286776
-"Payless Watsonville Square  Watsonville California",36.910771,-121.767759
-"Payless 20829 Ventura Blvd. Woodland Hills  California",34.191124,-118.602773
-"Payless Muir Station  Martinez  California",37.992935,-122.119911
-"Payless Five Cities Center  Arroyo Grande California",35.126602,-120.593089
-"Payless Encinitas Ranch Town Center Encinitas California",33.066498,-117.266256
-"Payless High Plains Shopping Center Sterling  Colorado",40.624078,-103.232169
-"Payless Creekside Shopping Center Lakewood  Colorado",39.689028,-105.062443
-"Payless Marketplace At Northglenn Northglenn  Colorado",39.889366,-104.992485
-"Payless Waterbury Plaza Waterbury Connecticut",41.563329,-73.00557
-"Payless Jordan Lane Shopping Center Wethersfield  Connecticut",41.693459,-72.657867
-"Payless Sand Hill Plaza Newtown Connecticut",41.373049,-73.272889
-"Payless Old Saybrook Shopping Center  Old Saybrook  Connecticut",41.296415,-72.382083
-"Payless Strawberry Hill Shopping Center Norwalk Connecticut",41.126025,-73.389841
-"Payless 6431 Georgia Ave. Washington  D.C.",38.968383,-77.027175
-"Payless Good Hope Marketplace Shopping Center Washington  D.C.",38.859443,-76.966194
-"Payless 535 Pine Island Road  North Fort Myers  Florida",26.621142,-81.94103
-"Payless Perry Plaza Perry Florida",30.103585,-83.581737
-"Payless 33497 S. Dixie Hwy. Florida City  Florida",25.478111,-80.464141
-"Payless Manor Plaza Fort Lauderdale Florida",26.165189,-80.202296
-"Payless 7414 University Blvd. Winter Park Florida",28.552409,-81.200074
-"Payless Silver Hills Shopping Center  Orlando Florida",28.477065,-81.449499
-"Payless Lake Fredrica Shopping Center Orlando Florida",28.504776,-81.31136
-"Payless Royal Eagle Plaza Pompano Beach Florida",26.286247,-80.247814
-"Payless Panama City Mall  Panama City Florida",30.18799,-85.670487
-"Payless Sawgrass Mills  Sunrise Florida",26.150531,-80.323134
-"Payless 8201 N. Dale Mabry Hwy. Tampa Florida",28.088437,-82.505225
-"Payless Tamiami Trails Shops  Miami Florida",25.786069,-80.364233
-"Payless West OAlaskas Mall  Ocoee Florida",28.556993,-81.515823
-"Payless Sand LAlaskae Corners Orlando Florida",28.44674,-81.425945
-"Payless Shoppes Of Liberty City Miami Florida",25.824358,-80.214419
-"Payless Harbor Shops  Fort Lauderdale Florida",26.097233,-80.130273
-"Payless Pembroke Commons Shopping Center  Pembroke Pines  Florida",26.01082,-80.306095
-"Payless Savannah Mall Savannah  Georgia",32.002299,-81.115816
-"Payless Delk Spectrum Shopping Center Marietta  Georgia",33.94741,-84.52225
-"Payless Dublin Shopping Center  Dublin  Georgia",32.544456,-82.952351
-"Payless North Lake Mall Atlanta Georgia",33.850554,-84.255487
-"Payless Stockbridge Corners Stockbridge Georgia",33.552022,-84.256973
-"Payless Kukui Marketplace Lihue Hawaii",FAILED,FAILED
-"Payless Kona Coast Shopping Center  Kailua Kona Hawaii",19.645447,-155.995265
-"Payless Rockton Shopping Center Rockford  Illinois",42.265291,-88.9984
-"Payless Hickory Point Mall  Forsyth Illinois",39.919101,-88.959441
-"Payless 4111 N. Vermilion Danville  Illinois",40.202585,-87.629891
-"Payless Scottsdale Shopping Center  Chicago Illinois",41.795748,-87.630304
-"Payless Fountain Square Waukegan  Illinois",42.370064,-87.864873
-"Payless 9047 S Commercial Ave.  Chicago Illinois",41.73887,-87.605517
-"Payless 4301 Avenue Of The Cities Moline  Illinois",41.466784,-90.502925
-"Payless Pine Tree Plaza Sterling  Illinois",41.817212,-89.643331
-"Payless Stonebrook Plaza  Merrionette Park  Illinois",41.683486,-87.701738
-"Payless 5607 W. Belmont Ave.  Chicago Illinois",41.931827,-87.74383
-"Payless Lakeview Plaza  Orland Park Illinois",41.603188,-87.855517
-"Payless Deerpath Commons Shopping Center  Lake Zurich Illinois",42.181286,-88.082784
-"Payless Courtesy Plaza Shopping Center  Chicago Illinois",41.807839,-87.703247
-"Payless Plaza North Terre Haute Ind.",39.42675,-87.420069
-"Payless Citicentre Plaza  Carroll Iowa",42.070189,-94.877385
-"Payless Kimberly Commons  Davenport Iowa",41.5578,-90.624516
-"Payless 3511 10Th St. Great Bend  Kansas",38.361561,-98.787028
-"Payless Liberal Plaza Shopping Center Liberal Kansas",37.05181,-100.921572
-"Payless 2326 Industrial Road  Emporia Kansas",38.425935,-96.216569
-"Payless Hutchinson Mall Hutchinson  Kansas",38.067371,-97.898035
-"Payless New Cut Market Center Louisville  Kentucky",38.129182,-85.782094
-"Payless Towne Square Mall Owensboro Kentucky",37.72039,-87.127483
-"Payless Kentucky OAlaskas Mall  Paducah Kentucky",37.079383,-88.688668
-"Payless Northside Shoppes Murray  Kentucky",36.627317,-88.315339
-"Payless Town Fair Center  Louisville  Kentucky",38.216891,-85.585117
-"Payless 2815 Fort Campbell Blvd.  Hopkinsville  Kentucky",36.589363,-87.286467
-"Payless 82 Madison Square Center  Madisonville  Kentucky",37.324633,-87.479002
-"Payless Belleview Plaza Shopping Center Plaquemine  Louisiana",30.275764,-91.23664
-"Payless Tiffany Plaza Shopping Center Abbeville Louisiana",29.977199,-92.100724
-"Payless 2517 Hollywood Ave. Shreveport  Louisiana",32.45611,-93.777963
-"Payless 610 N. Canal Blvd.  Thibodaux Louisiana",29.810356,-90.816699
-"Payless Algiers Plaza New Orleans Louisiana",29.920737,-90.03922
-"Payless Kmart Shopping Center Shreveport  Louisiana",32.403868,-93.804773
-"Payless East Side Plaza Houma Louisiana",29.635731,-90.755702
+"Shops At West Bessemer, Alabama",33.390971,-86.977855
+"9256 Parkway East Birmingham, Alabama",33.588974,-86.698734
+"Decatur Mall Decatur, Alabama",34.572256,-87.017591
+"Merchants Cove Shopping Center Foley, Alabama",30.384334,-87.684013
+"Riverchase Galleria Hoover, Alabama",33.376482,-86.807471
+"Loop Shopping Center Mobile, Alabama",41.88399,-87.627606
+"Quintard Mall Oxford, Alabama",33.613126,-85.823888
+"University Mall Tuscaloosa, Alabama",33.193811,-87.523965
+"Northway Mall Anchorage, Alaska",61.216992,-149.820258
+"Crossroads Towne Center Gilbert, Arizona",33.28187,-111.788754
+"5122 N. 95th Ave. Glendale, Arizona",33.511274,-112.267
+"Gilbert Gateway Towne Center Mesa, Arizona",33.323165,-111.689091
+"108 N. Morley Ave. Nogales, Arizona",31.333999,-110.940172
+"Tuscano Towne Center Phoenix, Arizona",33.421684,-112.224244
+"Metro Center Phoenix, Arizona",33.575056,-112.121373
+"Foothills Center Phoenix, Arizona",33.655091,-112.178138
+"Legacy Village Phoenix, Arizona",33.378709,-112.033478
+Happy Valley Towne Center Phoenix, Arizona
+Indian Village Shopping Center  Phoenix, Arizona
+The Pavilions at Talking Stick Scottsdale , Arizona
+Plaza Vista Mall Sierra Vista, Arizona
+The Groves Shopping Center  Tempe, Arizona
+Menlo Park Shopping Center Tucson, Arizona
+4140 E 22nd ST  Tucson, Arizona
+Park Mall Tucson, Arizona
+Tucson Mall Tucson, Arizona
+3115 Harrison Batesville, Arkansas
+Berryville Center Berryville, Arkansas
+Porters Common Shopping Center Blytheville, Arkansas
+2212 N. Washington St. Forrest City, Arkansas
+8319 Rogers Ave. Fort Smith, Arkansas
+Ozark Mall Outlet Harrison, Arkansas
+Arkansas Shopping Center Hope, Arkansas
+Hot Springs Mall Hot Springs National, Arkansas
+1518 S Caraway Road Jonesboro, Arkansas
+Park Plaza Mall Little Rock, Arkansas
+10101 Mablevale Plaza Little Rock, Arkansas
+11400 W. Markham St. Little Rock, Arkansas
+4316 Camp Robinson Road North Little Rock, Arkansas
+Pinnacle Hills Promenade Rogers, Arkansas
+Valley Park Center Russellville, Arkansas
+202 Arkansas Blvd. Texarkana, Arkansas
+Twin City Shopping Center West Helena, Arkansas
+Anaheim Hills Festival Anaheim, California
+Anaheim Plaza Anaheim, California
+East Anaheim Shopping Center Anaheim, California
+Shasta Factory Outlets Anderson, California
+Center at Slatten Ranch Antioch, California
+Jess Ranch Marketplace Apple Valley, California
+Five Cities Center Arroyo Grande, California
+Applegate Ranch Commercial Center Atwater, California
+Citrus Crossing Azusa, California
+1201 Columbus St. Bakersfield, California
+Shops at River Walk Bakersfield, California
+Gosford Village Bakersfield, California
+Valley Plaza Bakersfield, California
+Sun Lakes Village Banning, California
+Sherwood Shopping Plaza Bell Gardens, California
+Brea Union Plaza Brea, California
+Sand Creek Crossing  Brentwood, California
+16 W. Birch St. Calexico, California
+Cerritos Towne Center Cerritos, California
+Chino Town Center Chino, California
+Broadway Plaza  Chula Vista, California
+Clovis Commons Clovis, California
+Gateway Towne Center Compton, California
+Corona Hills Marketplace Corona, California
+Butterfield Stage Square Corona, California
+Citrus Village Corona, California
+Crescent City Center Crescent City, California
+Cudahy Plaza Cudahy, California
+East County Square El Cajon, California
+Main Street Village El Cajon, California
+11934 Garvey Ave. El Monte, California
+Encinitas Ranch Town Center Encinitas, California
+Manchester Center Fresno, California
+Fulton Mall Fresno, California
+3235 N. First Fresno, California
+3172 E. Tulare Ave.  Fresno, California
+Marketplace at El Paseo  Fresno, California
+Target Fullerton Shopping Center Fullerton, California
+Fullerton Metro Center Fullerton, California
+Garden Grove Pavilion Garden Grove, California
+Gilroy Crossing Gilroy, California
+Glendale Fashion Center Glendale, California
+14300 Ocean Gate Ave. Hawthorne, California
+11825 Hawthorne Blvd  Hawthorne, California
+Page Plaza Hemet, California
+Highland Avenue Plaza  Highland, California
+Wal-Mart Center Huntington Beach, California
+9842 Adams Huntington Beach, California
+La Verne Towne Center La Verne, California
+2710 Carson St. Lakewood, California
+Plaza 580 Livermore, California
+455 W. Willow St. Long Beach, California
+Belmont Plaza Long Beach, California
+Long Beach Towne Center Long Beach, California
+Los Altos Plaza Long Beach, California
+Clinging Vine Shopping Center Los Angeles, California
+2602 N. Broadway Los Angeles, California
+2336 E. Cesar E. Chavez Ave. Los Angeles, California
+536 E. Manchester Ave.  Los Angeles , California
+Los Banos Creek Shopping Center Los Banos, California
+Muir Station Martinez, California
+1822 W. Olive Ave. Merced, California
+Ceres Plaza Shopping Center Modesto, California
+Vintage Commons Shopping Center  Modesto, California
+2601 Oakdale Road Modesto, California
+Atlantic Square Shopping Center  Monterey Park, California
+Northridge Fashion Center  Northridge, California
+Target Center Orange, California
+181 W. Esplande Dr. Oxnard , California
+Shopping At The Rose Oxnard , California
+The Place On 47th Street Palmdale, California
+Palmdale Promenade Palmdale, California
+Pico Rivera Towne Center  Pico Rivera, California
+Pinole Vista Crossing  Pinole, California
+Metro 580 Pleasanton, California
+Santa Margarita Town Ctr Rancho Santa Margarita, California
+Woodside Central Redwood City, California
+681 E. Foothill Blvd. Rialto, California
+Hilltop Mall Richmond, California
+MacDonald 80 Retail Center  Richmond, California
+Crossroads Shopping Center  Riverbank, California
+10181 Magnolia Ave Riverside, California
+Rosemead Plaza Rosemead, California
+Country Club Plaza Sacramento, California
+Florin Towne Center Sacramento, California
+5095 Stockton Blvd.  Sacramento, California
+1077 W. Highland Ave. San Bernardino, California
+Plaza Pacifica San Clemente, California
+Clairmont Town Square San Diego, California
+934 Market St.  San Francisco , California
+2048 Story Road San Jose, California
+1950 Tully Road San Jose, California
+Riverhill Plaza San Jose, California
+The Plant Shopping Center San Jose, California
+San Leandro Plaza  San Leandro, California
+San Luis Obispo Promenade San Luis Obispo, California
+Border Plaza San Ysidro, California
+Bristol Place Santa Ana, California
+Bristol Marketplace Santa Ana, California
+Bristol‐McFadden Plaza  Santa Ana, California
+Riverview West Marketplace Santa Ana, California
+Turnpike Center Santa Barbara, California
+627 State St.  Santa Barbara , California
+Stony Point Plaza Shopping Center  Santa Rosa, California
+Gateway Plaza Sante Fe Springs, California
+Santee Trolley Square  Santee, California
+Sonora Crossroads Sonora, California
+434 E. Charter Way Stockton, California
+Park West Place Stockton, California
+Canyon Plaza Shopping Center  Sun Valley, California
+Redhawk Town Center  Temecula, California
+Del Amo Fashion Center Torrance, California
+20020 Hawthorne Blvd.  Torrance, California
+Monte Vista Crossing Turlock, California
+Larwin Square  Tustin, California
+Union Square Marketplace Union City , California
+Union Landing Union City , California
+1570 W. Foothill Blvd. Upland, California
+Colonies Crossroads Upland, California
+Westfield Valencia Valencia, California
+600 Redwood St. Vallejo, California
+Vallejo Corners Vallejo, California
+Victor Valley Town Center  Victorville, California
+Visalia Mall Visalia, California
+Packwood Creek  Visalia , California
+North County Square Vista, California
+Watsonville Square Watsonville, California
+Cabrillo Center  Watsonville, California
+Westminster Mall Wesminster, California
+Riverpoint Marketplace West Sacramento, California
+The Quad At Whittier Whittier, California
+Whittwood Town Center Whittier, California
+El Super Center Wilmington, California
+20829 Ventura Blvd. Woodland Hills, California
+Yreka Junction Yreka, California
+Northridge Shopping Center Arvada, Colorado
+Town Center At Aurora Aurora, Colorado
+Mesa Mall Grand Junction, Colorado
+Groton Square Groton, Colorado
+Creekside Shopping Center Lakewood, Colorado
+Southwest Plaza Littleton, Colorado
+The Shoppes At Buckland Hills Manchester, Colorado
+Sand Hill Plaza Newtown, Colorado
+Marketplace At Northglenn Northglenn, Colorado
+Strawberry Hill Shopping Center Norwalk, Colorado
+Old Saybrook Shopping Center Old Saybrook, Colorado
+Tri‐City Plaza Rockville, Colorado
+High Plains Shopping Center Sterling, Colorado
+Waterbury Plaza Waterbury, Colorado
+950 Wolcott St  Waterbury, Colorado
+Brass Mill Center Waterbury, Colorado
+Prospect Avenue Plaza  West Hartford, Colorado
+Jordan Lane Shopping Center Wethersfield, Colorado
+6431 Georgia Ave. Washington DC
+Good Hope Marketplace Shopping Center Washington DC
+Altamonte Mall Altamonte Springs, Florida
+Clearwater Mall Clearwater, Florida
+Lakeside Town Shops Davie, Florida
+33497 S. Dixie Hwy. Florida City, Florida
+Manor Plaza Fort Lauderdale, Florida
+Harbor Shops Fort Lauderdale, Florida
+6850 W 12th Ave  Hialeah, Florida
+Country Club Plaza Hialeah, Florida
+Hollywood Hills Plaza Hollywood , Florida
+Sheridan Plaza Hollywood , Florida
+Chasewood Plaza Jupiter, Florida
+Tamiami Trails Shops Miami, Florida
+Shoppes Of Liberty City Miami, Florida
+19400 S Dixie Hwy  Miami, Florida
+Flagler Park Plaza Miami, Florida
+7276 S W 117th Avenue  Miami, Florida
+Kendall Lakes Plaza Miami, Florida
+215 Lincoln Rd  Miami Beach, Florida
+The Fountains Of Miramar Plaza  Miramar, Florida
+535 Pine Island Road North Fort Myers, Florida
+Shops At Skylake North Miami Beach, Florida
+Mall At 163rd St. North Miami Beach, Florida
+Northridge Shopping Center Oakland Park, Florida
+West Oaks Mall Ocoee, Florida
+Silver Hills Shopping Center Orlando, Florida
+Lake Fredrica Shopping Center Orlando, Florida
+Sand Lake Corners Orlando, Florida
+6600 International Drive  Orlando, Florida
+Panama City Mall Panama City, Florida
+Pembroke Commons Shopping Center Pembroke Pines, Florida
+Pembroke Lakes Mall Pembroke Pines, Florida
+Westfork Plaza Pembroke Pines, Florida
+Perry Plaza Perry, Florida
+Royal Eagle Plaza Pompano Beach, Florida
+Sawgrass Mills Sunrise, Florida
+Governor's Square Mall Tallahassee, Florida
+8201 N. Dale Mabry Hwy. Tampa, Florida
+Weston Commons Weston, Florida
+7414 University Blvd. Winter Park, Florida
+North Lake Mall Atlanta, Georgia
+Buckhead Crossing Atlanta, Georgia
+Perimeter Mall Atlanta, Georgia
+Aurora Plaza Brixmor, Georgia
+Indian Hills Shopping Center Calhoun, Georgia
+Dublin Shopping Center Dublin, Georgia
+Ft Oglethorpe Shopping Center Fort Oglethorpe, Georgia
+Fairington Centre  Lithonia, Georgia
+Delk Spectrum Shopping Center Marietta, Georgia
+Savannah Mall Savannah, Georgia
+Stockbridge Corners Stockbridge, Georgia
+Woodstock Square Woodstock, Georgia
+Kona Coast Shopping Center Kailua Kona, Hawaii
+Windward City Shopping Center Kaneohe, Hawaii
+Kukui Marketplace Lihue, Hawaii
+The Shoppes At Two Rivers Plaza Bolingbrook, IL
+Broadview Village Square  Broadview, IL
+9047 S Commercial Ave. Chicago, IL
+5607 W. Belmont Ave. Chicago, IL
+Courtesy Plaza Shopping Center Chicago, IL
+13 N State St Chicago, IL
+Hall Plaza Shopping Center Chicago, IL
+Riverside Square  Chicago, IL
+The Brickyard Chicago, IL
+2800 N Milwaukee Ave Chicago , IL
+4547 N Broadway  Chicago , IL
+Addison Mall Chicago , IL
+Hawthorne Works Shopping Center  Cicero, IL
+Brettwood Plaza Decatur, IL
+Clocktower Plaza Elgin, IL
+The Quarry Shopping Center Hodgkins, IL
+The Shops At Fox River Johnsburg, IL
+Deerpath Commons Shopping Center Lake Zurich, IL
+Lincolnwood Town Center  Lincolnwood, IL
+6096 Broadway  Merrillville, IL
+Stonebrook Plaza Merrionette Park, IL
+4301 Avenue Of The Cities Moline, IL
+227 E McGalliard Rd  Muncie, IL
+Muncie Mall Muncie, IL
+Westridge Court Naperville, IL
+Lakeview Plaza Orland Park, IL
+Northwoods Mall  Peoria, IL
+Plainfield Commons Plainfield, IL
+Quincy Mall 3255 Broadway Quincy, IL
+Village Crossing Skokie, IL
+Pine Tree Plaza Sterling, IL
+Plaza North Terre Haute, IL
+Citicentre Plaza Carroll, Iowa
+Kimberly Commons Davenport, Iowa
+Jordan Creek Mall West Des Moines, Iowa
+Derby Retail Shopping Center Derby, Kansas
+2326 Industrial Road Emporia, Kansas
+3511 10th St. Great Bend, Kansas
+Hutchinson Mall Hutchinson, Kansas
+Liberal Plaza Shopping Center Liberal, Kansas
+West Ridge Mall Topeka, Kansas
+2570 S Broadway Wichita, Kansas
+Towne West Square Wichita, Kansas
+Florence Mall Florence, Kentucky
+2815 Fort Campbell Blvd. Hopkinsville, Kentucky
+New Cut Market Center Louisville, Kentucky
+Town Fair Center Louisville, Kentucky
+Mall St Matthews  Louisville , Kentucky
+82 Madison Square Center Madisonville, Kentucky
+Northside Shoppes Murray, Kentucky
+Towne Square Mall Owensboro, Kentucky
+Kentucky Oaks Mall Paducah, Kentucky
+3928 7th Street Rd  Shively, Kentucky
+Tiffany Plaza Shopping Center Abbeville, Louisiana
+Mall Of Louisiana Baton Rouge, Louisiana
+Ascension Plaza Gonzales, Louisiana
+East Side Plaza Houma, Louisiana
+1715 Elton Road Jennings, Louisiana
+4325 Veterans Memorial Blvd  Metairie , Louisiana
+Pecanland Mall  Monroe , Louisiana
+Algiers Plaza New Orleans, Louisiana
+Belleview Plaza Shopping Center Plaquemine, Louisiana
+2517 Hollywood Ave. Shreveport, Louisiana
+Kmart Shopping Center Shreveport, Louisiana
+North Shore Square Mall Slidell, Louisiana
+610 N. Canal Blvd. Thibodaux, Louisiana
+Broadway Shopping Center Bangor, Maine
+The Shops At Biddeford Crossing Biddeford, Maine
+Maine Coast Mall Ellsworth, Maine
+Aroostook Centre Presque Isle, Maine
+Westbrook Plaza Westbrook, Maine
+Gallery At Harborplace Baltimore, Maryland
+Mondawmin Mall Baltimore, Maryland
+White Marsh Mall Baltimore , Maryland
+Mall In Columbia Columbia , Maryland
+Uphams Corner Dorchester , Maryland
+Forest Village Park Forestville, Maryland
+Francis Scott Key Mall Frederick , Maryland
+Lakeforest Mall Gaithersburg , Maryland
+Montgomery Village Crossing Gaithersburg , Maryland
+Marley Station Glen Burnie, Maryland
+Valley Mall Hagerstown , Maryland
+Festival At Hyannis Hyannis , Maryland
+Prince Georges Plaza Hyattsville, Maryland
+Natick Mall Natick , Maryland
+Eastover Shopping Center Oxon Hill, Maryland
+Federal Plaza Rockville, Maryland
+Ellsworth Place Mall Silver Spring, Maryland
+White Oak Shopping Center  Silver Spring , Maryland
+Towson Town Center Towson, Maryland
+Adrian Mall Adrian, Michigan
+Alpena Mall Alpena, Michigan
+Bay City Mall Bay City, Michigan
+Orchards Mall Benton Harbor, Michigan
+Big Rapids Commons Shopping Center Big Rapids, Michigan
+1435 N. Mitchell St. Cadillac, Michigan
+8621 East Point Douglas Road Cottage Grove, Michigan
+12850 Michigan Avenue Dearborn , Michigan
+5616 W. Vernor Hwy. Detroit, Michigan
+Elk Park Center Elk River, Michigan
+Woodland Mall Grand Rapids, Michigan
+Rivertown Crossing  Grandville , Michigan
+The Gateway At Detroit Highland Park , Michigan
+3210 E Michigan Avenue Jackson, Michigan
+Madison Place  Madison Heights , Michigan
+Medford Outlet Center Medford, Michigan
+The Mall Of Monroe Monroe, Michigan
+Easten Shopping Center Moorhead, Michigan
+Meridian Mall Okemos, Michigan
+Redford Plaza Redford, Michigan
+Apache Mall  Rochester , Michigan
+Sterling Ponds Shopping Center Sterling Heights, Michigan
+Lakeside Mall Sterling Heights , Michigan
+Woodbury Commons  Woodbury, Michigan
+Loden Center  Batesville, Mississippi
+981 Brookway Blvd. Brookhaven, Mississippi
+832 S. State St. Clarksdale, Mississippi
+408 E Sunflower Rd  Cleveland, Mississippi
+Highland Park Shopping Center Greenwood, Mississippi
+712 Bartur St. Hattiesburg, Mississippi
+2911 Terry Road Jackson, Mississippi
+Pinetree Village  Laurel, Mississippi
+Edgewood Mall Mccomb, Mississippi
+Bonita Lakes Mall Meridian, Mississippi
+North Park Mall Ridgeland, Mississippi
+Yazooville Shopping Center Yazoo City, Mississippi
+Water Tower Place Arnold, Missouri
+North Cass Center Belton, Missouri
+Adams Dairy Landing Blue Springs , Missouri
+Chesterfield Mall Chesterfield, Missouri
+Southtown Shopping Center Chillicothe, Missouri
+Columbia Mall Columbia , Missouri
+Truman's Marketplace Shopping Center Grandview, Missouri
+11115 E. Truman Road Independence, Missouri
+Hastings Plaza Kirksville, Missouri
+Kirkwood Commons Kirkwood, Missouri
+Maplewood Commons Maplewood, Missouri
+Maryville Shopping Center Maryville, Missouri
+Osage Beach Premium Outlets Osage Beach, Missouri
+1758 S. 20Th St. Ozark, Missouri
+Saint Louis Galleria  Saint Louis , Missouri
+Southpoint Shopping Center Sikeston, Missouri
+Epping Crossing Epping , New Hampshire
+Rochester Marketplace Rochester, New Hampshire
+Seacoast Shopping Center Seabrook, New Hampshire
+K Mart Shopping Center  West Lebanon, New Hampshire
+574 Bloomfield Ave. Bloomfield, New Jersey
+Acme Plaza Cape May Court House, New Jersey
+Cherry Hill Mall Cherry Hill , New Jersey
+Mid State Mall East Brunswick, New Jersey
+Lowes Shopping Center East Rutherford, New Jersey
+Marlboro Plaza Englishtown, New Jersey
+Collegetown Shopping Center Glassboro, New Jersey
+Hillsborough Promenade Hillsborough , New Jersey
+Lyndhurst Towne Centre Lyndhurst, New Jersey
+Marlton Crossing Marlton, New Jersey
+Moorestown Mall Moorestown , New Jersey
+Walmart Center North Bergen , New Jersey
+Morris Hills Shopping Center Parsippany, New Jersey
+Phillipsburg Mall Phillipsburg, New Jersey
+1705 Wildwood Blvd Rio Grande, New Jersey
+Cumberland Mall Vineland , New Jersey
+Woodbridge Center Mall Woodbridge, New Jersey
+White Sands Mall Alamogordo, New Mexico
+Sycamore Plaza Albuquerque, New Mexico
+Coronado Center Mall Albuquerque, New Mexico
+Mills Plaza Shopping Center Las Vegas, New Mexico
+2270 Main Street NW Los Lunas, New Mexico
+501 S. Main St. Roswell, New Mexico
+Roswell Center Roswell, New Mexico
+22‐48 31st St  Astoria , New York
+Gardiner Manor Mall Bay Shore , New York
+2410 Merrick Rd  Bellmore, New York
+Bridgehampton Commons Bridgehampton , New York
+29 W. Fordham Road Bronx, New York
+186 W 231st St Bronx, New York
+209 E Fordham Rd Bronx , New York
+1432 Rockaway Pky Brooklyn, New York
+1713 Church Avenue  Brooklyn, New York
+Georgetown Shopping Center Brooklyn, New York
+459 Fulton St # 461 Brooklyn , New York
+510 Fulton St  Brooklyn , New York
+712 Brighton Beach Avenue  Brooklyn , New York
+3189 County Road 10 Canandaigua, New York
+Great Northern Mall Clay, New York
+Delaware Plaza Delmar, New York
+Shoppingtown Mall Dewitt, New York
+Vineyard Plaza Dunkirk, New York
+Aurora Village Shopping Center East Aurora, New York
+Elmont Shopping Center Elmont , New York
+Sky View Shopping Center  Flushing, New York
+3122 Farrington St  Flushing, New York
+42‐01 Bell Blvd  Flushing , New York
+Rockbottom Shopping Center Franklin Square , New York
+Roosevelt Field Mall Garden City, New York
+Genesee Valley Shopping Center Geneseo, New York
+71 Forest Avenue Glen Cove , New York
+5999 S. Park Ave. Hamburg, New York
+The Hub At Hempstead Shopping Center  Hempstead , New York
+Central Islip Town Center Islip, New York
+37‐40 74th Street  Jackson Heights, New York
+Tops Mall Lockport, New York
+North Massapequa Shopping Center Massapequa, New York
+St. Lawrence Centre Massena, New York
+Galleria At Crystal Run  Middletown, New York
+Cortlandt Town Center Mohegan Lake , New York
+Harriman Commons Monroe, New York
+1 Sangertown Square Mall New Hartford, New York
+Lake Success Shopping Center New Hyde Park, New York
+219 West 34Th St. #223 New York, New York
+175 Dyckman St New York, New York
+2143 3rd Ave New York , New York
+437 5th Ave  New York , New York
+556 W 181st  New York , New York
+600 Avenue Of The Americas  New York , New York
+Northern Lights Shopping Center North Syracuse, New York
+301 Meadow Drive North Tonawanda, New York
+137 State Route 104 Oswego, New York
+45 E. Main St. Patchogue, New York
+Panorama Plaza Rochester, New York
+Village Commons Shopping Center Smithtown, New York
+South Shore Commons Staten Island, New York
+Staten Island Mall Staten Island , New York
+Salmon Run Mall Watertown, New York
+Century 21 Plaza Westbury, New York
+The Galleria At White Plains  White Plains , New York
+Eastern Hills Shopping Center Williamsville, New York
+Eastgate Plaza Williamsville, New York
+Yorktown Green Shopping Center Yorktown Heights, New York
+Jefferson Valley Mall Yorktown Heights, New York
+Vinton Square Shopping Center Omaha, Nebraska
+Oak View Mall Omaha, Nebraska
+Western Springs Shopping Center Omaha, Nebraska
+The Shoppes At Market Pointe Papillion, Nebraska
+Carson Valley Fair Shopping Center Gardnerville, Nevada
+Westland Fair Las Vegas, Nevada
+The Meadows Mall Las Vegas, Nevada
+Southern Park Mall Boardma, North Carolinan
+Galleria Shopping Center  Charlott, North Carolinae
+Lee Harvard Shopping Center Cleveland, North Carolina
+3390 S. High St. Columbu, North Carolinas
+Easton Gateway Columbu, North Carolinas
+Northgate Shopping Center Fayettevill, North Carolinae
+Lawndale Crossing Greensbor, North Carolinao
+Four Seasons Town Centre  Greensboro, North Carolina
+805 Memorial Drive Lancaste, North Carolinar
+River Valley Mall  Lancaster, North Carolina
+East Gate Shopping Center Lim, North Carolinaa
+1932 Lincoln Way E. Massillo, North Carolinan
+Creekside Commons Mento, North Carolinar
+Great Lakes Mall Mentor, North Carolina
+71 S Springboro Pike  Miamisbur, North Carolinag
+Shops At Mount Airy Mount Air, North Carolinay
+Knox Village Square Mount Verno, North Carolinan
+Commerce Center New Ber, North Carolinan
+2332 Gallia Street  Portsmouth, North Carolina
+Broad Street Plaza Reynoldsburg, North Carolina
+Heritage Crossing  Wilso, North Carolinan
+Arlington Center Ada , Oklahoma
+Bunker Hill Shopping Center Altus, Oklahoma
+1720e S. Broadway Edmond, Oklahoma
+Edmond Plaza Shopping Center Edmond, Oklahoma
+Central Mall Lawton, Oklahoma
+Riverwalk Centre Moore , Oklahoma
+Damann Plaza Norman, Oklahoma
+Sooner Mall Norman , Oklahoma
+2500 Nw 23rd St. Oklahoma City, Oklahoma
+7401 S Shields Blvd. Oklahoma City, Oklahoma
+2901 Nw 63rd St. Oklahoma City, Oklahoma
+Penn Park Shopping Center Oklahoma City, Oklahoma
+Quail Springs Mall Oklahoma City , Oklahoma
+Westgate Marketplace Oklahoma City , Oklahoma
+2720 N. 14th St. Ponca City, Oklahoma
+Springs Village Sand Springs, Oklahoma
+321 S. Main St. Sapulpa, Oklahoma
+2175 S. Sheridan Road Tulsa, Oklahoma
+Clackamas Promenade Clackamas, Oregon
+Clackamas Town Center Happy Valley , Oregon
+Cascade Commons Hood River, Oregon
+11621 Island Ave. La Grande, Oregon
+Milwaukie Market Place Milwaukie, Oregon
+Pacific Plaza Shopping Center Newport, Oregon
+Super Walmart Plaza Salem , Oregon
+Pioneer Plaza Springfield, Oregon
+Gateway Mall Springfield, Oregon
+Aliquippa Shopping Center Aliquippa, Pennsylvania
+West Valley Marketplace Allentown, Pennsylvania
+Plank Road Commons Altoona, Pennsylvania
+Logan Valley Mall Altoona , Pennsylvania
+Bristol Commerce Plaza Bristol, Pennsylvania
+Capital City Mall Camp Hill, Pennsylvania
+Kimberly Plaza Shopping Center Cranberry , Pennsylvania
+Barn Plaza Shopping Center Doylestown , Pennsylvania
+Erie Market Place Erie, Pennsylvania
+Exton Square Mall Exton , Pennsylvania
+Rockvale Square Lancaster, Pennsylvania
+Park City Center Lancaster, Pennsylvania
+997 Wildlife Lodge Road Lower Burrell, Pennsylvania
+Countryside Shopping Center Mount Pleasant, Pennsylvania
+Montgomery Square Shopping Center North Wales, Pennsylvania
+Plymouth Meeting Mall Plymouth Meeting, Pennsylvania
+The Court Of Upper Providence Royersford , Pennsylvania
+Viewmont Mall Scranton , Pennsylvania
+Susquahanna Valley Mall Selinsgrove , Pennsylvania
+Galleria At Pittsburgh Mills Tarentum, Pennsylvania
+Bradford Town Center Towanda, Pennsylvania
+Washington Crown Center Washington, Pennsylvania
+Whitehall Mall Whitehall , Pennsylvania
+Wyoming Valley Mall Wilkes Barre, Pennsylvania
+Wilkes Barre Marketplace Wilkes Barre , Pennsylvania
+Wind Gap Plaza Wind Gap, Pennsylvania
+Providence Place Mall Providence, Rhode Island
+Magnolia Mall Florence, South Carolina
+720 25th Ave. Brookings, South Dakota
+Rushmore Mall  Rapid City , South Dakota
+K Mart Center Sioux Falls, South Dakota
+Yankton Mall Yankton, South Dakota
+Columbia Mall Columbia, Tennessee
+Germantown Pkwy Cordova , Tennessee
+500 Highway 46 S Dickson , Tennessee
+Dyersburg Mall Dyersburg , Tennessee
+2097 S Highland Ave. Jackson, Tennessee
+West Towne Shopping Center Jackson, Tennessee
+Knoxville Center Knoxville , Tennessee
+Maryville Commons Maryville, Tennessee
+3122 Lamar Ave. Memphis, Tennessee
+KB Plaza Amarillo, Texas
+Westgate Mall Amarillo , Texas
+Four Corners-Angleton Angleton, Texas
+2664 Demory Lane Aransas Pass, Texas
+Pioneer Parkway Arlington, Texas
+Barton Creek Square Austin, Texas
+Shops At Tech Ridge Austin, Texas
+9300 South I‐35 Suite A‐300  Austin , Texas
+Parkdale Mall Beaumont, Texas
+Eastgate Shopping Center Bellmead, Texas
+2011 S. Gregg St. Big Spring, Texas
+1064 Fm 802  Brownsville , Texas
+Las Tiendas Plaza Brownsville , Texas
+308 W. Commerce Brownwood, Texas
+301 Constitution Drive Copperas Cove, Texas
+1813 South Padre Island Drive Corpus Christi, Texas
+Moore Plaza Corpus Christi, Texas
+Casa View Shopping Center Dallas, Texas
+Denton Town Crossing Denton , Texas
+Dumas Center Dumas, Texas
+100 W. Main St. Eagle Pass, Texas
+Cielo Vista Mall El Paso, Texas
+Sunland Park Mall El Paso, Texas
+119 S. Stanton St. El Paso, Texas
+1900 N. Lee Trevino Drive El Paso, Texas
+Sunland Plaza El Paso, Texas
+500 S El Paso St  El Paso , Texas
+7845 N Mesa St  El Paso , Texas
+Las Palmas Marketplacet  El Paso , Texas
+Highlands Of Flower Mound  Flower Mound , Texas
+Beach Street Commons Fort Worth, Texas
+3310 Mansfield Hwy  Fort Worth, Texas
+Hulen Mall Fort Worth , Texas
+El Dorado Marketplace Friendswood, Texas
+Broadway Plaza Garland , Texas
+Lake Prairie Crossing  Grand Prairie , Texas
+7715 Wesley Road Greenville, Texas
+Market Heights Shopping Center Harker Heights, Texas
+Valle Vista Mall Harlingen, Texas
+1102 S Expressway 83  Harlingen, Texas
+9405 Jensen Drive Houston, Texas
+Telephone Road Shopping Center Houston, Texas
+Pearland Parkway Village Houston, Texas
+The Crossing At Fort Bend Houston, Texas
+Hearthstone Corners Houston, Texas
+11003 1/2 Market Street Road Houston, Texas
+9417 Mesa Houston, Texas
+2219 Fulton St. Houston, Texas
+Fiesta Shopping Center Houston, Texas
+10100 Beechnut Drive Suite 130 Houston, Texas
+Market Square At Eldridge Pkwy Houston, Texas
+Antoine Town Center Houston , Texas
+Harrisburg‐Wayside Shopping Center Houston , Texas
+Northwest Market Place Houston , Texas
+Shops At Royal Oaks Houston , Texas
+Willowbrook Mall Houston , Texas
+Deerbrook Mall Humble, Texas
+Irving Town Center Irving, Texas
+Haberle Plaza Jacksonville, Texas
+Katy Shopping Center  Katy , Texas
+Killeen Mall Killeen, Texas
+2121 S. Brahma Kingsville, Texas
+Bay Park Shopping Center La Marque, Texas
+The Marketplace At Bob Bullock Laredo, Texas
+Laredo Crossing Laredo, Texas
+201 Convent Ave. Laredo, Texas
+2400 E Saunders St  Laredo, Texas
+Lubbock Shopping Center Lubbock, Texas
+Market At Nolana Shopping Center McAllen, Texas
+Central Marketplace McAllen , Texas
+Mckinney Towne Crossing McKinney , Texas
+The Crossing Mineral Wells, Texas
+Sharyland Towne Crossing Mission, Texas
+Palmhurst Shopping Center Palmhurst , Texas
+Fairway Centre Pasadena, Texas
+The Center At Pearland Parkway Pearland , Texas
+Westview Shopping Center Plainview, Texas
+Collin Creek Mall Plano, Texas
+Heritage Center Plano , Texas
+3712 Gulfway Drive Port Arthur, Texas
+Walmart Subdivision 4524 E Hwy 83  Rio Grande City , Texas
+Roanoke Crossing Shops Roanoke, Texas
+Stegertown Crossing  Rockwall, Texas
+4605 Avenue H Rosenberg, Texas
+Palm Valley Plaza Shopping Center Round Rock , Texas
+5401 Kenwood Drive Rowlett, Texas
+Sunset Mall San Angelo, Texas
+5150 Southland Blvd. San Angelo, Texas
+Parliament Plaza San Antonio, Texas
+1020 Sw Military Drive San Antonio, Texas
+2927 Nogalitos San Antonio, Texas
+Military Drive Plaza San Antonio, Texas
+Austin Highway Retail Center San Antonio, Texas
+Walzem Plaza San Antonio, Texas
+Madison's Market Shopping Center San Antonio, Texas
+100 Soledad San Antonio, Texas
+Dellview Marketplace San Antonio, Texas
+North Star Mall San Antonio, Texas
+11915 Perrin Beitel Rd San Antonio , Texas
+Brook Corner Shopping Center San Antonio , Texas
+Buena Vista Plaza San Antonio , Texas
+Rolling Oaks Mall San Antonio , Texas
+The Shops At La Cantera San Antonio , Texas
+Westlakes Shopping Center San Antonio , Texas
+Westover Place Shopping Center San Antonio , Texas
+San Benito Plaza San Benito, Texas
+2201 Texoma Pkwy Sherman, Texas
+Sherman Town Center Sherman , Texas
+Allen Central Market South Allen , Texas
+Spencer Shopping Center South Houston, Texas
+First Colony Mall Sugar Land, Texas
+Market Place Shopping Center Temple , Texas
+The Woodlands Mall The Woodlands , Texas
+Uvalde Retail Center Uvalde , Texas
+Crossroads Shopping Center Vidor, Texas
+Weatherford Commons Weatherford, Texas
+Sikes Center Mall Wichita Falls, Texas
+Castle Rock Shopping Center Price, Utah
+973 W. North Temple Salt Lake City, Utah
+9179 Village Shop Drive Sandy, Utah
+Plaza At Landmark Alexandria, Virginia
+Chantilly Crossing Chantilly, Virginia
+Chesapeake Square Chesapeake, Virginia
+Fair Lakes Center Fairfax , Virginia
+Virginia Center Commons Glen Allen, Virginia
+Battlefield Shopping Center Leesburg, Virginia
+Manassas Mall Manassas , Virginia
+Patrick Henry Mall Newport News, Virginia
+Chippenham Forest Square Richmond, Virginia
+Tanglewood Mall Roanoke, Virginia
+Springfield Mall Springfield , Virginia
+Tyson Crossings Vienna , Virginia
+Haygood Shopping Center Virginia Beach, Virginia
+Hilltop North Shopping Center Virginia Beach , Virginia
+46 124 Monticello Marketplace Williamsburg, Virginia
+Berlin Mall Berlin, Vermont
+Highgate Commons Shopping Center Saint Albans, Vermont
+Auburn North Shopping Center Auburn , Washington
+Bellis Fair Mall  Bellingham , Washington
+Cascade Mall Burlington, Washington
+Covington Plaza  Covington , Washington
+Commons At Issaquah  Issaquah , Washington
+Three Rivers Mall Kelso, Washington
+Alderwood Mall Lynnwood , Washington
+Marysville Kmart Plaza Marysville, Washington
+14991 N Kelsey St Monroe, Washington
+College Market Place Poulsbo, Washington
+South Hill Plaza Puyallup , Washington
+Westwood Shopping Center Seattle , Washington
+Northpointe Plaza  Spokane , Washington
+Shadle Shopping Center Spokane, Washington
+Fox River Mall  Appleton , West Virginia
+Charleston Town Center Charleston, West Virginia
+Oakwood Mall  Eau Claire , West Virginia
+Valley View Mall  La Crosse, West Virginia
+6400 N 76th St  Milwaukee, West Virginia
+Morgantown Mall Morgantown, West Virginia
+1925 S Koeller Street Oshkosh, West Virginia
+Grand Central Mall Vienna , West Virginia
+Wausau Center Mall Wausau, West Virginia
+Mayfair Mall  Wauwatosa, West Virginia
+Eastridge Mall Casper, Wyoming
+Camel Plaza Gillette, Wyoming
+101 Gateway Blvd. Rock Springs, Wyoming
+Plaza Del Atlantico Arecibo , Puerto Rico
+Plaza Rio Hondo Mall Bayamon, Puerto Rico
+Rexville Towne Center  Bayamon , Puerto Rico
+Plaza Centro I  Caguas, Puerto Rico
+Plaza Escorial Carolina, Puerto Rico
+Los Colobos Shopping Center Carolina Pr, Puerto Rico
+Dorado Del Mar Shopping Center Dorado , Puerto Rico
+Plaza Guaynabo Shopping Center Guaynabo, Puerto Rico
+Plaza Del Norte Mall Hatillo, Puerto Rico
+Plaza Palma Real  Humacao, Puerto Rico
+Plaza Isabela Isabela , Puerto Rico
+65th Infantry Shopping Center San Juan, Puerto Rico
+Calle Fortaleza San Juan, Puerto Rico
