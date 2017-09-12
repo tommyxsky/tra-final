@@ -1000,18 +1000,19 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var mapOptions = {
   center: {
-    lat: 47.6,
-    lng: -122.3
+    lat: 34.681146,
+    lng: -86.741721
   },
-  zoom: 8
+  zoom: 22
 };
 
 function loadPlaces(map) {
-  var lat = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 47.6;
-  var lng = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : -122.3;
+  var lat = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 34.681146;
+  var lng = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : -86.741721;
 
   _axios2.default.get('/api/v1/stores/near?lat=' + lat + '&lng=' + lng).then(function (res) {
     var places = res.data;
+    console.log(places);
     if (!places.length) {
       alert('no places found!');
       return;
@@ -1021,7 +1022,6 @@ function loadPlaces(map) {
     var bounds = new google.maps.LatLngBounds();
 
     var infoWindow = new google.maps.InfoWindow();
-
     var markers = places.map(function (place) {
       var _place$location$coord = _slicedToArray(place.location.coordinates, 2),
           placeLng = _place$location$coord[0],

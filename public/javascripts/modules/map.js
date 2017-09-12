@@ -3,15 +3,16 @@ import { $ } from './bling';
 
 const mapOptions = {
   center: {
-    lat: 47.6,
-    lng: -122.3
+    lat: 34.681146,
+    lng: -86.741721
   },
-  zoom: 8
+  zoom: 22
 };
 
-function loadPlaces(map, lat = 47.6, lng = -122.3) {
+function loadPlaces(map, lat = 34.681146, lng = -86.741721) {
   axios.get(`/api/v1/stores/near?lat=${lat}&lng=${lng}`).then(res => {
     const places = res.data;
+    console.log(places);
     if (!places.length) {
       alert('no places found!');
       return;
@@ -21,7 +22,6 @@ function loadPlaces(map, lat = 47.6, lng = -122.3) {
     const bounds = new google.maps.LatLngBounds();
 
     const infoWindow = new google.maps.InfoWindow();
-
     const markers = places.map(place => {
       const [placeLng, placeLat] = place.location.coordinates;
 
