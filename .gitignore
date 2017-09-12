@@ -3,8 +3,4 @@ node_modules
 variables.env
 variables.env.now
 npm-debug.log
-<<<<<<< HEAD
 public/dist
-=======
-public/dist
->>>>>>> master
