@@ -3,6 +3,13 @@ const crypto = require('crypto');
 const mongoose = require('mongoose');
 const promisify = require('es6-promisify');
 
+// We needed to add this to fix the 'User is not defined' error
+// We received after entering email and clicking reset button
+// This gives our access to the User model
+// In our forgotPassword method, we user searching the User collection
+// User.findOne(...)
+const User = mongoose.model('User');
+
 exports.login = passport.authenticate('local', {
   failureRedirect: '/login',
   failureFlash: 'Failed Login',
@@ -62,8 +69,7 @@ exports.reset = async (req, res) => {
     req.flash('error', 'Password reset is invalid or has expired');
     return res.redirect('/login');
   }
-  // view the user object
-  console.log(user); // ADD THIS LINE
+  // console.log(user); // uncomment this if you want to see user data in Termiinal
   // if there is a user, show the reset password form
   res.render('reset', { title: 'Reset your Password' });
 };
