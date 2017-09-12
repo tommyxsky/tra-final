@@ -50,7 +50,7 @@ exports.createStore = async (req, res) => {
   req.body._user = req.user._id;
   const store = await new Store(req.body).save();
   req.flash(
-    'success',
+    'Success',
     `Successfully Created ${store.name}. Wish to leave a review?`
   );
   res.redirect(`/store/${store.slug}`);
@@ -71,6 +71,7 @@ exports.getStores = async (req, res) => {
     .sort({ created: 'desc' });
 
   const countPromise = Store.count();
+  console.log();
 
   const [stores, count] = await Promise.all([storesPromise, countPromise]);
   const pages = Math.ceil(count / limit);

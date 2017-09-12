@@ -4,11 +4,11 @@ include mixins/_storeCard
 include mixins/_pagination
 
 block content
+  .closedStoreCount
+    h1 #{count} Stores Closed
   .inner
     h2= title
     .stores
       each store in stores
         +storeCard(store)
     +pagination(page, pages, count)
-
-
