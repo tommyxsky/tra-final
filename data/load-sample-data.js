@@ -8,18 +8,20 @@ mongoose.Promise = global.Promise; // Tell Mongoose to use ES6 promises
 // import all of our models - they need to be imported only once
 const Store = require('../models/Store');
 // const Review = require('../models/Review');
-// const User = require('../models/User');
+const User = require('../models/User');
 
-const stores = JSON.parse(fs.readFileSync(__dirname + '/stores.json', 'utf-8'));
-const joesCrabShack = JSON.parse(fs.readFileSync(__dirname + '/joes-crab-shack.json', 'utf-8'));
-const sears = JSON.parse(fs.readFileSync(__dirname + '/sears.json', 'utf-8'));
-const jcpenney = JSON.parse(
-  fs.readFileSync(__dirname + '/jcpenney.json', 'utf-8')
-);
-const kmart = JSON.parse(fs.readFileSync(__dirname + '/kmart.json', 'utf-8'));
-const familyChristian = JSON.parse(fs.readFileSync(__dirname + '/family-christian.json', 'utf-8'));
-const sportsAuthority = JSON.parse(fs.readFileSync(__dirname + '/sports-authority.json', 'utf-8'));
-const macys = JSON.parse(fs.readFileSync(__dirname + '/macys.json', 'utf-8'));
+const users = JSON.parse(fs.readFileSync(__dirname + '/users.json', 'utf-8'));
+// const stores = JSON.parse(fs.readFileSync(__dirname + '/stores.json', 'utf-8'));
+
+// const joesCrabShack = JSON.parse(fs.readFileSync(__dirname + '/joes-crab-shack.json', 'utf-8'));
+// const sears = JSON.parse(fs.readFileSync(__dirname + '/sears.json', 'utf-8'));
+// const jcpenney = JSON.parse(
+//   fs.readFileSync(__dirname + '/jcpenney.json', 'utf-8')
+// );
+// const kmart = JSON.parse(fs.readFileSync(__dirname + '/kmart.json', 'utf-8'));
+// const familyChristian = JSON.parse(fs.readFileSync(__dirname + '/family-christian.json', 'utf-8'));
+// const sportsAuthority = JSON.parse(fs.readFileSync(__dirname + '/sports-authority.json', 'utf-8'));
+// const macys = JSON.parse(fs.readFileSync(__dirname + '/macys.json', 'utf-8'));
 const radioshack = JSON.parse(
   fs.readFileSync(__dirname + '/radioshack.json', 'utf-8')
 );
@@ -39,15 +41,16 @@ async function deleteData() {
 
 async function loadData() {
   try {
-    await Store.insertMany(stores);
-    await Store.insertMany(sears);
-    await Store.insertMany(jcpenney);
-    await Store.insertMany(kmart);
-    await Store.insertMany(macys);
+    // await Store.insertMany(stores);
+    // await Store.insertMany(sears);
+    // await Store.insertMany(jcpenney);
+    // await Store.insertMany(kmart);
+    // await Store.insertMany(macys);
     await Store.insertMany(radioshack);
-    await Store.insertMany(familyChristian);
-    await Store.insertMany(joesCrabShack);
-    await Store.insertMany(sportsAuthority);
+    await User.insertMany(users);
+    // await Store.insertMany(familyChristian);
+    // await Store.insertMany(joesCrabShack);
+    // await Store.insertMany(sportsAuthority);
     // await Review.insertMany(reviews);
     // await User.insertMany(users);
     console.log('Done Inserting Data!');
