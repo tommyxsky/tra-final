@@ -1,0 +1,2190 @@
+[
+  {
+    "slug": "sports-authority",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Ahwatukee Sports Authority 4820 E Ray Rda Phoenix, AZ 85044",
+      "coordinates": [-111.978906, 33.321373],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-1",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Arrowhead Sports Authority 7360 W Bell Rda Arrowhead Town Center Glendale, AZ 85308",
+      "coordinates": [-112.225349, 33.642011],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-2",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Casa Grande Sports Authority 1004 N Promenade Pkwy, Ste 159a Promenade at Casa Grande Casa Grande, AZ 85194",
+      "coordinates": [-111.685549, 32.882436],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-3",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Mesa Sports Authority 1812 W Rio Salado Pkwya Mesa Riverview Mesa, AZ 85201",
+      "coordinates": [-111.869998, 33.429968],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-4",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Tuscon Circle Sports Authority 7160 E Broadway Blvd, Circle Plaza Tucson AZ, 85710",
+      "coordinates": [-110.839611, 32.219507],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-5",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Tuscon Oracle Sports Authority 4225 N Oracle Rd Tucson 85705",
+      "coordinates": [-110.97982, 32.283831],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-6",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Tuscon Santa Cruz Sports Authority 5185 S Calle Santa Cruza Spectrum Plaza on Irvington Tucson, AZ 85706",
+      "coordinates": [-110.989809, 32.157445],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-7",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "California Sports Authority Store Closing Locationsa Bakersfield Sports Authority 4821 Ming Avea Bakersfield, CA 93309",
+      "coordinates": [-119.055583, 35.338513],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-8",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Redding Sports Authority 1347 Churn Creek Rda Redding, CA 96003",
+      "coordinates": [-122.348327, 40.587642],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-9",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Riverside Sports Authority 3380 Tyler Sta Riverside, CA 92503",
+      "coordinates": [-117.456646, 33.905144],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-10",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Camarillo Sports Authority 351 W Ventura Blvd, Space M-1a Camarillo, CA 93010",
+      "coordinates": [-119.075994, 34.217465],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-11",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Cerritos Sports Authority 11900 South Sta Cerritos, CA 90703",
+      "coordinates": [-118.078535, 33.857459],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-12",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Santa Ana Sports Authority 3900 S Bristol Sta Santa Ana, CA 92704",
+      "coordinates": [-117.887938, 33.695951],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-13",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Corte Madera S.A. Elite 435 Corte Madera Town Center Corte Madera, CA 94925",
+      "coordinates": [-122.517541, 37.926349],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-14",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sports Authority 21301 Victory Blvd Canoga Park, CA 91303",
+      "coordinates": [-118.596396, 34.189852],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-15",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Stockton Sports Authority 10536 Trinity Pkwya Stockton, CA 95219",
+      "coordinates": [-121.372376, 38.05304],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-16",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "West L.A.Sports Authority 1919 S Sepulveda Blvda West Los Angeles, CA 90025",
+      "coordinates": [-118.441737, 34.043932],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-17",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Ventura Sports Authority 4870 Telephone Rda Ventura, CA 93003",
+      "coordinates": [-119.227261, 34.261404],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-18",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Canoga Park Sports Authority 21301 Victory Blvda Warner Center Marketplace Canoga Park, CA 91303",
+      "coordinates": [-118.596396, 34.189852],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-19",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Midtown Crossing Sports Authority 4550 W Pico Blvd Ste 305a Los Angeles, CA 90019",
+      "coordinates": [-118.336428, 34.048492],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-20",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Thousand Oaks Sports Authority 145 W Hillcrest Drivea #130 Thousand Oaks, CA 91360",
+      "coordinates": [-118.879366, 34.181636],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-21",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Rancho San Diego Sports Authority 2983 Jamacha Rda El Cajon, CA 92019",
+      "coordinates": [-116.941087, 32.738343],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-22",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Grossmont Sports Authority 5500 Grossmont Center Dra Ste 279 La Mesa, CA 91942",
+      "coordinates": [-117.011085, 32.777188],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-23",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Escondido Sports Authority 1352 W Valley Pkwya Escondido, CA 92029",
+      "coordinates": [-117.103869, 33.112457],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-24",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Walnut Creek Sports Authority 1675 Olympic Blvda Plaza Escuela Walnut Creek, CA 94596",
+      "coordinates": [-122.062241, 37.895692],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-25",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "San Luis Obispo Sports Authority 243 Madonna Rda San Luis Obispo, CA 93405",
+      "coordinates": [-120.674258, 35.262494],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-26",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Colorado Sports Authority Store Closing Locationsa S.A. Elite Boulder, CO",
+      "coordinates": [-105.020105, 39.743939],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-27",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Greenwood Village Sports Authority 9000 East Peakview Avenue.a Denvery, CO",
+      "coordinates": [-104.895693, 39.598175],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-28",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "The Sports Castle 10th Avenue and Broadway W Denver, CO",
+      "coordinates": [-104.988632, 39.595763],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-29",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Connecticut Sports Authority Liquidation Salesa Bridgeport Sports Authority 4543 Main Sta Bridgeport, CT 06606",
+      "coordinates": [-73.219577, 41.221369],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-30",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Danbury Sports Authority 13 Sugar Hollow Rda Danbury, CT 06810",
+      "coordinates": [-73.47609, 41.375749],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-31",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "North Haven Sports Authority 180 Universal Dr Na North Haven, CT 06473",
+      "coordinates": [-72.870389, 41.352259],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-32",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Delaware Sports Authority 1100 Rocky Run Pkwya Wilmington, DE 19803",
+      "coordinates": [-75.549181, 39.823646],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-33",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Fort Myers Sports Authority 2317 Colonial Blvda Fort Myers, FL 33907",
+      "coordinates": [-81.865545, 26.598381],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-34",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Melbourne Sports Authority 1750 Evans Rda Melbourne, FL 32904",
+      "coordinates": [-80.655022, 28.081551],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-35",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Orlando West Sports Authority 7500 W Colonial Dra Orlando, FL 32818",
+      "coordinates": [-81.485821, 28.551108],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-36",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Daytona Beach Sports Authority 1910 W International Speedway Blvda Daytona Beach, FL 32114",
+      "coordinates": [-81.076184, 29.192915],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-37",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Waterford Lakes Sports Authority 610 N Alafaya Traila Waterford Towers Orlando, FL 32828",
+      "coordinates": [-81.206539, 28.557011],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-38",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Tallahassee Sports Authority 1644 Governors Square Blvda Tallahassee, FL 32301",
+      "coordinates": [-84.253985, 30.440912],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-39",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Port Richey Sports Authority 9560 US Highway 19a Embassy Crossings Port Richey, FL 34668",
+      "coordinates": [-82.705912, 28.295822],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-40",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Bradenton Sports Authority 201 Cortez Rd Wa Bradenton, FL 34207",
+      "coordinates": [-82.564975, 27.461432],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-41",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Bonita Springs Sports Authority 8012 Mediterranean Dra Coconut Point Shopping Center Estero, FL 33928",
+      "coordinates": [-81.807185, 26.403885],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-42",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Cypress Lakes Sports Authority Fort Myers, FL 33966",
+      "coordinates": [-81.808713, 26.605922],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-43",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Spring Hill Sports Authority 1417 Wendy Cta Nature Coast Commons Spring Hill, FL 34607",
+      "coordinates": [-82.632857, 28.454343],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-44",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Fowler Sports Authority 1730 E Fowler Avea Tampa, FL 33612",
+      "coordinates": [-82.440091, 28.055709],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-45",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Lakeland Sports Authority 3800 US Highway 98Na Lakeland, FL 33809",
+      "coordinates": [-81.977784, 28.089801],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-46",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "North Port Sports Authority 18219 Tamiami Tr North Port, FL 34287",
+      "coordinates": [-82.210897, 27.036568],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-47",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Wellington Sports Authority 820 S State Road 7a Wellington, FL 33414",
+      "coordinates": [-80.200931, 26.665917],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-48",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Port St. Lucie Sports Authority 10648 SW Village Pkwya Port Saint Lucie, FL 34987",
+      "coordinates": [-80.426928, 27.270635],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-49",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Altamonte Springs Sports Authority 380 S State Road 434a West Town Center",
+      "coordinates": [-81.420675, 28.660221],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-50",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Altamonte Springs, FL 32701",
+      "coordinates": [-81.372937, 28.665965],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-51",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Ocala Sports Authority 4039 SW 43rd Street Rda Ocala, FL 34474",
+      "coordinates": [-82.187358, 29.143447],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-52",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Georgia Sports Authority Store Closing Locationsa Hiram Sports Authority 4471 Jimmy Lee Smith Pkwy Ste Ba Hiram, GA 30141",
+      "coordinates": [-84.752626, 33.89277],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-53",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Stone Mountain Sports Authority 4235 Highway 78a Lilburn, GA 30047",
+      "coordinates": [-84.076172, 33.834907],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-54",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Illinois Sports Authority Final Liquidation Salesa Springfield Sports Authority 3211 S Veterans Pkwya Springfield, IL 62704",
+      "coordinates": [-89.70858, 39.757801],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-55",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Water Tower Place Sports Authority 845 North Michigan Avea Chicago, IL 60611",
+      "coordinates": [-87.622893, 41.89793],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-56",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Northbrook Court Sports Authority 2030 Northbrook Cta Northbrook, IL 60062",
+      "coordinates": [-87.81712, 42.150584],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-57",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Calumet City Sports Authority 1510 Torrence Avea Calumet City, IL 60409",
+      "coordinates": [-87.558859, 41.59036],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-58",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Matteson Sports Authority 4832 211th Sta Matteson Square Matteson, IL 60443",
+      "coordinates": [-87.735185, 41.507905],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-59",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Lake Zurich Sports Authority 727 W. Main Sta Lake Zurich, IL 60047",
+      "coordinates": [-88.1081, 42.188739],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-60",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Geneva Sports Authority 1777 S Randall Rda Geneva, IL 60134",
+      "coordinates": [-88.339074, 41.869976],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-61",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Joliet Sports Authority 2700 Plainfield Rda Joliet, IL 60435",
+      "coordinates": [-88.157387, 41.574468],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-62",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Schaumburg Sports Authority 1015 E Golf Rda Schaumburg, IL 60173",
+      "coordinates": [-88.054211, 42.048993],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-63",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Orland Park Sports Authority 9231 W 159th Sta Orland Hills, IL 60487",
+      "coordinates": [-87.843598, 41.600676],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-64",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Kansas Sports Authority Lenexa Sports Authority 12014 W 95th Sta Oak Park Lenexa, KS 66215",
+      "coordinates": [-94.725224, 38.959433],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-65",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Wichita Sports Authority 6959 E 21st St Na Wichita, KS 67206",
+      "coordinates": [-97.256866, 37.722286],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-66",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Maine Sports Authority Auburn Sports Authority 730 Center Sta Auburn, ME 04210",
+      "coordinates": [-70.228658, 44.126141],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-67",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Maryland Sports Authority The Mall in Columbia Sports Authority 10300 Little Patuxent Parkwaya The Mall in Columbia Columbia, MD 21044",
+      "coordinates": [-76.860147, 39.215602],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-68",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Gaithersburg Sports Authority 110 Odendhal Avea Gaithersburg, MD 20877",
+      "coordinates": [-77.206154, 39.150073],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-69",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Waldorf Sports Authority 3326 Crain Hwya Waldorf, MD 20603",
+      "coordinates": [-76.915189, 38.619624],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-70",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Catonsville Sporta Authority 6510 Baltimore National Pike",
+      "coordinates": [-76.761896, 39.286846],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-71",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Pike Park Plaza Baltimore, MD 21228",
+      "coordinates": [-76.762356, 39.286897],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-72",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Massachusetts Sports Authority Framingham Sports Authority 1 Worchester Rda Shopper's World Framingham, MA 01701",
+      "coordinates": [-71.394932, 42.301709],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-73",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Danvers Sports Authority 100 Independence Waya Danvers, MA 01923",
+      "coordinates": [-70.940105, 42.552709],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-74",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Holyoke Sports Authority 50 Holyoke Sta Holyoke, MA 01040",
+      "coordinates": [-72.642007, 42.167806],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-75",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Michigan Sports Authority Clinton Township Sports Authority 33930 S Gratiot Avea Clinton Township, MI 48035",
+      "coordinates": [-82.901131, 42.546746],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-76",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Nebraska Sports Authority Omaha South Sports Authority 885 South 72nda Omaha, NE",
+      "coordinates": [-96.022488, 41.251869],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-77",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Omaha Maple Sports Authority 17021 Evans Plz Omaha 68116",
+      "coordinates": [-96.181074, 41.289186],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-78",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "New Hampshire Sports Authority Nashua Sports Authority 213 Daniel Webster Hwya Royal Ridge Mall Nashua, NH 03060",
+      "coordinates": [-71.442987, 42.714047],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-79",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "New Jersey Sports Authority East Brunswick Sports Authority 300 State Route 18a East Brunswick, NJ 08816",
+      "coordinates": [-74.402202, 40.455458],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-80",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Cherry Hill Sports Authority 2139 Route 38a Cherry Hill, NJ 08002",
+      "coordinates": [-75.023727, 39.937223],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-81",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Wayne Sports Authority 81 Willowbrook Blvda Wayne, NJ 07470",
+      "coordinates": [-74.252904, 40.886283],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-82",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Piscataway Sports Authority 1327 Centennial Avea Piscataway, NJ 08854",
+      "coordinates": [-74.438949, 40.553533],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-83",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Manalapan Sports Authority 1327 Centennial Avea Piscataway, NJ 08854",
+      "coordinates": [-74.438949, 40.553533],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-84",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "New York Sports Authority Brooklyn Sports Authority 550 Gateway Dra Brooklyn, NY 11239",
+      "coordinates": [-73.869612, 40.654593],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-85",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Bronx Sports Authority 171 W. 230th St. Bronx, NY 10463",
+      "coordinates": [-73.904756, 40.877973],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-86",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Syracuse Sports Authority 9090 Destiny USA Dra Destiny USA Syracuse, NY 13204",
+      "coordinates": [-76.172679, 43.069265],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-87",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Riverhead Sports Authority 1160 Old Country Rda Riverhead, NY 11901",
+      "coordinates": [-72.681452, 40.93263],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-88",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Smithhaven Sports Authority 2110 Nesconset Hwya Stony Brook, NY 11790",
+      "coordinates": [-73.130417, 40.870947],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-89",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Yonkers Sports Authority 750 Central Park Ave Ste 200a Yonkers, NY 10704",
+      "coordinates": [-73.855773, 40.924849],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-90",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Commack Sports Authority 124 Veterans Memorial Hwya King Kullen Plaza Commack, NY 11725",
+      "coordinates": [-73.284316, 40.838385],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-91",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Ohio Sports Authority Dublin Sports Authority 6285 Sawmill Rda Dublin, OH 43017",
+      "coordinates": [-83.092988, 40.09503],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-92",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Reynoldsburg Sports Authority 5819 Chantry Dr.a Columbus, OH 43232",
+      "coordinates": [-82.836034, 39.921863],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-93",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Oregon Sports Authority Sports Authority 2870 S. Sixth Streeta Jefferson Square Mall Klamath Falls, OR",
+      "coordinates": [-121.755582, 42.209121],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-94",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Roseburg Sports Authority 1440 NW Garden Valley Blvda Roseburg, OR 97471",
+      "coordinates": [-123.373142, 43.234103],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-95",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Salem Sports Authority 831 Lancaster Dr NE, Ste 183a Lancaster Mall Salem, OR 97301",
+      "coordinates": [-122.986591, 44.941852],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-96",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Hillsboro Sports Authority 18085 NW Evergreen Pkwya Hillsboro, OR 97006",
+      "coordinates": [-122.86319, 45.53898],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-97",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Allentown Sports Authority 2180 MacArthur Rd, Bldg A, Whitehall Square Shopping Center, Whitehall, PA 18052",
+      "coordinates": [-75.49049, 40.636769],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-98",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Lower Nazareth Sports Authority 3855 Dryland Waya Lower Nazareth Commons Easton, PA 18045",
+      "coordinates": [-75.287888, 40.712677],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-99",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Tennessee Sports Authority Collierville Sports Authority 10337 E Shelby Dra Collierville, TN 38017",
+      "coordinates": [-89.718548, 35.018492],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-100",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Wolf Creek Sports Authority 2751 Wolfcreek Pkwya Wolf Creek Center Memphis, TN 38133",
+      "coordinates": [-89.794119, 35.200734],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-101",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Texas Sports Authority Going Out of Business Salesa Sports Authority The Woodlandsa 19075 Interstate 45 S, Ste 105 Portofino Shopping Center Shenandoah, TX 77385",
+      "coordinates": [-95.449769, 30.182442],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-102",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority The Fountainsa 12730 Fountain Lake Circle Fountains Shopping Center Stafford, TX 77477",
+      "coordinates": [-95.588334, 29.636192],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-103",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Baybrook 1529 W Bay Area Blvda Webster, TX 77598",
+      "coordinates": [-95.147982, 29.536482],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-104",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Southpark 9600 S Interstate 35, Ste Ea Southpark Meadows Austin, TX 78748",
+      "coordinates": [-97.794761, 30.161988],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-105",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Caruth Plazaa 9100 N Central Expy, Ste 123 Caruth Plaza Dallas, TX 75231",
+      "coordinates": [-96.768579, 32.873558],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-106",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Denton 1800 S Loop 288, Ste 240a Denton Crossing Denton, TX 76205",
+      "coordinates": [-97.09842, 33.193899],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-107",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority El Paso 801 Sunland Park Dr, Unit 346a Sunland Park",
+      "coordinates": [-106.541354, 31.819605],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-108",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "El Paso, TX 79912 Sports Authority Farmers Brancha 4245 Lyndon B Johnson Fwy",
+      "coordinates": [-96.838487, 32.927318],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-109",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Farmers Branch, TX 75244 Sports Authority Hulen 4830 SW Loop 820a Overton Plaza Fort Worth, TX 76109",
+      "coordinates": [-97.398089, 32.685318],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-110",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Frisco 2930 Preston Rd Ste 200-B Frisco, TX 75034",
+      "coordinates": [-96.801985, 33.101388],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-111",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Post Oak 2131 Post Oak Blvda Post Oak Center Houston, TX 77056",
+      "coordinates": [-95.460007, 29.743952],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-112",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Mills Road 8625 FM 1960 Rd Wa Houston, TX 77070",
+      "coordinates": [-95.553512, 29.954085],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-113",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sports Authority Gessner 10225 Katy Fwya Houston, TX 77024",
+      "coordinates": [-95.549796, 29.782701],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-114",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Deerbrook 20416 Highway 59 North Humble, Texas 77338",
+      "coordinates": [-95.261716, 30.01171],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-115",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority League City 2620 Gulf Freeway Sa Victory Lakes Town Center League City, TX 77573",
+      "coordinates": [-95.090526, 29.468944],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-116",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Legacy 1551 US Highway 287 Na Mansfield Pointe Mansfield, TX 76063",
+      "coordinates": [-97.140082, 32.586396],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-117",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority McAllen 3300 E Expressway 83, Ste 600a McAllen, TX 78501",
+      "coordinates": [-98.25652, 26.196709],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-118",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Pasadena 3949 Fairway Plaza Dra Fairway Plaza Pasadena, TX 77505",
+      "coordinates": [-95.14985, 29.651953],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-119",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Pearland 11200 Broadway Sta Pearland Town Center Pearland, TX 77584",
+      "coordinates": [-95.393886, 29.552306],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-120",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sports Authority West Plano 2201 Preston Rda Plano, TX 75093",
+      "coordinates": [-96.79694, 33.029382],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-121",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority East Plano 3300 N Central Expya Plano, TX 75074",
+      "coordinates": [-96.701618, 33.037901],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-122",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Cinco Ranch 5472 W Grand Parkway Southa Richmond, TX 77406",
+      "coordinates": [-95.776179, 29.693977],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-123",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Rockwall 920 Steger Towne Rd Rockwall, TX 75032",
+      "coordinates": [-96.468374, 32.895471],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-124",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority Stone Ridge Marketa 21115 US Highway 281 N, Ste 1600 Stone Ridge Market San Antonio, TX 78258",
+      "coordinates": [-98.455315, 29.643998],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-125",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sports Authority La Plaza Del Nortea 125 NW Loop 410, Ste 240 Plaza Del Norte San Antonio, TX 78216",
+      "coordinates": [-98.494712, 29.52313],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-126",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Utah Sports Authority Redwood Sports Authority 5786 S Redwood Rda Taylorsville, UT 84123",
+      "coordinates": [-111.942114, 40.645789],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-127",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Southtowne Sports Authority 10453 S State Sta Commons at Southtowne Sandy, UT 84070",
+      "coordinates": [-111.888589, 40.562756],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-128",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "West Jordan Sports Authority 7682 S. Campus View Drivea West Jordan, UT 84084",
+      "coordinates": [-111.982304, 40.61152],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-129",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Newgate Sports Authority 3651 Wall Avea Newgate Mall Ogden, UT 84405",
+      "coordinates": [-111.981686, 41.195404],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-130",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Virginia Sports Authority Norfolk Sports Authority 5900 E Virginia Beach Blvd Ste 226a Norfolk, VA 23502",
+      "coordinates": [-76.204127, 36.858963],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-131",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Hampton Roads Sports Authority 2106 Coliseum Dra Hampton, VA 23666",
+      "coordinates": [-76.38947, 37.047423],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-132",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Virginia Beach Sports Authority 2720 North Mall Dr Ste 100a Virginia Beach, VA 23452",
+      "coordinates": [-76.071482, 36.820757],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-133",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Sterling Sports Authority 21070 Southbank Sta Sterling, VA 20165",
+      "coordinates": [-77.396388, 39.03249],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-134",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Fredericksburg Sports Authority 1461 Carl D Silver Pkwya Fredericksburg, VA 22401",
+      "coordinates": [-77.505519, 38.301044],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-135",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Puerto Rico Sports Authority Carolina Sports Authority Avenida Jesús M. Fragosoa Carolina, PR 00983",
+      "coordinates": [-65.974783, 18.393319],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-136",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Plaza Las Americas Sports Authority Calle Calaf #525a Hato Rey, PR 00918",
+      "coordinates": [-66.074381, 18.423224],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sports-authority-137",
+    "name": "Sports Authority",
+    "description":
+      "Sports Authority, Inc. (formerly The Sports Authority) was a sports retailer in the United States that was headquartered in Englewood, Colorado.At its peak, Sports Authority operated more than 460 stores in 45 U.S. states and Puerto Rico. All of the stores closed by the end of August 2016",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sports Authority", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address":
+        "Ponce Sports Authority Avenida Rafael 'Churumba' Cordero Santiagoa Ponce, PR 00731",
+      "coordinates": [-66.609617, 17.990954],
+      "type": "Point"
+    }
+  }
+]

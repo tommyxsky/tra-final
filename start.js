@@ -1,4 +1,3 @@
-
 const mongoose = require('mongoose');
 
 // Make sure we are running node 7.6+
@@ -24,7 +23,6 @@ mongoose.connection.on('error', err => {
 
 // import all models here
 require('./models/Store');
-//========== Added require User Model =========
 require('./models/User');
 
 // Start our app!
@@ -33,3 +31,6 @@ app.set('port', process.env.PORT || 6660);
 const server = app.listen(app.get('port'), () => {
   console.log(`Express running → PORT ${server.address().port}`);
 });
+
+// TEMP send email
+require('./handlers/mail');

@@ -1,11 +1,11 @@
 {
-    "slug": "radioshack",
-    "name": "Radioshack",
+    "slug": "payless",
+    "name": "Payless",
     "description":
-      "General Wireless Operations, Inc. (doing business as RadioShack) is an American chain of wireless and electronics stores, founded in 1921 and since 2017 has approximately 28 remaining corporate locations, an online website, and approximately 425 independently owned franchise stores.",
-    "_user": "58c039018060197ca0b52d4c",
+      "Payless ShoeSource Inc. is an American discount footwear retailer headquartered in Topeka, Kansas.",
+    "_user": "59b75af5b284536dc59707dc",
     "photo": "",
-    "tags": ["Radioshack", "Closed"],
+    "tags": ["Payless", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "

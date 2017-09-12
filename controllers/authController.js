@@ -2,6 +2,14 @@ const passport = require('passport');
 const crypto = require('crypto');
 const mongoose = require('mongoose');
 const promisify = require('es6-promisify');
+const mail = require('./../handlers/mail');
+
+// We needed to add this to fix the 'User is not defined' error
+// We received after entering email and clicking reset button
+// This gives our access to the User model
+// In our forgotPassword method, we user searching the User collection
+// User.findOne(...)
+const User = mongoose.model('User');
 
 exports.login = passport.authenticate('local', {
   failureRedirect: '/login',
@@ -43,6 +51,13 @@ exports.forgotPassword = async (req, res) => {
   // 3. Send them an email with the token
   const resetURL = `http://${req.headers
     .host}/account/reset/${user.resetPasswordToken}`;
+  // send email using our test mailtrap.io account
+  await mail.send({
+    user,
+    subject: 'Password Reset',
+    resetURL,
+    filename: 'password-reset'
+  });
   req.flash(
     'success',
     `You have been emailed a password reset link. ${resetURL}`
@@ -62,8 +77,7 @@ exports.reset = async (req, res) => {
     req.flash('error', 'Password reset is invalid or has expired');
     return res.redirect('/login');
   }
-  // view the user object
-  console.log(user); // ADD THIS LINE
+  // console.log(user); // uncomment this if you want to see user data in Termiinal
   // if there is a user, show the reset password form
   res.render('reset', { title: 'Reset your Password' });
 };
