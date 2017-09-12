@@ -70,7 +70,7 @@ exports.getStores = async (req, res) => {
     .sort({ created: 'desc' });
 
   const countPromise = Store.count();
-  //console.log();
+  console.log();
 
   const [stores, count] = await Promise.all([storesPromise, countPromise]);
   const pages = Math.ceil(count / limit);
