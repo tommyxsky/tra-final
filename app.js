@@ -12,7 +12,7 @@ const expressValidator = require('express-validator');
 const routes = require('./routes/index');
 const helpers = require('./helpers');
 const errorHandlers = require('./handlers/errorHandlers');
-//========= Adding passportHandler =========
+// Passport is for our authenticaton
 require('./handlers/passport');
 
 // create our Express app

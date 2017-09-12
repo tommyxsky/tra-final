@@ -25,22 +25,27 @@ exports.siteName = 'The Retail Apocalypse';
 exports.menu = [
   {
     slug: '/stores',
-    title: 'Stores'
+    title: 'Stores',
+    icon: 'store'
   },
   {
     slug: '/add',
-    title: 'Add'
+    title: 'Add',
+    icon: 'add'
   },
   {
     slug: '/tags',
-    title: 'Tags'
+    title: 'Tags',
+    icon: 'tag'
   },
   {
     slug: '/top',
-    title: 'Top'
+    title: 'Top',
+    icon: 'tag'
   },
   {
     slug: '/map',
-    title: 'Map'
+    title: 'Map',
+    icon: 'map'
   }
 ];
