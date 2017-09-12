@@ -1,4 +1,3 @@
-
 const mongoose = require('mongoose');
 
 // Make sure we are running node 7.6+
@@ -24,7 +23,6 @@ mongoose.connection.on('error', err => {
 
 // import all models here
 require('./models/Store');
-//========== Added require User Model =========
 require('./models/User');
 
 // Start our app!
