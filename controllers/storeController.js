@@ -49,7 +49,7 @@ exports.resize = async (req, res, next) => {
 exports.createStore = async (req, res) => {
   const store = await new Store(req.body).save();
   req.flash(
-    'success',
+    'Success',
     `Successfully Created ${store.name}. Wish to leave a review?`
   );
   res.redirect(`/store/${store.slug}`);
@@ -70,6 +70,7 @@ exports.getStores = async (req, res) => {
     .sort({ created: 'desc' });
 
   const countPromise = Store.count();
+  //console.log();
 
   const [stores, count] = await Promise.all([storesPromise, countPromise]);
   const pages = Math.ceil(count / limit);
@@ -195,4 +196,3 @@ exports.mapStores = async (req, res) => {
 exports.mapPage = (req, res) => {
   res.render('map', { title: 'Map' });
 };
-
