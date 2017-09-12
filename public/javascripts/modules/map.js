@@ -3,13 +3,13 @@ import { $ } from './bling';
 
 const mapOptions = {
   center: {
-    lat: 43.2,
-    lng: -79.8
+    lat: 47.6,
+    lng: -122.3
   },
   zoom: 8
 };
 
-function loadPlaces(map, lat = 43.2, lng = -79.8) {
+function loadPlaces(map, lat = 47.6, lng = -122.3) {
   axios.get(`/api/v1/stores/near?lat=${lat}&lng=${lng}`).then(res => {
     const places = res.data;
     if (!places.length) {
