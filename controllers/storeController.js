@@ -47,7 +47,7 @@ exports.resize = async (req, res, next) => {
 };
 
 exports.createStore = async (req, res) => {
-  req.body.author = req.user._id;
+  req.body._user = req.user._id;
   const store = await new Store(req.body).save();
   req.flash(
     'success',
@@ -92,11 +92,18 @@ exports.getStores = async (req, res) => {
 };
 
 exports.getStoreBySlug = async (req, res, next) => {
-  const store = await Store.findOne({ slug: req.params.slug }).populate('author');
+  const store = await Store.findOne({ slug: req.params.slug }).populate('_user');
   if (!store) {
     return next();
   }
   res.render('store', { store, title: store.name });
+};
+
+//Stop users from editing stores they do not own
+const confirmOwner = (store, user) => {
+  if (!store._user.equals(user._id) || user.level < 10) {
+    throw Error('You must own a store in order to edit it!');
+  }
 };
 
 exports.editStore = async (req, res) => {

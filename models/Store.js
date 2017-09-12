@@ -35,10 +35,10 @@ const storeSchema = new mongoose.Schema({
     }
   },
   photo: String,
-  author: {
+  _user: {
     type: mongoose.Schema.ObjectId,
     ref: 'User',
-    required: 'You must supply an author'
+    required: 'You must supply a user'
   }
 });
 
