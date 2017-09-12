@@ -1,5 +1,50 @@
 # Tra-Final Project
 
+## Description
+For our final project we are building an app that will try to keep track of all of the retail stores that are closing in 2017
+
+## Requirements
+* Node (> v8)
+* Yarn or NPM
+* MongoDB
+
+## Technologies Used
+* MongoDB
+    - Mongoose
+* Node.js
+* Javascript, HTML and CSS
+    - Sass
+* Webpack
+* Pug templating engine
+* Express JS
+* Yarn
+* Axios (Ajax)
+* mailtrap (testing emails)
+* Passport JS (authentication)
+* PostCSS
+* ESlint and Prettier (code clean)
+    - airbnb styleguide
+* Babel
+
+## Installation Instructions
+* Clone this repo to your local computer
+* Install Dependencies (pick one)
+    - Using yarn `$ yarn install`
+    - Using npm `$ npm install`
+* Blow up database
+    - `$ npm run blowitallaway`
+* Install sample data
+    - `$ npm run sample`
+
+### User Login info
+* We have a sample user
+    - email: `admin2@tra.com`
+    - pwd: `123`
+
+### Add environment variables
+* Rename `sample-variables.env` to `variables.env`
+* Update all the info in that file so that it connects to your mailtrap.io account, Google Maps API, your mongodb info and any other keys you want to use
+*  
 ## <span style="color:red "> <strong> Main rule - You can not merge your own requests. We will be penalized if you do so.</strong> </span>
 
 ## Git Repo Procedure

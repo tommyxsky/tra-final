@@ -3,6 +3,7 @@ const storeController = require('./../controllers/storeController');
 const { catchErrors } = require('./../handlers/errorHandlers');
 const userController = require('./../controllers/userController');
 const authController = require('./../controllers/authController');
+const scrapeController = require('./../controllers/scrapeController');
 
 const router = express.Router();
 
@@ -70,6 +71,8 @@ router.post(
   catchErrors(storeController.resize),
   catchErrors(storeController.updateStore)
 );
+
+router.get('/map', storeController.mapPage);
 /*
 
   API
@@ -78,6 +81,8 @@ router.post(
 
 router.get('/api/v1/search', catchErrors(storeController.searchStores));
 router.get('/api/v1/stores/near', catchErrors(storeController.mapStores));
-router.get('/map', storeController.mapPage);
+
+// scrape web pages for data
+router.get('/api/v1/scrape', scrapeController.scrapeStores);
 
 module.exports = router;

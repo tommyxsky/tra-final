@@ -23,6 +23,7 @@
       "address": "
 ```
 
+* You need to copy the user id from our admin2 user and paste it as the `_user` for every store (a simple global find and replace will suffice)
 * I add a quotation after the address and add a comma and a new line
 * I type `"coordinates": ` 
 * Then I manually add the array of lng and lat and add a comma
