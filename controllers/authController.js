@@ -11,13 +11,6 @@ const mail = require('./../handlers/mail');
 // User.findOne(...)
 const User = mongoose.model('User');
 
-// We needed to add this to fix the 'User is not defined' error
-// We received after entering email and clicking reset button
-// This gives our access to the User model
-// In our forgotPassword method, we user searching the User collection
-// User.findOne(...)
-const User = mongoose.model('User');
-
 exports.login = passport.authenticate('local', {
   failureRedirect: '/login',
   failureFlash: 'Failed Login',
