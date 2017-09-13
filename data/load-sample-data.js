@@ -27,6 +27,10 @@ const joesCrabShack = JSON.parse(
   fs.readFileSync(__dirname + '/joes-crab-shack.json', 'utf-8')
 );
 
+const teavana = JSON.parse(
+  fs.readFileSync(__dirname + '/teavana.json', 'utf-8')
+);
+
 const sears = JSON.parse(fs.readFileSync(__dirname + '/sears.json', 'utf-8'));
 
 const jcpenney = JSON.parse(
@@ -79,6 +83,7 @@ async function loadData() {
     await Store.insertMany(familyChristian);
     await Store.insertMany(joesCrabShack);
     await Store.insertMany(sportsAuthority);
+    await Store.insertMany(teavana);
 
     // await Review.insertMany(reviews);
     console.log('Done Inserting Data!');
