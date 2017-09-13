@@ -1,11 +1,11 @@
 {
-    "slug": "payless",
-    "name": "Payless",
+    "slug": "teavana",
+    "name": "Teavana",
     "description":
-      "Payless ShoeSource Inc. is an American discount footwear retailer headquartered in Topeka, Kansas.",
+      "Teavana is an American tea company with locations throughout the United States, Canada, Mexico, Puerto Rico, and the Middle East. On December 31, 2012, Starbucks acquired Teavana in a deal with an estimated value of $620 million.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
-    "tags": ["Payless", "Closed"],
+    "tags": ["Teavana", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
     "location": {
       "address": "
