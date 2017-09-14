@@ -4,3 +4,4 @@ variables.env
 variables.env.now
 npm-debug.log
 public/dist
+yarn-error.log
