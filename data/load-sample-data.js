@@ -15,6 +15,14 @@ const User = require('../models/User');
 const users = JSON.parse(fs.readFileSync(__dirname + '/users.json', 'utf-8'));
 
 // load in all of our stores (each store is owed by our sample user)
+const perfumania = JSON.parse(
+  fs.readFileSync(__dirname + '/perfumania.json', 'utf-8')
+);
+
+const americanApparel = JSON.parse(
+  fs.readFileSync(__dirname + '/american-apparel.json', 'utf-8')
+);
+
 const gymboree = JSON.parse(
   fs.readFileSync(__dirname + '/gymboree.json', 'utf-8')
 );
@@ -73,6 +81,8 @@ async function loadData() {
     await User.insertMany(users);
 
     // update our db with our starter stores
+    await Store.insertMany(perfumania);
+    await Store.insertMany(americanApparel);
     await Store.insertMany(gymboree);
     await Store.insertMany(payless);
     await Store.insertMany(sears);
