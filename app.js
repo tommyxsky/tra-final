@@ -12,6 +12,8 @@ const expressValidator = require('express-validator');
 const routes = require('./routes/index');
 const helpers = require('./helpers');
 const errorHandlers = require('./handlers/errorHandlers');
+// Passport is for our authenticaton
+require('./handlers/passport');
 
 // create our Express app
 const app = express();
@@ -35,13 +37,15 @@ app.use(cookieParser());
 
 // Sessions allow us to store data on visitors from request to request
 // This keeps users logged in and allows us to send flash messages
-app.use(session({
+app.use(
+  session({
     secret: process.env.SECRET,
     key: process.env.KEY,
     resave: false,
     saveUninitialized: false,
     store: new MongoStore({ mongooseConnection: mongoose.connection })
-  }));
+  })
+);
 
 // // Passport JS is what we use to handle our logins
 app.use(passport.initialize());
@@ -54,6 +58,9 @@ app.use(flash());
 app.use((req, res, next) => {
   res.locals.h = helpers;
   res.locals.flashes = req.flash();
+  // ======== added user and path res ==========
+  res.locals.user = req.user || null;
+  res.locals.currentPath = req.path;
   next();
 });
 

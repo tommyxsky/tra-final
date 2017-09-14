@@ -47,9 +47,10 @@ exports.resize = async (req, res, next) => {
 };
 
 exports.createStore = async (req, res) => {
+  req.body._user = req.user._id;
   const store = await new Store(req.body).save();
   req.flash(
-    'success',
+    'Success',
     `Successfully Created ${store.name}. Wish to leave a review?`
   );
   res.redirect(`/store/${store.slug}`);
@@ -70,6 +71,7 @@ exports.getStores = async (req, res) => {
     .sort({ created: 'desc' });
 
   const countPromise = Store.count();
+  console.log();
 
   const [stores, count] = await Promise.all([storesPromise, countPromise]);
   const pages = Math.ceil(count / limit);
@@ -91,11 +93,18 @@ exports.getStores = async (req, res) => {
 };
 
 exports.getStoreBySlug = async (req, res, next) => {
-  const store = await Store.findOne({ slug: req.params.slug });
+  const store = await Store.findOne({ slug: req.params.slug }).populate('_user');
   if (!store) {
     return next();
   }
   res.render('store', { store, title: store.name });
+};
+
+//Stop users from editing stores they do not own
+const confirmOwner = (store, user) => {
+  if (!store._user.equals(user._id) || user.level < 10) {
+    throw Error('You must own a store in order to edit it!');
+  }
 };
 
 exports.editStore = async (req, res) => {
@@ -130,6 +139,68 @@ exports.updateStore = async (req, res) => {
 };
 
 exports.getStoresByTag = async (req, res) => {
-  const tags = await Store.getTagsList();
-  res.render('tags', { tags, title: 'Tags' });
+  const tagName = req.params.tag;
+  const tagQuery = tagName || {
+    $exists: true
+  };
+  const tagsPromise = Store.getTagsList();
+  const storesPromise = Store.find({ tags: tagQuery });
+  const [tags, stores] = await Promise.all([tagsPromise, storesPromise]);
+  res.render('tags', {
+    tags,
+    title: 'Tags',
+    tagName,
+    stores
+  });
+};
+
+// Pulls 5 records based on search name or description
+exports.searchStores = async (req, res) => {
+  const stores = await Store
+    // first find stores that match
+    .find(
+      {
+        $text: {
+          $search: req.query.q
+        }
+      },
+      {
+        score: {
+          $meta: 'textScore'
+        }
+      }
+    )
+    // then sort matching stores
+    .sort({
+      score: {
+        $meta: 'textScore'
+      }
+    })
+    // limit to only 5 results
+    .limit(10);
+  res.json(stores);
+};
+
+exports.mapStores = async (req, res) => {
+  const coordinates = [req.query.lng, req.query.lat].map(parseFloat);
+  const query = {
+    location: {
+      $near: {
+        $geometry: {
+          type: 'Point',
+          coordinates
+        },
+        $maxDistance: 10000 // 10 kilometers
+      }
+    }
+  };
+
+  const stores = await Store.find(query)
+    .select('name slug description photo location')
+    .limit(10);
+  res.json(stores);
+};
+
+exports.mapPage = (req, res) => {
+  res.render('map', { title: 'Map' });
 };

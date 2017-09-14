@@ -23,9 +23,29 @@ exports.icon = name => fs.readFileSync(`./public/images/icons/${name}.svg`);
 exports.siteName = 'The Retail Apocalypse';
 
 exports.menu = [
-  { slug: '/stores', title: 'Stores' },
-  { slug: '/add', title: 'Add' },
-  { slug: '/tags', title: 'Tags' },
-  { slug: '/top', title: 'Top' },
-  { slug: '/map', title: 'Map' }
+  {
+    slug: '/stores',
+    title: 'Stores',
+    icon: 'store'
+  },
+  {
+    slug: '/add',
+    title: 'Add',
+    icon: 'add'
+  },
+  {
+    slug: '/tags',
+    title: 'Tags',
+    icon: 'tag'
+  },
+  {
+    slug: '/top',
+    title: 'Top',
+    icon: 'tag'
+  },
+  {
+    slug: '/map',
+    title: 'Map',
+    icon: 'map'
+  }
 ];

@@ -1,7 +1,15 @@
 /*We will import all our sass files here*/
-
-@import 'partials/_variables';
-@import 'partials/_helpers';
-@import 'partials/_tag';
-@import 'partials/_flashes';
-@import 'partials/_layout';
+@import 'partials/variables';
+@import 'partials/normalize';
+@import 'partials/typography';
+@import 'partials/forms';
+@import 'partials/helpers';
+@import 'partials/mixins';
+@import 'partials/layout';
+@import 'partials/tag';
+@import 'partials/flashes';
+@import 'partials/nav';
+@import 'partials/store';
+@import 'partials/search';
+@import 'partials/storeCount';
+@import 'partials/map';
