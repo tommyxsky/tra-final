@@ -24,7 +24,7 @@ exports.logout = (req, res) => {
   res.redirect('/');
 };
 
-//========= Add middleware to check if the user is logged in ========
+// ========= Add middleware to check if the user is logged in ========
 exports.isLoggedIn = (req, res, next) => {
   // ========= first check if the user is authenticated =========
   if (req.isAuthenticated()) {
