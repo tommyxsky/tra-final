@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "sears-auto-center",
+    "name": "Sears Auto Center",
+    "description": "Sears Auto Center offers complete auto service",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sears Auto Center", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sears Auto Center Elyria, OH",
+      "coordinates": [-82.114124, 41.396935],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sears-auto-center-1",
+    "name": "Sears Auto Center",
+    "description": "Sears Auto Center offers complete auto service",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sears Auto Center", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sears Auto Center Midwest City, OK",
+      "coordinates": [-97.528511, 35.422589],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sears-auto-center-2",
+    "name": "Sears Auto Center",
+    "description": "Sears Auto Center offers complete auto service",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sears Auto Center", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sears Auto Center Columbia, SC",
+      "coordinates": [-80.958111, 34.069197],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sears-auto-center-3",
+    "name": "Sears Auto Center",
+    "description": "Sears Auto Center offers complete auto service",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sears Auto Center", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sears Auto Center Texarkana, TX",
+      "coordinates": [-94.082396, 33.455576],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sears-auto-center-4",
+    "name": "Sears Auto Center",
+    "description": "Sears Auto Center offers complete auto service",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sears Auto Center", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sears Auto Center Sherman, TX",
+      "coordinates": [-96.810912, 33.095888],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sears-auto-center-5",
+    "name": "Sears Auto Center",
+    "description": "Sears Auto Center offers complete auto service",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sears Auto Center", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sears Auto Center St. George, UT",
+      "coordinates": [-113.545028, 37.115453],
+      "type": "Point"
+    }
+  },
+  {
+    "slug": "sears-auto-center-6",
+    "name": "Sears Auto Center",
+    "description": "Sears Auto Center offers complete auto service",
+    "_user": "59b75af5b284536dc59707dc",
+    "photo": "",
+    "tags": ["Sears Auto Center", "Closed"],
+    "created": "2017-03-08T17:04:19.860Z",
+    "location": {
+      "address": "Sears Auto Center Richmond, VA",
+      "coordinates": [-77.610176, 37.510146],
+      "type": "Point"
+    }
+  }
+]
