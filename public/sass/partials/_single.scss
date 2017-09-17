@@ -1,0 +1,62 @@
+.single {
+  &__hero {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 500px;
+    overflow: hidden;
+
+    &:before {
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 1;
+
+      clip-path: polygon(0 0, 100% 0, 100% calc(100% - 2vw), 0% 100%);
+      content: '';
+      display: block;
+      height: 100%;
+      opacity: 0.6;
+      width: 100%;
+    }
+  }
+  &__image {
+    position: absolute;
+
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
+  &__details {
+    position: relative;
+
+    background: $white;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.15);
+    margin-top: -10rem;
+    padding: 3rem;
+  }
+  &__map {
+    margin-left: -3rem;
+    margin-top: -3rem;
+    max-width: none;
+    width: calc(100% + 6rem);
+  }
+  &__location {
+    position: relative;
+    float: right;
+
+    background: $black;
+    color: white;
+    display: inline-block;
+    margin: 0;
+    margin-right: -5rem;
+    margin-top: -3rem;
+    padding: 1rem;
+
+    @media all and (max-width: 850px) {
+      margin-right: 0;
+    }
+  }
+}
