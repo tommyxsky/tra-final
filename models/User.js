@@ -23,7 +23,10 @@ const userSchema = new Schema({
   },
   // ======== Aded reset password tokens ==========
   resetPasswordToken: String,
-  resetPasswordExpires: Date
+  resetPasswordExpires: Date,
+  hearts: [
+  { type: mongoose.Schema.ObjectId, ref: 'Store' }
+  ]
 });
 
 // ========== Added passportLocalMongoose and mongodbErrorHandler ==========
