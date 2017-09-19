@@ -1,0 +1,8 @@
+{"_id":"59c07f7325372541e5117873"},"text":"This store was terrible","rating":1,"_user":{"$oid":"59c076f747c1ee3bcc1a0ae1"},"_store":{"$oid":"59c06f2b838829365627e1b2"},"created":{"$date":"2017-09-19T02:21:43.864Z"},"__v":0}
+{"_id":"59c07f74e07a586590583fe5"},"text":"bbbbb","rating":2,"_user":{"$oid":"59b75af5b284536dc59707dc"},"_store":{"$oid":"59c06f2e838829365627e4ab"},"created":{"$date":"2017-09-19T02:21:56.709Z"},"__v":0}
+{"_id":"59c0834990094a43f08e1010"},"text":"i am leaving another review","rating":2,"_user":{"$oid":"59c076f747c1ee3bcc1a0ae1"},"_store":{"$oid":"59c06f2b838829365627e1b2"},"created":{"$date":"2017-09-19T02:36:08.321Z"},"__v":0}
+{"_id":"59c08493163dfe449c006bdd"},"text":"does this work?","rating":3,"_user":"59c076f747c1ee3bcc1a0ae1"},"_store":"59c06f2b838829365627e1b2"},"created":{"$date":"2017-09-19T02:41:53.632Z"},"__v":0}
+{"_id":"59c08605f7eae422407be79c"},"text":"Bad to the bone.","rating":1,"_user":"59b75af5b284536dc59707dc"},"store":"59c06f2e838829365627e4aa"},"created":{"$date":"2017-09-19T02:50:45.913Z"},"__v":0}
+{"_id":"59c092d75e2cb14d7be40901"},"text":"review 1","rating":2,"_user":"59c076f747c1ee3bcc1a0ae1"},"_store":"59c06f2e838829365627e5fb"},"created":{"$date":"2017-09-19T03:44:09.696Z"},"__v":0}
+{"_id":"59c092df74a44b70fd377152"},"text":"review 1","rating":3,"_user":"59b75af5b284536dc59707dc"},"_store":"59c06f2e838829365627e5fb"},"created":{"$date":"2017-09-19T03:43:21.428Z"},"__v":0}
+{"_id":"59c092f55e2cb14d7be40902"},"text":"Teavana Trump","rating":4,"_user":{"$oid":"59c076f747c1ee3bcc1a0ae1"},"_store":{"$oid":"59c06f2e838829365627e5fb"},"created":{"$date":"2017-09-19T03:44:09.696Z"},"__v":0}
