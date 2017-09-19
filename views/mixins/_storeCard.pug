@@ -10,7 +10,7 @@ mixin storeCard(store = {})
               pre= h.dump(store._id)
               button.heart__button(type="submit" name="heart")
                 != h.icon('heart')
-        if user && store.author.equals(user._id)
+        if user && store._user.equals(user._id)
           .store__action.store__action--edit
             a(href=`/stores/${store._id}/edit`)
               != h.icon('pencil')

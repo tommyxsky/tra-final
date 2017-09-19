@@ -3,5 +3,5 @@ node_modules
 variables.env
 variables.env.now
 npm-debug.log
-public/dist
+#public/dist
 yarn-error.log
