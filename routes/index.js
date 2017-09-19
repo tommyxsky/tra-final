@@ -3,6 +3,7 @@ const storeController = require('./../controllers/storeController');
 const { catchErrors } = require('./../handlers/errorHandlers');
 const userController = require('./../controllers/userController');
 const authController = require('./../controllers/authController');
+const reviewController = require('./../controllers/reviewController');
 const scrapeController = require('./../controllers/scrapeController');
 
 const router = express.Router();
@@ -37,7 +38,8 @@ router.post(
   userController.register,
   authController.login
 );
-//========= Addeded get Logout ========
+// ========= Addeded get Logout ========
+
 router.get('/logout', authController.logout);
 
 // ======== Added get account ========
@@ -72,8 +74,24 @@ router.post(
   catchErrors(storeController.updateStore)
 );
 
+// Google Maps
+
 router.get('/map', storeController.mapPage);
-router.get('/hearts', authController.isLoggedIn, catchErrors(storeController.getHearts));
+
+//
+router.get(
+  '/hearts',
+  authController.isLoggedIn,
+  catchErrors(storeController.getHearts)
+);
+
+//
+router.post(
+  '/reviews/:id',
+  authController.isLoggedIn,
+  catchErrors(reviewController.addReview)
+);
+
 /*
 
   API
@@ -90,6 +108,9 @@ router.get('/api/v1/scrape', scrapeController.scrapeStores);
 
 router.get('/api/v1/search', catchErrors(storeController.searchStores));
 router.get('/api/v1/stores/near', catchErrors(storeController.mapStores));
-router.post('/api/v1/stores/:id/heart', catchErrors(storeController.heartStore));
+router.post(
+  '/api/v1/stores/:id/heart',
+  catchErrors(storeController.heartStore)
+);
 
 module.exports = router;

@@ -94,7 +94,9 @@ exports.getStores = async (req, res) => {
 };
 
 exports.getStoreBySlug = async (req, res, next) => {
-  const store = await Store.findOne({ slug: req.params.slug }).populate('_user');
+  const store = await Store.findOne({ slug: req.params.slug }).populate(
+    '_user reviews'
+  );
   if (!store) {
     return next();
   }
@@ -206,16 +208,15 @@ exports.mapPage = (req, res) => {
   res.render('map', { title: 'Map' });
 };
 
-
 exports.heartStore = async (req, res) => {
   // get array of hearts
-  const hearts = req.user.hearts.map((obj) => obj.toString());
+  const hearts = req.user.hearts.map(obj => obj.toString());
   const operator = hearts.includes(req.params.id) ? '$pull' : '$addToSet';
-  const user = await User
-    .findByIdAndUpdate(req.user._id,
-      { [operator]: { hearts: req.params.id } },
-      { new: true }
-    );
+  const user = await User.findByIdAndUpdate(
+    req.user._id,
+    { [operator]: { hearts: req.params.id } },
+    { new: true }
+  );
   res.json(user);
 };
 
