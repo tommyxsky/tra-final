@@ -1,978 +1,976 @@
 [
-  // macys closing 70 stores 2016 and 34 stores next few years
-  {
+{
     "slug": "macys",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Greenwood, Bowling Green, KY ",
-      "coordinates": [-86.427394, 36.948314],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Greenwood, Bowling Green, KY ",
+        "coordinates": [-86.427394, 36.948314],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-1",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Carolina Place, Pineville, NC ",
-      "coordinates": [-80.876423, 35.082353],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Carolina Place, Pineville, NC ",
+        "coordinates": [-80.876423, 35.082353],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-2",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Douglaston, Douglaston, NY ",
-      "coordinates": [-73.702402, 40.788467],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Douglaston, Douglaston, NY ",
+        "coordinates": [-73.702402, 40.788467],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-3",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Downtown Portland, Portland, OR ",
-      "coordinates": [-122.67762, 45.519354],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Downtown Portland, Portland, OR ",
+        "coordinates": [-122.67762, 45.519354],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-4",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Lancaster Mall, Salem, OR ",
-      "coordinates": [-123.034488, 44.943276],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Lancaster Mall, Salem, OR ",
+        "coordinates": [-123.034488, 44.943276],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-5",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Oakwood Mall, Eau Claire, WI ",
-      "coordinates": [-91.441891, 44.775369],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Oakwood Mall, Eau Claire, WI ",
+        "coordinates": [-91.441891, 44.775369],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-6",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Mission Valley Apparel, San Diego, CA ",
-      "coordinates": [-117.147995, 32.769501],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Mission Valley Apparel, San Diego, CA ",
+        "coordinates": [-117.147995, 32.769501],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-7",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Paseo Nuevo, Santa Barbara, CA ",
-      "coordinates": [-119.699953, 34.419035],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Paseo Nuevo, Santa Barbara, CA ",
+        "coordinates": [-119.699953, 34.419035],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-8",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Lakeland Square, Lakeland, FL ",
-      "coordinates": [-81.977784, 28.089801],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Lakeland Square, Lakeland, FL ",
+        "coordinates": [-81.977784, 28.089801],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-9",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Oviedo Marketplace, Oviedo, FL ",
-      "coordinates": [-81.23483, 28.663145],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Oviedo Marketplace, Oviedo, FL ",
+        "coordinates": [-81.23483, 28.663145],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-10",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Sarasota Square, Sarasota, FL ",
-      "coordinates": [-82.52852, 27.300525],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Sarasota Square, Sarasota, FL ",
+        "coordinates": [-82.52852, 27.300525],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-11",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's University Square, Tampa, FL ",
-      "coordinates": [-82.434742, 28.056246],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's University Square, Tampa, FL ",
+        "coordinates": [-82.434742, 28.056246],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-12",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's CityPlace, West Palm Beach, FL ",
-      "coordinates": [-80.056832, 26.708717],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's CityPlace, West Palm Beach, FL ",
+        "coordinates": [-80.056832, 26.708717],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-13",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Georgia Square, Athens, GA ",
-      "coordinates": [-83.466813, 33.943986],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Georgia Square, Athens, GA ",
+        "coordinates": [-83.466813, 33.943986],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-14",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Nampa Gateway Center, Nampa, ID ",
-      "coordinates": [-116.509723, 43.596264],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Nampa Gateway Center, Nampa, ID ",
+        "coordinates": [-116.509723, 43.596264],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-15",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Alton Square, Alton, IL ",
-      "coordinates": [-90.174674, 38.923951],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Alton Square, Alton, IL ",
+        "coordinates": [-90.174674, 38.923951],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-16",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Stratford Square, Bloomingdale, IL ",
-      "coordinates": [-88.117207, 41.949757],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Stratford Square, Bloomingdale, IL ",
+        "coordinates": [-88.117207, 41.949757],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-17",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Eastland, Bloomington, IL ",
-      "coordinates": [-88.955382, 40.486942],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Eastland, Bloomington, IL ",
+        "coordinates": [-88.955382, 40.486942],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-18",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Jefferson, Louisville, KY ",
-      "coordinates": [-85.608543, 38.24701],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Jefferson, Louisville, KY ",
+        "coordinates": [-85.608543, 38.24701],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-19",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Esplanade, Kenner, LA ",
-      "coordinates": [-90.249037, 30.018546],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Esplanade, Kenner, LA ",
+        "coordinates": [-90.249037, 30.018546],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-20",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Bangor, Bangor, ME ",
-      "coordinates": [-68.7491, 44.831496],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Bangor, Bangor, ME ",
+        "coordinates": [-68.7491, 44.831496],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-21",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Westgate, Brockton, MA ",
-      "coordinates": [-71.052267, 42.096319],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Westgate, Brockton, MA ",
+        "coordinates": [-71.052267, 42.096319],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-22",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Silver City Galleria, Taunton, MA ",
-      "coordinates": [-71.051431, 41.864427],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Silver City Galleria, Taunton, MA ",
+        "coordinates": [-71.051431, 41.864427],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-23",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Lakeview Square Mall, Battle Creek, MI ",
-      "coordinates": [-85.183903, 42.262665],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Lakeview Square Mall, Battle Creek, MI ",
+        "coordinates": [-85.183903, 42.262665],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-24",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Eastland Center, Harper Woods, MI ",
-      "coordinates": [-82.935413, 42.447479],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Eastland Center, Harper Woods, MI ",
+        "coordinates": [-82.935413, 42.447479],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-25",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Lansing, Lansing, MI ",
-      "coordinates": [-84.419747, 42.723009],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Lansing, Lansing, MI ",
+        "coordinates": [-84.419747, 42.723009],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-26",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Westland, Westland, MI ",
-      "coordinates": [-83.388467, 42.341151],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Westland, Westland, MI ",
+        "coordinates": [-83.388467, 42.341151],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-27",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Minneapolis Downtown, Minneapolis, MN ",
-      "coordinates": [-93.272724, 44.976798],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Minneapolis Downtown, Minneapolis, MN ",
+        "coordinates": [-93.272724, 44.976798],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-28",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Northgate, Durham, NC ",
-      "coordinates": [-78.941147, 35.904199],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Northgate, Durham, NC ",
+        "coordinates": [-78.941147, 35.904199],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-29",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Columbia, Grand Forks, ND ",
-      "coordinates": [-97.070811, 47.891768],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Columbia, Grand Forks, ND ",
+        "coordinates": [-97.070811, 47.891768],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-30",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Moorestown, Moorestown, NJ ",
-      "coordinates": [-75.02301, 39.941263],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Moorestown, Moorestown, NJ ",
+        "coordinates": [-75.02301, 39.941263],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-31",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Voorhees Town Center, Voorhees, NJ ",
-      "coordinates": [-75.098573, 39.831755],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Voorhees Town Center, Voorhees, NJ ",
+        "coordinates": [-75.098573, 39.831755],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-32",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Preakness, Wayne, NJ ",
-      "coordinates": [-74.257924, 40.890406],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Preakness, Wayne, NJ ",
+        "coordinates": [-74.257924, 40.890406],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-33",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Cottonwood, Albuquerque, NM ",
-      "coordinates": [-106.574241, 35.107529],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Cottonwood, Albuquerque, NM ",
+        "coordinates": [-106.574241, 35.107529],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-34",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Las Vegas Boulevard, Las Vegas, NV ",
-      "coordinates": [-115.171687, 36.128248],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Las Vegas Boulevard, Las Vegas, NV ",
+        "coordinates": [-115.171687, 36.128248],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-35",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Great Northern, Clay, NY ",
-      "coordinates": [-76.224684, 43.188582],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Great Northern, Clay, NY ",
+        "coordinates": [-76.224684, 43.188582],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-36",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Oakdale Mall, Johnson City, NY ",
-      "coordinates": [-75.974082, 42.12712],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Oakdale Mall, Johnson City, NY ",
+        "coordinates": [-75.974082, 42.12712],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-37",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's The Marketplace, Rochester, NY ",
-      "coordinates": [-77.633379, 43.083931],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's The Marketplace, Rochester, NY ",
+        "coordinates": [-77.633379, 43.083931],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-38",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Eastland, Columbus, OH ",
-      "coordinates": [-82.883676, 39.918864],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Eastland, Columbus, OH ",
+        "coordinates": [-82.883676, 39.918864],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-39",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Sandusky, Sandusky, OH ",
-      "coordinates": [-82.669194, 41.417711],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Sandusky, Sandusky, OH ",
+        "coordinates": [-82.669194, 41.417711],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-40",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Fort Steuben, Steubenville, OH ",
-      "coordinates": [-80.670838, 40.366242],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Fort Steuben, Steubenville, OH ",
+        "coordinates": [-80.670838, 40.366242],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-41",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Promenade, Tulsa, OK ",
-      "coordinates": [-95.919179, 36.102906],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Promenade, Tulsa, OK ",
+        "coordinates": [-95.919179, 36.102906],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-42",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Neshaminy, Bensalem, PA ",
-      "coordinates": [-74.954608, 40.137383],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Neshaminy, Bensalem, PA ",
+        "coordinates": [-74.954608, 40.137383],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-43",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Shenango Valley, Hermitage, PA ",
-      "coordinates": [-80.446533, 41.235192],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Shenango Valley, Hermitage, PA ",
+        "coordinates": [-80.446533, 41.235192],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-44",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Beaver Valley, Monaca, PA ",
-      "coordinates": [-80.158099, 40.456309],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Beaver Valley, Monaca, PA ",
+        "coordinates": [-80.158099, 40.456309],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-45",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Lycoming, Muncy, PA ",
-      "coordinates": [-76.824741, 41.239086],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Lycoming, Muncy, PA ",
+        "coordinates": [-76.824741, 41.239086],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-46",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Plymouth Meeting, Plymouth Meeting, PA ",
-      "coordinates": [-75.38755, 40.088488],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Plymouth Meeting, Plymouth Meeting, PA ",
+        "coordinates": [-75.38755, 40.088488],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-47",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Washington Crown Center, Washington, PA ",
-      "coordinates": [-80.276377, 40.159546],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Washington Crown Center, Washington, PA ",
+        "coordinates": [-80.276377, 40.159546],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-48",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Parkdale, Beaumont, TX ",
-      "coordinates": [-94.161786, 30.124491],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Parkdale, Beaumont, TX ",
+        "coordinates": [-94.161786, 30.124491],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-49",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Southwest Center, Dallas, TX ",
-      "coordinates": [-96.878093, 32.660134],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Southwest Center, Dallas, TX ",
+        "coordinates": [-96.878093, 32.660134],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-50",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Sunland Park, El Paso, TX ",
-      "coordinates": [-106.544481, 31.815068],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Sunland Park, El Paso, TX ",
+        "coordinates": [-106.544481, 31.815068],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-51",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Greenspoint, Houston, TX ",
-      "coordinates": [-95.413715, 29.947197],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Greenspoint, Houston, TX ",
+        "coordinates": [-95.413715, 29.947197],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-52",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's West Oaks Mall, Houston, TX ",
-      "coordinates": [-95.648291, 29.732138],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's West Oaks Mall, Houston, TX ",
+        "coordinates": [-95.648291, 29.732138],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-53",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Pasadena Town Square, Pasadena, TX ",
-      "coordinates": [-95.197876, 29.692248],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Pasadena Town Square, Pasadena, TX ",
+        "coordinates": [-95.197876, 29.692248],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-54",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Collin Creek, Plano, TX ",
-      "coordinates": [-96.712899, 33.013477],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Collin Creek, Plano, TX ",
+        "coordinates": [-96.712899, 33.013477],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-55",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Broadway Square, Tyler, TX ",
-      "coordinates": [-95.302631, 32.299441],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Broadway Square, Tyler, TX ",
+        "coordinates": [-95.302631, 32.299441],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-56",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Layton Hills, Layton, UT ",
-      "coordinates": [-111.976034, 41.077944],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Layton Hills, Layton, UT ",
+        "coordinates": [-111.976034, 41.077944],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-57",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Cottonwood, Salt Lake City, UT ",
-      "coordinates": [-111.890605, 40.76854],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Cottonwood, Salt Lake City, UT ",
+        "coordinates": [-111.890605, 40.76854],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-58",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Landmark, Alexandria, VA ",
-      "coordinates": [-77.130396, 38.816288],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Landmark, Alexandria, VA ",
+        "coordinates": [-77.130396, 38.816288],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-59",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's River Ridge, Lynchburg, VA ",
-      "coordinates": [-79.178623, 37.364903],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's River Ridge, Lynchburg, VA ",
+        "coordinates": [-79.178623, 37.364903],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-60",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Everett, Everett, WA ",
-      "coordinates": [-122.211867, 47.911522],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Everett, Everett, WA ",
+        "coordinates": [-122.211867, 47.911522],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-61",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Three Rivers, Kelso, WA ",
-      "coordinates": [-122.9019, 46.13861],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Three Rivers, Kelso, WA ",
+        "coordinates": [-122.9019, 46.13861],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-62",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Valley View, La Crosse, WI ",
-      "coordinates": [-91.196657, 43.867985],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Valley View, La Crosse, WI ",
+        "coordinates": [-91.196657, 43.867985],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-63",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Simi Valley Town Center , Simi Valley, CA",
-      "coordinates": [-118.767146, 34.284361],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Simi Valley Town Center , Simi Valley, CA",
+        "coordinates": [-118.767146, 34.284361],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "macys-64",
     "name": "Macy's",
-    "description":
-      "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
+    "description": "Macy's, originally R. H. Macy & Co., is a department store owned by Macy's, Inc. It is one of two divisions owned by the company, with the other being Bloomingdale's.",
     "_user": "59b75af5b284536dc59707dc",
     "photo": "",
     "tags": ["Macy's", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Macy's Mall at Tuttle Crossing , Dublin, OH",
-      "coordinates": [-83.132692, 40.072651],
-      "type": "Point"
+    "location":
+    {
+        "address": "Macy's Mall at Tuttle Crossing , Dublin, OH",
+        "coordinates": [-83.132692, 40.072651],
+        "type": "Point"
     }
-  }
-]
+}]

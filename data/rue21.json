@@ -1,6 +1,5 @@
 [
-  // rue21 closing 400 stores
-  {
+{
     "slug": "rue21",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -8,13 +7,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "300 Colonial Promenade Parkway Alabaster,AL",
-      "coordinates": [-86.802253, 33.23258],
-      "type": "Point"
+    "location":
+    {
+        "address": "300 Colonial Promenade Parkway Alabaster,AL",
+        "coordinates": [-86.802253, 33.23258],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-1",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -22,13 +22,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "229 French Farms Blvd Athens,AL",
-      "coordinates": [-86.959681, 34.785846],
-      "type": "Point"
+    "location":
+    {
+        "address": "229 French Farms Blvd Athens,AL",
+        "coordinates": [-86.959681, 34.785846],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-2",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -36,13 +37,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "4863 Promenade Parkway ,AL",
-      "coordinates": [-86.989177, 33.333808],
-      "type": "Point"
+    "location":
+    {
+        "address": "4863 Promenade Parkway ,AL",
+        "coordinates": [-86.989177, 33.333808],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-3",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -50,13 +52,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1616 Gadsden Highway ,AL",
-      "coordinates": [-86.640664, 33.603094],
-      "type": "Point"
+    "location":
+    {
+        "address": "1616 Gadsden Highway ,AL",
+        "coordinates": [-86.640664, 33.603094],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-4",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -64,13 +67,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1200 Cullman Shopping Center NW Cullman,AL",
-      "coordinates": [-86.850321, 34.1836],
-      "type": "Point"
+    "location":
+    {
+        "address": "1200 Cullman Shopping Center NW Cullman,AL",
+        "coordinates": [-86.850321, 34.1836],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-5",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -78,13 +82,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "3477 Lowery Parkway Fultondale,AL",
-      "coordinates": [-86.805752, 33.60522],
-      "type": "Point"
+    "location":
+    {
+        "address": "3477 Lowery Parkway Fultondale,AL",
+        "coordinates": [-86.805752, 33.60522],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-6",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -92,13 +97,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2722 Carl T. Jones Drive SE Huntsville,AL",
-      "coordinates": [-86.550676, 34.679125],
-      "type": "Point"
+    "location":
+    {
+        "address": "2722 Carl T. Jones Drive SE Huntsville,AL",
+        "coordinates": [-86.550676, 34.679125],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-7",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -106,13 +112,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1624 Montclair Road, Irondale,AL",
-      "coordinates": [-86.722648, 33.527588],
-      "type": "Point"
+    "location":
+    {
+        "address": "1624 Montclair Road, Irondale,AL",
+        "coordinates": [-86.722648, 33.527588],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-8",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -120,13 +127,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "7696 Highway 72 NW, Madison,AL",
-      "coordinates": [-86.736772, 34.756965],
-      "type": "Point"
+    "location":
+    {
+        "address": "7696 Highway 72 NW, Madison,AL",
+        "coordinates": [-86.736772, 34.756965],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21-9",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -134,13 +142,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1015 Eastdale Mall Montgomery,AL",
-      "coordinates": [-86.203115, 32.386348],
-      "type": "Point"
+    "location":
+    {
+        "address": "1015 Eastdale Mall Montgomery,AL",
+        "coordinates": [-86.203115, 32.386348],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--10",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -148,13 +157,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2472 Berryhill Rd. Montgomery,AL",
-      "coordinates": [-86.162773, 32.359162],
-      "type": "Point"
+    "location":
+    {
+        "address": "2472 Berryhill Rd. Montgomery,AL",
+        "coordinates": [-86.162773, 32.359162],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--11",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -162,13 +172,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1919 Cobbs Ford Road Prattville,AL",
-      "coordinates": [-86.415404, 32.462883],
-      "type": "Point"
+    "location":
+    {
+        "address": "1919 Cobbs Ford Road Prattville,AL",
+        "coordinates": [-86.415404, 32.462883],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--12",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -176,13 +187,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "24833 John T. Reid Pkwy, Space M Scottsboro,AL",
-      "coordinates": [-86.006166, 34.669019],
-      "type": "Point"
+    "location":
+    {
+        "address": "24833 John T. Reid Pkwy, Space M Scottsboro,AL",
+        "coordinates": [-86.006166, 34.669019],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--13",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -190,13 +202,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "960 Industrial Parkway,AL",
-      "coordinates": [-88.097098, 30.801998],
-      "type": "Point"
+    "location":
+    {
+        "address": "960 Industrial Parkway,AL",
+        "coordinates": [-88.097098, 30.801998],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--14",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -204,13 +217,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "4250 W. Anthem Way, Anthema AR",
-      "coordinates": [-112.150162, 33.874003],
-      "type": "Point"
+    "location":
+    {
+        "address": "4250 W. Anthem Way, Anthema AR",
+        "coordinates": [-112.150162, 33.874003],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--15",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -218,13 +232,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1269 N. Promenade Pkwy, Grandea AR",
-      "coordinates": [-64.260375, -31.419865],
-      "type": "Point"
+    "location":
+    {
+        "address": "1269 N. Promenade Pkwy, Grandea AR",
+        "coordinates": [-64.260375, -31.419865],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--16",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -232,13 +247,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "5000 Arizona Mills Circle Tempe, AR",
-      "coordinates": [-111.964422, 33.383223],
-      "type": "Point"
+    "location":
+    {
+        "address": "5000 Arizona Mills Circle Tempe, AR",
+        "coordinates": [-111.964422, 33.383223],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--17",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -246,13 +262,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "25546 N. Lake Pleasant Pkway Peoria AR",
-      "coordinates": [-112.271558, 33.714436],
-      "type": "Point"
+    "location":
+    {
+        "address": "25546 N. Lake Pleasant Pkway Peoria AR",
+        "coordinates": [-112.271558, 33.714436],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--18",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -260,13 +277,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "21506 South Ellsworth Loop Queen Creek AR",
-      "coordinates": [-111.640872, 33.252926],
-      "type": "Point"
+    "location":
+    {
+        "address": "21506 South Ellsworth Loop Queen Creek AR",
+        "coordinates": [-111.640872, 33.252926],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--19",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -274,13 +292,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "582 E. Piceno Dr. San Luis AR",
-      "coordinates": [-114.783616, 32.505727],
-      "type": "Point"
+    "location":
+    {
+        "address": "582 E. Piceno Dr. San Luis AR",
+        "coordinates": [-114.783616, 32.505727],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--20",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -288,13 +307,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2200 El Mercado Loop, Sierra Vista AR",
-      "coordinates": [-110.259849, 31.529185],
-      "type": "Point"
+    "location":
+    {
+        "address": "2200 El Mercado Loop, Sierra Vista AR",
+        "coordinates": [-110.259849, 31.529185],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--21",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -302,13 +322,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "4500 North Oracle Road, Tucson, AR",
-      "coordinates": [-110.978125, 32.288179],
-      "type": "Point"
+    "location":
+    {
+        "address": "4500 North Oracle Road, Tucson, AR",
+        "coordinates": [-110.978125, 32.288179],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--22",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -316,13 +337,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "7401 N. Lacholla Blvd., Tucson, AR",
-      "coordinates": [-111.013274, 32.343519],
-      "type": "Point"
+    "location":
+    {
+        "address": "7401 N. Lacholla Blvd., Tucson, AR",
+        "coordinates": [-111.013274, 32.343519],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--23",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -330,13 +352,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "5373 South Calle Santa Cruz, Tucson, AR",
-      "coordinates": [-110.989126, 32.153964],
-      "type": "Point"
+    "location":
+    {
+        "address": "5373 South Calle Santa Cruz, Tucson, AR",
+        "coordinates": [-110.989126, 32.153964],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--24",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -344,13 +367,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "7357 Alcoa Road, Bryant, AR",
-      "coordinates": [-92.530403, 34.603987],
-      "type": "Point"
+    "location":
+    {
+        "address": "7357 Alcoa Road, Bryant, AR",
+        "coordinates": [-92.530403, 34.603987],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--25",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -358,13 +382,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2113 Northwest Ave El Dorado, AR",
-      "coordinates": [-92.664567, 33.232185],
-      "type": "Point"
+    "location":
+    {
+        "address": "2113 Northwest Ave El Dorado, AR",
+        "coordinates": [-92.664567, 33.232185],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--26",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -372,13 +397,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "605 US Highway Harrison, AR",
-      "coordinates": [-91.583946, 35.302355],
-      "type": "Point"
+    "location":
+    {
+        "address": "605 US Highway Harrison, AR",
+        "coordinates": [-91.583946, 35.302355],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--27",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -386,13 +412,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "40 Plaza Way Mountain Home, AR",
-      "coordinates": [-92.338265, 36.356049],
-      "type": "Point"
+    "location":
+    {
+        "address": "40 Plaza Way Mountain Home, AR",
+        "coordinates": [-92.338265, 36.356049],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--28",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -400,13 +427,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2203 Promenade Blvd Rogers, AR",
-      "coordinates": [-94.174559, 36.304661],
-      "type": "Point"
+    "location":
+    {
+        "address": "2203 Promenade Blvd Rogers, AR",
+        "coordinates": [-94.174559, 36.304661],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--29",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -414,13 +442,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "5320 West Sunset Springdale, AR",
-      "coordinates": [-94.190123, 36.177718],
-      "type": "Point"
+    "location":
+    {
+        "address": "5320 West Sunset Springdale, AR",
+        "coordinates": [-94.190123, 36.177718],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--30",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -428,13 +457,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "5001 Willows Rd, Space M, CA",
-      "coordinates": [-116.708297, 32.840232],
-      "type": "Point"
+    "location":
+    {
+        "address": "5001 Willows Rd, Space M, CA",
+        "coordinates": [-116.708297, 32.840232],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--31",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -442,13 +472,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2580 Bell Road, Auburn, CA",
-      "coordinates": [-121.093899, 38.942914],
-      "type": "Point"
+    "location":
+    {
+        "address": "2580 Bell Road, Auburn, CA",
+        "coordinates": [-121.093899, 38.942914],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--32",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -456,13 +487,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1855 41st Ave Capitola, CA",
-      "coordinates": [-121.966872, 36.976617],
-      "type": "Point"
+    "location":
+    {
+        "address": "1855 41st Ave Capitola, CA",
+        "coordinates": [-121.966872, 36.976617],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--33",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -470,13 +502,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2525 El Camino Real Carlsbad, CA",
-      "coordinates": [-117.332342, 33.178324],
-      "type": "Point"
+    "location":
+    {
+        "address": "2525 El Camino Real Carlsbad, CA",
+        "coordinates": [-117.332342, 33.178324],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--34",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -484,13 +517,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "5932 Sunrise Mall, Citrus Heights, CA",
-      "coordinates": [-121.271433, 38.674553],
-      "type": "Point"
+    "location":
+    {
+        "address": "5932 Sunrise Mall, Citrus Heights, CA",
+        "coordinates": [-121.271433, 38.674553],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--35",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -498,13 +532,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "625 W. Herndon Ave Clovis, CA",
-      "coordinates": [-119.727151, 36.838089],
-      "type": "Point"
+    "location":
+    {
+        "address": "625 W. Herndon Ave Clovis, CA",
+        "coordinates": [-119.727151, 36.838089],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--36",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -512,13 +547,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "3451 S. Dogwood Ave Centro, CA",
-      "coordinates": [-115.530362, 32.762862],
-      "type": "Point"
+    "location":
+    {
+        "address": "3451 S. Dogwood Ave Centro, CA",
+        "coordinates": [-115.530362, 32.762862],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--37",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -526,13 +562,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1300 Folsom Blvd Folsom, CA",
-      "coordinates": [-121.18796, 38.643082],
-      "type": "Point"
+    "location":
+    {
+        "address": "1300 Folsom Blvd Folsom, CA",
+        "coordinates": [-121.18796, 38.643082],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--38",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -540,13 +577,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "212 N. 12th Ave Hanford, CA",
-      "coordinates": [-119.674677, 36.325281],
-      "type": "Point"
+    "location":
+    {
+        "address": "212 N. 12th Ave Hanford, CA",
+        "coordinates": [-119.674677, 36.325281],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--39",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -554,13 +592,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "61 Lakewood Center, Lakewood, CA",
-      "coordinates": [-118.140378, 33.850455],
-      "type": "Point"
+    "location":
+    {
+        "address": "61 Lakewood Center, Lakewood, CA",
+        "coordinates": [-118.140378, 33.850455],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--40",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -568,13 +607,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2236 Daniels St Manteca, CA",
-      "coordinates": [-121.255955, 37.785641],
-      "type": "Point"
+    "location":
+    {
+        "address": "2236 Daniels St Manteca, CA",
+        "coordinates": [-121.255955, 37.785641],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--41",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -582,13 +622,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2225 Plaza Parkway, Modesto, CA",
-      "coordinates": [-121.036747, 37.672671],
-      "type": "Point"
+    "location":
+    {
+        "address": "2225 Plaza Parkway, Modesto, CA",
+        "coordinates": [-121.036747, 37.672671],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--42",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -596,13 +637,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "5060 Montclair Plaza Ln Montclair, CA",
-      "coordinates": [-117.694138, 34.086825],
-      "type": "Point"
+    "location":
+    {
+        "address": "5060 Montclair Plaza Ln Montclair, CA",
+        "coordinates": [-117.694138, 34.086825],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--43",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -610,13 +652,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "333 Five Cities Drive Pismo Beach, CA",
-      "coordinates": [-120.627858, 35.135478],
-      "type": "Point"
+    "location":
+    {
+        "address": "333 Five Cities Drive Pismo Beach, CA",
+        "coordinates": [-120.627858, 35.135478],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--44",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -624,13 +667,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "4181 Century Blvd Pittsburg, CA",
-      "coordinates": [-121.841995, 38.007648],
-      "type": "Point"
+    "location":
+    {
+        "address": "4181 Century Blvd Pittsburg, CA",
+        "coordinates": [-121.841995, 38.007648],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--45",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -638,13 +682,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "500 Inland Center Drive San Barnardino, CA",
-      "coordinates": [-117.297601, 34.085129],
-      "type": "Point"
+    "location":
+    {
+        "address": "500 Inland Center Drive San Barnardino, CA",
+        "coordinates": [-117.297601, 34.085129],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--46",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -652,13 +697,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "3200 North Naglee Rd Tracy, CA",
-      "coordinates": [-121.461553, 37.759903],
-      "type": "Point"
+    "location":
+    {
+        "address": "3200 North Naglee Rd Tracy, CA",
+        "coordinates": [-121.461553, 37.759903],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--47",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -666,13 +712,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1375 North State Street Ukiah, CA",
-      "coordinates": [-123.209045, 39.168887],
-      "type": "Point"
+    "location":
+    {
+        "address": "1375 North State Street Ukiah, CA",
+        "coordinates": [-123.209045, 39.168887],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--48",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -680,13 +727,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "331 N. Nut Tree Road Vacaville, CA",
-      "coordinates": [-121.955352, 38.36475],
-      "type": "Point"
+    "location":
+    {
+        "address": "331 N. Nut Tree Road Vacaville, CA",
+        "coordinates": [-121.955352, 38.36475],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--49",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -694,13 +742,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "542 Plaza Drive West Covina, CA",
-      "coordinates": [-117.927092, 34.069692],
-      "type": "Point"
+    "location":
+    {
+        "address": "542 Plaza Drive West Covina, CA",
+        "coordinates": [-117.927092, 34.069692],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--50",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -708,13 +757,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2037A Westminster Mall Westminster, CA",
-      "coordinates": [-118.012258, 33.74717],
-      "type": "Point"
+    "location":
+    {
+        "address": "2037A Westminster Mall Westminster, CA",
+        "coordinates": [-118.012258, 33.74717],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--51",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -722,13 +772,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1201 Colusa Ave Yuba City, CA",
-      "coordinates": [-121.631921, 39.141866],
-      "type": "Point"
+    "location":
+    {
+        "address": "1201 Colusa Ave Yuba City, CA",
+        "coordinates": [-121.631921, 39.141866],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--52",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -736,13 +787,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1250 S. Rochester Road Rochester Hills, MI",
-      "coordinates": [-83.136176, 42.662975],
-      "type": "Point"
+    "location":
+    {
+        "address": "1250 S. Rochester Road Rochester Hills, MI",
+        "coordinates": [-83.136176, 42.662975],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--53",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -750,13 +802,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "35585 Warren Road Westland, MI",
-      "coordinates": [-83.393356, 42.338023],
-      "type": "Point"
+    "location":
+    {
+        "address": "35585 Warren Road Westland, MI",
+        "coordinates": [-83.393356, 42.338023],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--54",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -764,13 +817,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "50697 Waterside Dr Chesterfield, MI",
-      "coordinates": [-82.830556, 42.670571],
-      "type": "Point"
+    "location":
+    {
+        "address": "50697 Waterside Dr Chesterfield, MI",
+        "coordinates": [-82.830556, 42.670571],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--55",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -778,13 +832,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "47172 Michigan Ave Canton, MI",
-      "coordinates": [-83.504337, 42.267432],
-      "type": "Point"
+    "location":
+    {
+        "address": "47172 Michigan Ave Canton, MI",
+        "coordinates": [-83.504337, 42.267432],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--56",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -792,13 +847,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2121 N. Monroe St Monroe, MI",
-      "coordinates": [-83.387756, 41.947183],
-      "type": "Point"
+    "location":
+    {
+        "address": "2121 N. Monroe St Monroe, MI",
+        "coordinates": [-83.387756, 41.947183],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--57",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -806,13 +862,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "9490 Village Place Blvd Brighton, MI",
-      "coordinates": [-83.75468, 42.504592],
-      "type": "Point"
+    "location":
+    {
+        "address": "9490 Village Place Blvd Brighton, MI",
+        "coordinates": [-83.75468, 42.504592],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--58",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -820,13 +877,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "325 Lakewood Drive Batesville, MS",
-      "coordinates": [-89.920965, 34.313293],
-      "type": "Point"
+    "location":
+    {
+        "address": "325 Lakewood Drive Batesville, MS",
+        "coordinates": [-89.920965, 34.313293],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--59",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -834,13 +892,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "958 Brookway Blvd Brookhaven, MS",
-      "coordinates": [-90.466142, 31.581104],
-      "type": "Point"
+    "location":
+    {
+        "address": "958 Brookway Blvd Brookhaven, MS",
+        "coordinates": [-90.466142, 31.581104],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--60",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -848,13 +907,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1005 Hwy 98 Bypass Columbia, MS",
-      "coordinates": [-89.786487, 31.254044],
-      "type": "Point"
+    "location":
+    {
+        "address": "1005 Hwy 98 Bypass Columbia, MS",
+        "coordinates": [-89.786487, 31.254044],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--61",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -862,13 +922,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2501 Virginia Lane Corinth, MS",
-      "coordinates": [-88.505208, 34.912387],
-      "type": "Point"
+    "location":
+    {
+        "address": "2501 Virginia Lane Corinth, MS",
+        "coordinates": [-88.505208, 34.912387],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--62",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -876,13 +937,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "130 Promenade Blvd Flowood, MS",
-      "coordinates": [-90.062958, 32.342526],
-      "type": "Point"
+    "location":
+    {
+        "address": "130 Promenade Blvd Flowood, MS",
+        "coordinates": [-90.062958, 32.342526],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--63",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -890,13 +952,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1651 Highway 1 South Greenville, MS",
-      "coordinates": [-91.041334, 33.374975],
-      "type": "Point"
+    "location":
+    {
+        "address": "1651 Highway 1 South Greenville, MS",
+        "coordinates": [-91.041334, 33.374975],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--64",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -904,13 +967,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2218 Highway 82 W Greenwood, MS",
-      "coordinates": [-90.223149, 33.528966],
-      "type": "Point"
+    "location":
+    {
+        "address": "2218 Highway 82 W Greenwood, MS",
+        "coordinates": [-90.223149, 33.528966],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--65",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -918,13 +982,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "6055 Highway 98 West Hattiesburg, MS",
-      "coordinates": [-89.383145, 31.321473],
-      "type": "Point"
+    "location":
+    {
+        "address": "6055 Highway 98 West Hattiesburg, MS",
+        "coordinates": [-89.383145, 31.321473],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--66",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -932,13 +997,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1722 Veterans Blvd McComb, MS",
-      "coordinates": [-90.473871, 31.260805],
-      "type": "Point"
+    "location":
+    {
+        "address": "1722 Veterans Blvd McComb, MS",
+        "coordinates": [-90.473871, 31.260805],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--67",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -946,13 +1012,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "133 South Frontage Road Meridian, MS",
-      "coordinates": [-88.67377, 32.36481],
-      "type": "Point"
+    "location":
+    {
+        "address": "133 South Frontage Road Meridian, MS",
+        "coordinates": [-88.67377, 32.36481],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--68",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -960,13 +1027,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "2305 W. Jackson Ave Oxford, MS",
-      "coordinates": [-89.563131, 34.364318],
-      "type": "Point"
+    "location":
+    {
+        "address": "2305 W. Jackson Ave Oxford, MS",
+        "coordinates": [-89.563131, 34.364318],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--69",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -974,13 +1042,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "211 Lewis Ave. S Philadelphia, Miss., MS",
-      "coordinates": [-89.125374, 32.769113],
-      "type": "Point"
+    "location":
+    {
+        "address": "211 Lewis Ave. S Philadelphia, Miss., MS",
+        "coordinates": [-89.125374, 32.769113],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--70",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -988,13 +1057,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "4000 S. Frontage Road Vicksburg, MS",
-      "coordinates": [-90.841122, 32.340804],
-      "type": "Point"
+    "location":
+    {
+        "address": "4000 S. Frontage Road Vicksburg, MS",
+        "coordinates": [-90.841122, 32.340804],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--71",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1002,13 +1072,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Epping, NH",
-      "coordinates": [-71.073548, 43.053484],
-      "type": "Point"
+    "location":
+    {
+        "address": "Epping, NH",
+        "coordinates": [-71.073548, 43.053484],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--72",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1016,13 +1087,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Seabrook, NH",
-      "coordinates": [-70.865507, 42.890962],
-      "type": "Point"
+    "location":
+    {
+        "address": "Seabrook, NH",
+        "coordinates": [-70.865507, 42.890962],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--73",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1030,13 +1102,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "4081 Rt 31 Clay, NY",
-      "coordinates": [-76.225958, 43.188289],
-      "type": "Point"
+    "location":
+    {
+        "address": "4081 Rt 31 Clay, NY",
+        "coordinates": [-76.225958, 43.188289],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--74",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1044,13 +1117,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "834 Bennie Road Cortland, NY",
-      "coordinates": [-76.219701, 42.566328],
-      "type": "Point"
+    "location":
+    {
+        "address": "834 Bennie Road Cortland, NY",
+        "coordinates": [-76.219701, 42.566328],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--75",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1058,13 +1132,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "5350 Southwestern Blvd Hamburg, NY",
-      "coordinates": [-78.869974, 42.741788],
-      "type": "Point"
+    "location":
+    {
+        "address": "5350 Southwestern Blvd Hamburg, NY",
+        "coordinates": [-78.869974, 42.741788],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--76",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1072,13 +1147,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "358 N Broadway Hicksville, NY",
-      "coordinates": [-73.529509, 40.773218],
-      "type": "Point"
+    "location":
+    {
+        "address": "358 N Broadway Hicksville, NY",
+        "coordinates": [-73.529509, 40.773218],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--77",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1086,13 +1162,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1508 County Rt 64 Horseheads, NY",
-      "coordinates": [-76.857751, 42.160115],
-      "type": "Point"
+    "location":
+    {
+        "address": "1508 County Rt 64 Horseheads, NY",
+        "coordinates": [-76.857751, 42.160115],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--78",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1100,13 +1177,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "128 Harte Haven Plaza Massena, NY",
-      "coordinates": [-74.884489, 44.920868],
-      "type": "Point"
+    "location":
+    {
+        "address": "128 Harte Haven Plaza Massena, NY",
+        "coordinates": [-74.884489, 44.920868],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--79",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1114,13 +1192,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1620 Military Road Niagara Falls, NY",
-      "coordinates": [-78.976828, 43.096859],
-      "type": "Point"
+    "location":
+    {
+        "address": "1620 Military Road Niagara Falls, NY",
+        "coordinates": [-78.976828, 43.096859],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--80",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1128,13 +1207,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "400 N Union Street Olean, NY",
-      "coordinates": [-78.426771, 42.082542],
-      "type": "Point"
+    "location":
+    {
+        "address": "400 N Union Street Olean, NY",
+        "coordinates": [-78.426771, 42.082542],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--81",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1142,13 +1222,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "3445 Amelia Dr Orchard Park, NY",
-      "coordinates": [-78.782181, 42.789685],
-      "type": "Point"
+    "location":
+    {
+        "address": "3445 Amelia Dr Orchard Park, NY",
+        "coordinates": [-78.782181, 42.789685],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--82",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1156,13 +1237,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "60 Smithfield Blvd Plattsburgh, NY",
-      "coordinates": [-73.491645, 44.702243],
-      "type": "Point"
+    "location":
+    {
+        "address": "60 Smithfield Blvd Plattsburgh, NY",
+        "coordinates": [-73.491645, 44.702243],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--83",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1170,13 +1252,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "3065 Rt 50 Saratoga Springs, NY",
-      "coordinates": [-73.739163, 43.101561],
-      "type": "Point"
+    "location":
+    {
+        "address": "3065 Rt 50 Saratoga Springs, NY",
+        "coordinates": [-73.739163, 43.101561],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--84",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1184,13 +1267,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "100 Main Street White Plains, NY",
-      "coordinates": [-73.769918, 41.031687],
-      "type": "Point"
+    "location":
+    {
+        "address": "100 Main Street White Plains, NY",
+        "coordinates": [-73.769918, 41.031687],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--85",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1198,13 +1282,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Steele Creek, NC",
-      "coordinates": [-81.020253, 35.134005],
-      "type": "Point"
+    "location":
+    {
+        "address": "Steele Creek, NC",
+        "coordinates": [-81.020253, 35.134005],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--86",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1212,13 +1297,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "Albemarle, N",
-      "coordinates": [-80.200058, 35.350143],
-      "type": "Point"
+    "location":
+    {
+        "address": "Albemarle, N",
+        "coordinates": [-80.200058, 35.350143],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--87",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1226,13 +1312,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "223 Calhoun Street Cincinnati, OH",
-      "coordinates": [-84.515662, 39.128055],
-      "type": "Point"
+    "location":
+    {
+        "address": "223 Calhoun Street Cincinnati, OH",
+        "coordinates": [-84.515662, 39.128055],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--88",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1240,13 +1327,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "6831 Alexandria Pike Alexandria, OH",
-      "coordinates": [-84.401716, 38.985932],
-      "type": "Point"
+    "location":
+    {
+        "address": "6831 Alexandria Pike Alexandria, OH",
+        "coordinates": [-84.401716, 38.985932],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--89",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1254,13 +1342,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "3425 Princeton Road Hamilton, OH",
-      "coordinates": [-84.501145, 39.389635],
-      "type": "Point"
+    "location":
+    {
+        "address": "3425 Princeton Road Hamilton, OH",
+        "coordinates": [-84.501145, 39.389635],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--90",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1268,13 +1357,14 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "1414 Fording Island Rd Bluffton, SC 29910",
-      "coordinates": [-80.820463, 32.239108],
-      "type": "Point"
+    "location":
+    {
+        "address": "1414 Fording Island Rd Bluffton, SC 29910",
+        "coordinates": [-80.820463, 32.239108],
+        "type": "Point"
     }
-  },
-  {
+},
+{
     "slug": "rue21--91",
     "name": "Rue21",
     "description": "Rue21 offers girls and boys fashion trends",
@@ -1282,10 +1372,10 @@
     "photo": "",
     "tags": ["Rue21", "Closed"],
     "created": "2017-03-08T17:04:19.860Z",
-    "location": {
-      "address": "330 Robert Smalls Parkway Beaufort, SC 29906",
-      "coordinates": [-80.731901, 32.425728],
-      "type": "Point"
+    "location":
+    {
+        "address": "330 Robert Smalls Parkway Beaufort, SC 29906",
+        "coordinates": [-80.731901, 32.425728],
+        "type": "Point"
     }
-  }
-]
+}]
